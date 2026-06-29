@@ -1,0 +1,2580 @@
+{
+  "version": "2.0",
+  "facts": [
+    {
+      "id": "fact_001",
+      "title": "Skeletal system overview: bones, bone structure, skeleton map",
+      "body": "bones provide structure and leverage; bone tissue remodels with load",
+      "conceptIds": [
+        "full-body"
+      ],
+      "imageIds": [
+        "img_001"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 14,
+        "bookPage": 12
+      },
+      "tags": [
+        "bone-tissue-remodels-with-load",
+        "bones-provide-structure-and-leverage",
+        "full-body",
+        "joint-position-affects-force-production",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_002",
+      "title": "Skeletal system overview: bones, bone structure, skeleton map",
+      "body": "bones provide structure and leverage; bone tissue remodels with load",
+      "conceptIds": [
+        "skeletal_joints"
+      ],
+      "imageIds": [
+        "img_002"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 14,
+        "bookPage": 12
+      },
+      "tags": [
+        "bone-tissue-remodels-with-load",
+        "bones-provide-structure-and-leverage",
+        "joint-position-affects-force-production",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_003",
+      "title": "Skeletal system overview: bones, bone structure, skeleton map",
+      "body": "bones provide structure and leverage; bone tissue remodels with load",
+      "conceptIds": [
+        "skeletal_joints"
+      ],
+      "imageIds": [
+        "img_003"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 14,
+        "bookPage": 12
+      },
+      "tags": [
+        "bone-tissue-remodels-with-load",
+        "bones",
+        "bones-provide-structure-and-leverage",
+        "joint-position-affects-force-production",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_004",
+      "title": "Skeletal system overview: bones, bone structure, skeleton map",
+      "body": "bones provide structure and leverage; bone tissue remodels with load",
+      "conceptIds": [
+        "spine_core"
+      ],
+      "imageIds": [
+        "img_004"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 14,
+        "bookPage": 12
+      },
+      "tags": [
+        "bone-tissue-remodels-with-load",
+        "bones-provide-structure-and-leverage",
+        "joint-position-affects-force-production",
+        "posture",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_005",
+      "title": "Posterior skeleton, cartilage, ligaments",
+      "body": "ligaments stabilize joints; cartilage reduces friction",
+      "conceptIds": [
+        "full-body"
+      ],
+      "imageIds": [
+        "img_005"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 15,
+        "bookPage": 13
+      },
+      "tags": [
+        "cartilage-reduces-friction",
+        "full-body",
+        "ligaments-stabilize-joints",
+        "posterior-landmarks-help-map-exercise-positions",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_006",
+      "title": "Posterior skeleton, cartilage, ligaments",
+      "body": "ligaments stabilize joints; cartilage reduces friction",
+      "conceptIds": [
+        "skeletal_joints"
+      ],
+      "imageIds": [
+        "img_006"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 15,
+        "bookPage": 13
+      },
+      "tags": [
+        "cartilage-reduces-friction",
+        "ligaments-stabilize-joints",
+        "posterior-landmarks-help-map-exercise-positions",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_007",
+      "title": "Posterior skeleton, cartilage, ligaments",
+      "body": "ligaments stabilize joints; cartilage reduces friction",
+      "conceptIds": [
+        "shoulders",
+        "skeletal_joints"
+      ],
+      "imageIds": [
+        "img_007"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 15,
+        "bookPage": 13
+      },
+      "tags": [
+        "cartilage-reduces-friction",
+        "ligaments",
+        "ligaments-stabilize-joints",
+        "posterior-landmarks-help-map-exercise-positions",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_008",
+      "title": "Posterior skeleton, cartilage, ligaments",
+      "body": "ligaments stabilize joints; cartilage reduces friction",
+      "conceptIds": [
+        "back_lats",
+        "chest",
+        "shoulders",
+        "triceps"
+      ],
+      "imageIds": [
+        "img_008"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 15,
+        "bookPage": 13
+      },
+      "tags": [
+        "cartilage-reduces-friction",
+        "ligaments-stabilize-joints",
+        "posterior-landmarks-help-map-exercise-positions",
+        "shoulders",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_009",
+      "title": "Posterior skeleton, cartilage, ligaments",
+      "body": "ligaments stabilize joints; cartilage reduces friction",
+      "conceptIds": [
+        "glutes",
+        "adductors"
+      ],
+      "imageIds": [
+        "img_009"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 15,
+        "bookPage": 13
+      },
+      "tags": [
+        "cartilage-reduces-friction",
+        "hips",
+        "ligaments-stabilize-joints",
+        "posterior-landmarks-help-map-exercise-positions",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_010",
+      "title": "Posterior skeleton, cartilage, ligaments",
+      "body": "ligaments stabilize joints; cartilage reduces friction",
+      "conceptIds": [
+        "quadriceps"
+      ],
+      "imageIds": [
+        "img_010"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 15,
+        "bookPage": 13
+      },
+      "tags": [
+        "cartilage-reduces-friction",
+        "knees",
+        "ligaments-stabilize-joints",
+        "posterior-landmarks-help-map-exercise-positions",
+        "skeletal-system"
+      ]
+    },
+    {
+      "id": "fact_011",
+      "title": "Spine curves and vertebrae",
+      "body": "neutral spine is a natural curve, not flat; cervical thoracic and lumbar regions differ",
+      "conceptIds": [
+        "spine_core"
+      ],
+      "imageIds": [
+        "img_011"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 16,
+        "bookPage": 14
+      },
+      "tags": [
+        "bracing-protects-spinal-position-under-load",
+        "cervical-thoracic-and-lumbar-regions-differ",
+        "neutral-spine-is-a-natural-curve",
+        "not-flat",
+        "spine",
+        "spine-core"
+      ]
+    },
+    {
+      "id": "fact_012",
+      "title": "Spine curves and vertebrae",
+      "body": "neutral spine is a natural curve, not flat; cervical thoracic and lumbar regions differ",
+      "conceptIds": [
+        "spine_core",
+        "back_lats"
+      ],
+      "imageIds": [
+        "img_012"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 16,
+        "bookPage": 14
+      },
+      "tags": [
+        "back",
+        "bracing-protects-spinal-position-under-load",
+        "cervical-thoracic-and-lumbar-regions-differ",
+        "neutral-spine-is-a-natural-curve",
+        "not-flat",
+        "spine-core"
+      ]
+    },
+    {
+      "id": "fact_013",
+      "title": "Spine curves and vertebrae",
+      "body": "neutral spine is a natural curve, not flat; cervical thoracic and lumbar regions differ",
+      "conceptIds": [
+        "spine_core"
+      ],
+      "imageIds": [
+        "img_013"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 16,
+        "bookPage": 14
+      },
+      "tags": [
+        "bracing-protects-spinal-position-under-load",
+        "cervical-thoracic-and-lumbar-regions-differ",
+        "core",
+        "neutral-spine-is-a-natural-curve",
+        "not-flat",
+        "spine-core"
+      ]
+    },
+    {
+      "id": "fact_014",
+      "title": "Spine curves and vertebrae",
+      "body": "neutral spine is a natural curve, not flat; cervical thoracic and lumbar regions differ",
+      "conceptIds": [
+        "spine_core"
+      ],
+      "imageIds": [
+        "img_014"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 16,
+        "bookPage": 14
+      },
+      "tags": [
+        "bracing-protects-spinal-position-under-load",
+        "cervical-thoracic-and-lumbar-regions-differ",
+        "neutral-spine-is-a-natural-curve",
+        "not-flat",
+        "posture",
+        "spine-core"
+      ]
+    },
+    {
+      "id": "fact_015",
+      "title": "Pelvis structure and neutral pelvis",
+      "body": "pelvic tilt changes hip mechanics; neutral pelvis affects squat and hinge positions",
+      "conceptIds": [
+        "glutes"
+      ],
+      "imageIds": [
+        "img_015"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 17,
+        "bookPage": 15
+      },
+      "tags": [
+        "glutes",
+        "hip-socket-orientation-influences-range-of-motion",
+        "hips-pelvis",
+        "neutral-pelvis-affects-squat-and-hinge-positions",
+        "pelvic-tilt-changes-hip-mechanics"
+      ]
+    },
+    {
+      "id": "fact_016",
+      "title": "Pelvis structure and neutral pelvis",
+      "body": "pelvic tilt changes hip mechanics; neutral pelvis affects squat and hinge positions",
+      "conceptIds": [
+        "hip-flexors"
+      ],
+      "imageIds": [
+        "img_016"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 17,
+        "bookPage": 15
+      },
+      "tags": [
+        "hip-flexors",
+        "hip-socket-orientation-influences-range-of-motion",
+        "hips-pelvis",
+        "neutral-pelvis-affects-squat-and-hinge-positions",
+        "pelvic-tilt-changes-hip-mechanics"
+      ]
+    },
+    {
+      "id": "fact_017",
+      "title": "Pelvis structure and neutral pelvis",
+      "body": "pelvic tilt changes hip mechanics; neutral pelvis affects squat and hinge positions",
+      "conceptIds": [
+        "adductors"
+      ],
+      "imageIds": [
+        "img_017"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 17,
+        "bookPage": 15
+      },
+      "tags": [
+        "adductors",
+        "hip-socket-orientation-influences-range-of-motion",
+        "hips-pelvis",
+        "neutral-pelvis-affects-squat-and-hinge-positions",
+        "pelvic-tilt-changes-hip-mechanics"
+      ]
+    },
+    {
+      "id": "fact_018",
+      "title": "Pelvis structure and neutral pelvis",
+      "body": "pelvic tilt changes hip mechanics; neutral pelvis affects squat and hinge positions",
+      "conceptIds": [
+        "glutes"
+      ],
+      "imageIds": [
+        "img_018"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 17,
+        "bookPage": 15
+      },
+      "tags": [
+        "hip-socket-orientation-influences-range-of-motion",
+        "hips-pelvis",
+        "neutral-pelvis-affects-squat-and-hinge-positions",
+        "pelvic-tilt-changes-hip-mechanics",
+        "pelvis"
+      ]
+    },
+    {
+      "id": "fact_019",
+      "title": "Pelvis structure and neutral pelvis",
+      "body": "pelvic tilt changes hip mechanics; neutral pelvis affects squat and hinge positions",
+      "conceptIds": [
+        "spine_core"
+      ],
+      "imageIds": [
+        "img_019"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 17,
+        "bookPage": 15
+      },
+      "tags": [
+        "core",
+        "hip-socket-orientation-influences-range-of-motion",
+        "hips-pelvis",
+        "neutral-pelvis-affects-squat-and-hinge-positions",
+        "pelvic-tilt-changes-hip-mechanics"
+      ]
+    },
+    {
+      "id": "fact_020",
+      "title": "Joint actions and synovial joints",
+      "body": "flexion extension abduction and rotation are exercise vocabulary; synovial joints allow large controlled movement",
+      "conceptIds": [
+        "back_lats",
+        "chest",
+        "shoulders",
+        "triceps"
+      ],
+      "imageIds": [
+        "img_020"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 18,
+        "bookPage": 16
+      },
+      "tags": [
+        "flexion-extension-abduction-and-rotation-are-exercise-vocabulary",
+        "joint-range-determines-safe-exercise-range",
+        "joints",
+        "shoulders",
+        "synovial-joints-allow-large-controlled-movement"
+      ]
+    },
+    {
+      "id": "fact_021",
+      "title": "Joint actions and synovial joints",
+      "body": "flexion extension abduction and rotation are exercise vocabulary; synovial joints allow large controlled movement",
+      "conceptIds": [
+        "glutes",
+        "adductors"
+      ],
+      "imageIds": [
+        "img_021"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 18,
+        "bookPage": 16
+      },
+      "tags": [
+        "flexion-extension-abduction-and-rotation-are-exercise-vocabulary",
+        "hips",
+        "joint-range-determines-safe-exercise-range",
+        "joints",
+        "synovial-joints-allow-large-controlled-movement"
+      ]
+    },
+    {
+      "id": "fact_022",
+      "title": "Joint actions and synovial joints",
+      "body": "flexion extension abduction and rotation are exercise vocabulary; synovial joints allow large controlled movement",
+      "conceptIds": [
+        "quadriceps"
+      ],
+      "imageIds": [
+        "img_022"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 18,
+        "bookPage": 16
+      },
+      "tags": [
+        "flexion-extension-abduction-and-rotation-are-exercise-vocabulary",
+        "joint-range-determines-safe-exercise-range",
+        "joints",
+        "knees",
+        "synovial-joints-allow-large-controlled-movement"
+      ]
+    },
+    {
+      "id": "fact_023",
+      "title": "Joint actions and synovial joints",
+      "body": "flexion extension abduction and rotation are exercise vocabulary; synovial joints allow large controlled movement",
+      "conceptIds": [
+        "biceps",
+        "triceps",
+        "forearms_wrists"
+      ],
+      "imageIds": [
+        "img_023"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 18,
+        "bookPage": 16
+      },
+      "tags": [
+        "elbows",
+        "flexion-extension-abduction-and-rotation-are-exercise-vocabulary",
+        "joint-range-determines-safe-exercise-range",
+        "joints",
+        "synovial-joints-allow-large-controlled-movement"
+      ]
+    },
+    {
+      "id": "fact_024",
+      "title": "Joint actions and synovial joints",
+      "body": "flexion extension abduction and rotation are exercise vocabulary; synovial joints allow large controlled movement",
+      "conceptIds": [
+        "forearms_wrists"
+      ],
+      "imageIds": [
+        "img_024"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 18,
+        "bookPage": 16
+      },
+      "tags": [
+        "flexion-extension-abduction-and-rotation-are-exercise-vocabulary",
+        "joint-range-determines-safe-exercise-range",
+        "joints",
+        "synovial-joints-allow-large-controlled-movement",
+        "wrists"
+      ]
+    },
+    {
+      "id": "fact_025",
+      "title": "Joint actions and synovial joints",
+      "body": "flexion extension abduction and rotation are exercise vocabulary; synovial joints allow large controlled movement",
+      "conceptIds": [
+        "shoulders",
+        "skeletal_joints"
+      ],
+      "imageIds": [
+        "img_025"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 18,
+        "bookPage": 16
+      },
+      "tags": [
+        "flexion-extension-abduction-and-rotation-are-exercise-vocabulary",
+        "joint-range-determines-safe-exercise-range",
+        "joints",
+        "synovial-joints-allow-large-controlled-movement"
+      ]
+    },
+    {
+      "id": "fact_026",
+      "title": "Joint actions in poses and arthritis progression",
+      "body": "joint surfaces tolerate load best with control; arthritis changes cartilage and joint space",
+      "conceptIds": [
+        "shoulders",
+        "skeletal_joints"
+      ],
+      "imageIds": [
+        "img_026"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 19,
+        "bookPage": 17
+      },
+      "tags": [
+        "arthritis-changes-cartilage-and-joint-space",
+        "joint-surfaces-tolerate-load-best-with-control",
+        "joints",
+        "range-should-be-adapted-to-pain-and-tolerance"
+      ]
+    },
+    {
+      "id": "fact_027",
+      "title": "Joint actions in poses and arthritis progression",
+      "body": "joint surfaces tolerate load best with control; arthritis changes cartilage and joint space",
+      "conceptIds": [
+        "quadriceps"
+      ],
+      "imageIds": [
+        "img_027"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 19,
+        "bookPage": 17
+      },
+      "tags": [
+        "arthritis-changes-cartilage-and-joint-space",
+        "joint-surfaces-tolerate-load-best-with-control",
+        "joints",
+        "knees",
+        "range-should-be-adapted-to-pain-and-tolerance"
+      ]
+    },
+    {
+      "id": "fact_028",
+      "title": "Joint actions in poses and arthritis progression",
+      "body": "joint surfaces tolerate load best with control; arthritis changes cartilage and joint space",
+      "conceptIds": [
+        "glutes",
+        "adductors"
+      ],
+      "imageIds": [
+        "img_028"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 19,
+        "bookPage": 17
+      },
+      "tags": [
+        "arthritis-changes-cartilage-and-joint-space",
+        "hips",
+        "joint-surfaces-tolerate-load-best-with-control",
+        "joints",
+        "range-should-be-adapted-to-pain-and-tolerance"
+      ]
+    },
+    {
+      "id": "fact_029",
+      "title": "Joint actions in poses and arthritis progression",
+      "body": "joint surfaces tolerate load best with control; arthritis changes cartilage and joint space",
+      "conceptIds": [
+        "spine_core"
+      ],
+      "imageIds": [
+        "img_029"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 19,
+        "bookPage": 17
+      },
+      "tags": [
+        "arthritis-changes-cartilage-and-joint-space",
+        "joint-surfaces-tolerate-load-best-with-control",
+        "joints",
+        "range-should-be-adapted-to-pain-and-tolerance",
+        "spine"
+      ]
+    },
+    {
+      "id": "fact_030",
+      "title": "Joint actions in poses and arthritis progression",
+      "body": "joint surfaces tolerate load best with control; arthritis changes cartilage and joint space",
+      "conceptIds": [
+        "back_lats",
+        "chest",
+        "shoulders",
+        "triceps"
+      ],
+      "imageIds": [
+        "img_030"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 19,
+        "bookPage": 17
+      },
+      "tags": [
+        "arthritis-changes-cartilage-and-joint-space",
+        "joint-surfaces-tolerate-load-best-with-control",
+        "joints",
+        "range-should-be-adapted-to-pain-and-tolerance",
+        "shoulders"
+      ]
+    },
+    {
+      "id": "fact_031",
+      "title": "Muscular system anterior overview",
+      "body": "skeletal muscle moves joints; quads extend the knee",
+      "conceptIds": [
+        "chest"
+      ],
+      "imageIds": [
+        "img_031"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 20,
+        "bookPage": 18
+      },
+      "tags": [
+        "adductors-and-hip-flexors-contribute-to-lower-body-mechanics",
+        "chest",
+        "muscles-anterior",
+        "quads-extend-the-knee",
+        "skeletal-muscle-moves-joints"
+      ]
+    },
+    {
+      "id": "fact_032",
+      "title": "Muscular system anterior overview",
+      "body": "skeletal muscle moves joints; quads extend the knee",
+      "conceptIds": [
+        "biceps",
+        "triceps",
+        "forearms_wrists"
+      ],
+      "imageIds": [
+        "img_032"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 20,
+        "bookPage": 18
+      },
+      "tags": [
+        "adductors-and-hip-flexors-contribute-to-lower-body-mechanics",
+        "arms",
+        "muscles-anterior",
+        "quads-extend-the-knee",
+        "skeletal-muscle-moves-joints"
+      ]
+    },
+    {
+      "id": "fact_033",
+      "title": "Muscular system anterior overview",
+      "body": "skeletal muscle moves joints; quads extend the knee",
+      "conceptIds": [
+        "quadriceps"
+      ],
+      "imageIds": [
+        "img_033"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 20,
+        "bookPage": 18
+      },
+      "tags": [
+        "adductors-and-hip-flexors-contribute-to-lower-body-mechanics",
+        "muscles-anterior",
+        "quads",
+        "quads-extend-the-knee",
+        "skeletal-muscle-moves-joints"
+      ]
+    },
+    {
+      "id": "fact_034",
+      "title": "Muscular system anterior overview",
+      "body": "skeletal muscle moves joints; quads extend the knee",
+      "conceptIds": [
+        "adductors"
+      ],
+      "imageIds": [
+        "img_034"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 20,
+        "bookPage": 18
+      },
+      "tags": [
+        "adductors",
+        "adductors-and-hip-flexors-contribute-to-lower-body-mechanics",
+        "muscles-anterior",
+        "quads-extend-the-knee",
+        "skeletal-muscle-moves-joints"
+      ]
+    },
+    {
+      "id": "fact_035",
+      "title": "Muscular system anterior overview",
+      "body": "skeletal muscle moves joints; quads extend the knee",
+      "conceptIds": [
+        "hip-flexors"
+      ],
+      "imageIds": [
+        "img_035"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 20,
+        "bookPage": 18
+      },
+      "tags": [
+        "adductors-and-hip-flexors-contribute-to-lower-body-mechanics",
+        "hip-flexors",
+        "muscles-anterior",
+        "quads-extend-the-knee",
+        "skeletal-muscle-moves-joints"
+      ]
+    },
+    {
+      "id": "fact_036",
+      "title": "Muscular system anterior overview",
+      "body": "skeletal muscle moves joints; quads extend the knee",
+      "conceptIds": [
+        "calves"
+      ],
+      "imageIds": [
+        "img_036"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 20,
+        "bookPage": 18
+      },
+      "tags": [
+        "adductors-and-hip-flexors-contribute-to-lower-body-mechanics",
+        "calves",
+        "muscles-anterior",
+        "quads-extend-the-knee",
+        "skeletal-muscle-moves-joints"
+      ]
+    },
+    {
+      "id": "fact_037",
+      "title": "Muscular system anterior overview",
+      "body": "skeletal muscle moves joints; quads extend the knee",
+      "conceptIds": [
+        "spine_core"
+      ],
+      "imageIds": [
+        "img_037"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 20,
+        "bookPage": 18
+      },
+      "tags": [
+        "adductors-and-hip-flexors-contribute-to-lower-body-mechanics",
+        "core",
+        "muscles-anterior",
+        "quads-extend-the-knee",
+        "skeletal-muscle-moves-joints"
+      ]
+    },
+    {
+      "id": "fact_038",
+      "title": "Muscular system posterior overview",
+      "body": "posterior chain links spine hips and legs; glutes extend the hip",
+      "conceptIds": [
+        "spine_core",
+        "back_lats"
+      ],
+      "imageIds": [
+        "img_038"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 21,
+        "bookPage": 19
+      },
+      "tags": [
+        "back",
+        "glutes-extend-the-hip",
+        "hamstrings-cross-hip-and-knee",
+        "muscles-posterior",
+        "posterior-chain-links-spine-hips-and-legs"
+      ]
+    },
+    {
+      "id": "fact_039",
+      "title": "Muscular system posterior overview",
+      "body": "posterior chain links spine hips and legs; glutes extend the hip",
+      "conceptIds": [
+        "back_lats",
+        "chest",
+        "shoulders",
+        "triceps"
+      ],
+      "imageIds": [
+        "img_039"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 21,
+        "bookPage": 19
+      },
+      "tags": [
+        "glutes-extend-the-hip",
+        "hamstrings-cross-hip-and-knee",
+        "muscles-posterior",
+        "posterior-chain-links-spine-hips-and-legs",
+        "shoulders"
+      ]
+    },
+    {
+      "id": "fact_040",
+      "title": "Muscular system posterior overview",
+      "body": "posterior chain links spine hips and legs; glutes extend the hip",
+      "conceptIds": [
+        "glutes"
+      ],
+      "imageIds": [
+        "img_040"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 21,
+        "bookPage": 19
+      },
+      "tags": [
+        "glutes",
+        "glutes-extend-the-hip",
+        "hamstrings-cross-hip-and-knee",
+        "muscles-posterior",
+        "posterior-chain-links-spine-hips-and-legs"
+      ]
+    },
+    {
+      "id": "fact_041",
+      "title": "Muscular system posterior overview",
+      "body": "posterior chain links spine hips and legs; glutes extend the hip",
+      "conceptIds": [
+        "hamstrings"
+      ],
+      "imageIds": [
+        "img_041"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 21,
+        "bookPage": 19
+      },
+      "tags": [
+        "glutes-extend-the-hip",
+        "hamstrings",
+        "hamstrings-cross-hip-and-knee",
+        "muscles-posterior",
+        "posterior-chain-links-spine-hips-and-legs"
+      ]
+    },
+    {
+      "id": "fact_042",
+      "title": "Muscular system posterior overview",
+      "body": "posterior chain links spine hips and legs; glutes extend the hip",
+      "conceptIds": [
+        "calves"
+      ],
+      "imageIds": [
+        "img_042"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 21,
+        "bookPage": 19
+      },
+      "tags": [
+        "calves",
+        "glutes-extend-the-hip",
+        "hamstrings-cross-hip-and-knee",
+        "muscles-posterior",
+        "posterior-chain-links-spine-hips-and-legs"
+      ]
+    },
+    {
+      "id": "fact_043",
+      "title": "Muscular system posterior overview",
+      "body": "posterior chain links spine hips and legs; glutes extend the hip",
+      "conceptIds": [
+        "hamstrings"
+      ],
+      "imageIds": [
+        "img_043"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 21,
+        "bookPage": 19
+      },
+      "tags": [
+        "glutes-extend-the-hip",
+        "hamstrings-cross-hip-and-knee",
+        "muscles-posterior",
+        "posterior-chain",
+        "posterior-chain-links-spine-hips-and-legs"
+      ]
+    },
+    {
+      "id": "fact_044",
+      "title": "Muscle structure and how muscles work",
+      "body": "muscles shorten through sarcomere contraction; antagonists relax as agonists contract",
+      "conceptIds": [
+        "muscle-contraction"
+      ],
+      "imageIds": [
+        "img_044"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 22,
+        "bookPage": 20
+      },
+      "tags": [
+        "antagonists-relax-as-agonists-contract",
+        "eccentric-contraction-controls-lowering",
+        "muscle-contraction",
+        "muscles-shorten-through-sarcomere-contraction"
+      ]
+    },
+    {
+      "id": "fact_045",
+      "title": "Muscle structure and how muscles work",
+      "body": "muscles shorten through sarcomere contraction; antagonists relax as agonists contract",
+      "conceptIds": [
+        "fascia"
+      ],
+      "imageIds": [
+        "img_045"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 22,
+        "bookPage": 20
+      },
+      "tags": [
+        "antagonists-relax-as-agonists-contract",
+        "eccentric-contraction-controls-lowering",
+        "fascia",
+        "muscle-contraction",
+        "muscles-shorten-through-sarcomere-contraction"
+      ]
+    },
+    {
+      "id": "fact_046",
+      "title": "Muscle structure and how muscles work",
+      "body": "muscles shorten through sarcomere contraction; antagonists relax as agonists contract",
+      "conceptIds": [
+        "biceps"
+      ],
+      "imageIds": [
+        "img_046"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 22,
+        "bookPage": 20
+      },
+      "tags": [
+        "antagonists-relax-as-agonists-contract",
+        "biceps",
+        "eccentric-contraction-controls-lowering",
+        "muscle-contraction",
+        "muscles-shorten-through-sarcomere-contraction"
+      ]
+    },
+    {
+      "id": "fact_047",
+      "title": "Muscle structure and how muscles work",
+      "body": "muscles shorten through sarcomere contraction; antagonists relax as agonists contract",
+      "conceptIds": [
+        "calves"
+      ],
+      "imageIds": [
+        "img_047"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 22,
+        "bookPage": 20
+      },
+      "tags": [
+        "antagonists-relax-as-agonists-contract",
+        "calves",
+        "eccentric-contraction-controls-lowering",
+        "muscle-contraction",
+        "muscles-shorten-through-sarcomere-contraction"
+      ]
+    },
+    {
+      "id": "fact_048",
+      "title": "Biceps contraction and muscle contraction detail",
+      "body": "biceps flex the elbow; concentric contraction shortens muscle fibers",
+      "conceptIds": [
+        "biceps",
+        "triceps",
+        "forearms_wrists"
+      ],
+      "imageIds": [
+        "img_048"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 23,
+        "bookPage": 21
+      },
+      "tags": [
+        "arms",
+        "arms-biceps",
+        "biceps-flex-the-elbow",
+        "concentric-contraction-shortens-muscle-fibers",
+        "movement-is-coordinated-by-opposing-muscle-groups"
+      ]
+    },
+    {
+      "id": "fact_049",
+      "title": "Biceps contraction and muscle contraction detail",
+      "body": "biceps flex the elbow; concentric contraction shortens muscle fibers",
+      "conceptIds": [
+        "biceps"
+      ],
+      "imageIds": [
+        "img_049"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 23,
+        "bookPage": 21
+      },
+      "tags": [
+        "arms-biceps",
+        "biceps",
+        "biceps-flex-the-elbow",
+        "concentric-contraction-shortens-muscle-fibers",
+        "movement-is-coordinated-by-opposing-muscle-groups"
+      ]
+    },
+    {
+      "id": "fact_050",
+      "title": "Biceps contraction and muscle contraction detail",
+      "body": "biceps flex the elbow; concentric contraction shortens muscle fibers",
+      "conceptIds": [
+        "biceps",
+        "triceps",
+        "forearms_wrists"
+      ],
+      "imageIds": [
+        "img_050"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 23,
+        "bookPage": 21
+      },
+      "tags": [
+        "arms-biceps",
+        "biceps-flex-the-elbow",
+        "concentric-contraction-shortens-muscle-fibers",
+        "elbows",
+        "movement-is-coordinated-by-opposing-muscle-groups"
+      ]
+    },
+    {
+      "id": "fact_051",
+      "title": "Biceps contraction and muscle contraction detail",
+      "body": "biceps flex the elbow; concentric contraction shortens muscle fibers",
+      "conceptIds": [
+        "muscle-contraction"
+      ],
+      "imageIds": [
+        "img_051"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 23,
+        "bookPage": 21
+      },
+      "tags": [
+        "arms-biceps",
+        "biceps-flex-the-elbow",
+        "concentric-contraction-shortens-muscle-fibers",
+        "movement-is-coordinated-by-opposing-muscle-groups",
+        "muscle-contraction"
+      ]
+    },
+    {
+      "id": "fact_052",
+      "title": "Nervous system overview",
+      "body": "nerves carry motor commands and sensory feedback; training depends on brain-body communication",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_052"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 24,
+        "bookPage": 22
+      },
+      "tags": [
+        "fatigue-is-partly-neural",
+        "nerves-carry-motor-commands-and-sensory-feedback",
+        "nervous-system",
+        "not-only-muscular",
+        "training-depends-on-brain-body-communication"
+      ]
+    },
+    {
+      "id": "fact_053",
+      "title": "Nervous system overview",
+      "body": "nerves carry motor commands and sensory feedback; training depends on brain-body communication",
+      "conceptIds": [
+        "nervous_motor",
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_053"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 24,
+        "bookPage": 22
+      },
+      "tags": [
+        "fatigue-is-partly-neural",
+        "nerves-carry-motor-commands-and-sensory-feedback",
+        "nervous-system",
+        "not-only-muscular",
+        "recovery",
+        "training-depends-on-brain-body-communication"
+      ]
+    },
+    {
+      "id": "fact_054",
+      "title": "Nervous system overview",
+      "body": "nerves carry motor commands and sensory feedback; training depends on brain-body communication",
+      "conceptIds": [
+        "nervous_motor"
+      ],
+      "imageIds": [
+        "img_054"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 24,
+        "bookPage": 22
+      },
+      "tags": [
+        "fatigue-is-partly-neural",
+        "full-body",
+        "nerves-carry-motor-commands-and-sensory-feedback",
+        "nervous-system",
+        "not-only-muscular",
+        "training-depends-on-brain-body-communication"
+      ]
+    },
+    {
+      "id": "fact_055",
+      "title": "Nerve structure and autonomic nervous system",
+      "body": "sympathetic state prepares effort; parasympathetic state supports recovery",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_055"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 25,
+        "bookPage": 23
+      },
+      "tags": [
+        "breathing-can-influence-autonomic-tone",
+        "nervous-system",
+        "parasympathetic-state-supports-recovery",
+        "sympathetic-state-prepares-effort"
+      ]
+    },
+    {
+      "id": "fact_056",
+      "title": "Nerve structure and autonomic nervous system",
+      "body": "sympathetic state prepares effort; parasympathetic state supports recovery",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_056"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 25,
+        "bookPage": 23
+      },
+      "tags": [
+        "breathing-can-influence-autonomic-tone",
+        "nervous-system",
+        "parasympathetic-state-supports-recovery",
+        "stress",
+        "sympathetic-state-prepares-effort"
+      ]
+    },
+    {
+      "id": "fact_057",
+      "title": "Nerve structure and autonomic nervous system",
+      "body": "sympathetic state prepares effort; parasympathetic state supports recovery",
+      "conceptIds": [
+        "nervous_motor",
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_057"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 25,
+        "bookPage": 23
+      },
+      "tags": [
+        "breathing-can-influence-autonomic-tone",
+        "nervous-system",
+        "parasympathetic-state-supports-recovery",
+        "recovery",
+        "sympathetic-state-prepares-effort"
+      ]
+    },
+    {
+      "id": "fact_058",
+      "title": "Cerebral cortex and inside the brain",
+      "body": "motor cortex helps coordinate movement; balance and body awareness depend on brain processing",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_058"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 26,
+        "bookPage": 24
+      },
+      "tags": [
+        "balance-and-body-awareness-depend-on-brain-processing",
+        "brain",
+        "motor-cortex-helps-coordinate-movement",
+        "nervous-system",
+        "skill-practice-changes-control"
+      ]
+    },
+    {
+      "id": "fact_059",
+      "title": "Cerebral cortex and inside the brain",
+      "body": "motor cortex helps coordinate movement; balance and body awareness depend on brain processing",
+      "conceptIds": [
+        "nervous_motor"
+      ],
+      "imageIds": [
+        "img_059"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 26,
+        "bookPage": 24
+      },
+      "tags": [
+        "balance-and-body-awareness-depend-on-brain-processing",
+        "brain",
+        "motor-cortex-helps-coordinate-movement",
+        "skill-practice-changes-control"
+      ]
+    },
+    {
+      "id": "fact_060",
+      "title": "Cerebral cortex and inside the brain",
+      "body": "motor cortex helps coordinate movement; balance and body awareness depend on brain processing",
+      "conceptIds": [
+        "nervous_motor"
+      ],
+      "imageIds": [
+        "img_060"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 26,
+        "bookPage": 24
+      },
+      "tags": [
+        "balance-and-body-awareness-depend-on-brain-processing",
+        "brain",
+        "motor-control",
+        "motor-cortex-helps-coordinate-movement",
+        "skill-practice-changes-control"
+      ]
+    },
+    {
+      "id": "fact_061",
+      "title": "Limbic system and effects on brain",
+      "body": "stress affects training state; reward and motivation influence adherence",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_061"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 27,
+        "bookPage": 25
+      },
+      "tags": [
+        "brain",
+        "calm-focus-can-improve-movement-quality",
+        "nervous-system",
+        "reward-and-motivation-influence-adherence",
+        "stress-affects-training-state"
+      ]
+    },
+    {
+      "id": "fact_062",
+      "title": "Limbic system and effects on brain",
+      "body": "stress affects training state; reward and motivation influence adherence",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_062"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 27,
+        "bookPage": 25
+      },
+      "tags": [
+        "brain",
+        "calm-focus-can-improve-movement-quality",
+        "reward-and-motivation-influence-adherence",
+        "stress",
+        "stress-affects-training-state"
+      ]
+    },
+    {
+      "id": "fact_063",
+      "title": "Limbic system and effects on brain",
+      "body": "stress affects training state; reward and motivation influence adherence",
+      "conceptIds": [
+        "nervous_motor"
+      ],
+      "imageIds": [
+        "img_063"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 27,
+        "bookPage": 25
+      },
+      "tags": [
+        "brain",
+        "calm-focus-can-improve-movement-quality",
+        "focus",
+        "reward-and-motivation-influence-adherence",
+        "stress-affects-training-state"
+      ]
+    },
+    {
+      "id": "fact_064",
+      "title": "Limbic system and effects on brain",
+      "body": "stress affects training state; reward and motivation influence adherence",
+      "conceptIds": [
+        "nervous_motor",
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_064"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 27,
+        "bookPage": 25
+      },
+      "tags": [
+        "brain",
+        "calm-focus-can-improve-movement-quality",
+        "recovery",
+        "reward-and-motivation-influence-adherence",
+        "stress-affects-training-state"
+      ]
+    },
+    {
+      "id": "fact_065",
+      "title": "Neural pathways and changing brain",
+      "body": "repeated practice strengthens pathways; new routines build new movement habits",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_065"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 28,
+        "bookPage": 26
+      },
+      "tags": [
+        "brain",
+        "motor-learning-improves-with-repetition",
+        "nervous-system",
+        "new-routines-build-new-movement-habits",
+        "repeated-practice-strengthens-pathways"
+      ]
+    },
+    {
+      "id": "fact_066",
+      "title": "Neural pathways and changing brain",
+      "body": "repeated practice strengthens pathways; new routines build new movement habits",
+      "conceptIds": [
+        "nervous_motor"
+      ],
+      "imageIds": [
+        "img_066"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 28,
+        "bookPage": 26
+      },
+      "tags": [
+        "brain",
+        "motor-learning",
+        "motor-learning-improves-with-repetition",
+        "new-routines-build-new-movement-habits",
+        "repeated-practice-strengthens-pathways"
+      ]
+    },
+    {
+      "id": "fact_067",
+      "title": "Neural pathways and changing brain",
+      "body": "repeated practice strengthens pathways; new routines build new movement habits",
+      "conceptIds": [
+        "nervous_motor"
+      ],
+      "imageIds": [
+        "img_067"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 28,
+        "bookPage": 26
+      },
+      "tags": [
+        "brain",
+        "habit",
+        "motor-learning-improves-with-repetition",
+        "new-routines-build-new-movement-habits",
+        "repeated-practice-strengthens-pathways"
+      ]
+    },
+    {
+      "id": "fact_068",
+      "title": "Neurogenesis and cortisol levels",
+      "body": "high stress can affect recovery; rest periods can be used for downshifting",
+      "conceptIds": [
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_068"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 29,
+        "bookPage": 27
+      },
+      "tags": [
+        "breathing-and-attention-can-change-arousal",
+        "high-stress-can-affect-recovery",
+        "rest-periods-can-be-used-for-downshifting",
+        "stress",
+        "stress-cortisol"
+      ]
+    },
+    {
+      "id": "fact_069",
+      "title": "Neurogenesis and cortisol levels",
+      "body": "high stress can affect recovery; rest periods can be used for downshifting",
+      "conceptIds": [
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_069"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 29,
+        "bookPage": 27
+      },
+      "tags": [
+        "breathing-and-attention-can-change-arousal",
+        "high-stress-can-affect-recovery",
+        "recovery",
+        "rest-periods-can-be-used-for-downshifting",
+        "stress-cortisol"
+      ]
+    },
+    {
+      "id": "fact_070",
+      "title": "Neurogenesis and cortisol levels",
+      "body": "high stress can affect recovery; rest periods can be used for downshifting",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_070"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 29,
+        "bookPage": 27
+      },
+      "tags": [
+        "breathing-and-attention-can-change-arousal",
+        "high-stress-can-affect-recovery",
+        "nervous-system",
+        "rest-periods-can-be-used-for-downshifting",
+        "stress-cortisol"
+      ]
+    },
+    {
+      "id": "fact_071",
+      "title": "Respiratory system overview",
+      "body": "the diaphragm drives breathing mechanics; rib position affects bracing",
+      "conceptIds": [
+        "breathing"
+      ],
+      "imageIds": [
+        "img_071"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 32,
+        "bookPage": 30
+      },
+      "tags": [
+        "breathing",
+        "controlled-breathing-helps-rest-intervals",
+        "respiratory-system",
+        "rib-position-affects-bracing",
+        "the-diaphragm-drives-breathing-mechanics"
+      ]
+    },
+    {
+      "id": "fact_072",
+      "title": "Respiratory system overview",
+      "body": "the diaphragm drives breathing mechanics; rib position affects bracing",
+      "conceptIds": [
+        "spine_core"
+      ],
+      "imageIds": [
+        "img_072"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 32,
+        "bookPage": 30
+      },
+      "tags": [
+        "controlled-breathing-helps-rest-intervals",
+        "core",
+        "respiratory-system",
+        "rib-position-affects-bracing",
+        "the-diaphragm-drives-breathing-mechanics"
+      ]
+    },
+    {
+      "id": "fact_073",
+      "title": "Respiratory system overview",
+      "body": "the diaphragm drives breathing mechanics; rib position affects bracing",
+      "conceptIds": [
+        "breathing"
+      ],
+      "imageIds": [
+        "img_073"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 32,
+        "bookPage": 30
+      },
+      "tags": [
+        "controlled-breathing-helps-rest-intervals",
+        "respiratory-system",
+        "rib-position-affects-bracing",
+        "ribs",
+        "the-diaphragm-drives-breathing-mechanics"
+      ]
+    },
+    {
+      "id": "fact_074",
+      "title": "Respiratory system overview",
+      "body": "the diaphragm drives breathing mechanics; rib position affects bracing",
+      "conceptIds": [
+        "breathing"
+      ],
+      "imageIds": [
+        "img_074"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 32,
+        "bookPage": 30
+      },
+      "tags": [
+        "controlled-breathing-helps-rest-intervals",
+        "diaphragm",
+        "respiratory-system",
+        "rib-position-affects-bracing",
+        "the-diaphragm-drives-breathing-mechanics"
+      ]
+    },
+    {
+      "id": "fact_075",
+      "title": "How we breathe",
+      "body": "inhalation expands ribs and lowers diaphragm; exhalation recoils the ribs and diaphragm",
+      "conceptIds": [
+        "breathing"
+      ],
+      "imageIds": [
+        "img_075"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 33,
+        "bookPage": 31
+      },
+      "tags": [
+        "breath-control-supports-bracing-and-relaxation",
+        "breathing",
+        "exhalation-recoils-the-ribs-and-diaphragm",
+        "inhalation-expands-ribs-and-lowers-diaphragm"
+      ]
+    },
+    {
+      "id": "fact_076",
+      "title": "How we breathe",
+      "body": "inhalation expands ribs and lowers diaphragm; exhalation recoils the ribs and diaphragm",
+      "conceptIds": [
+        "breathing"
+      ],
+      "imageIds": [
+        "img_076"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 33,
+        "bookPage": 31
+      },
+      "tags": [
+        "breath-control-supports-bracing-and-relaxation",
+        "breathing",
+        "diaphragm",
+        "exhalation-recoils-the-ribs-and-diaphragm",
+        "inhalation-expands-ribs-and-lowers-diaphragm"
+      ]
+    },
+    {
+      "id": "fact_077",
+      "title": "How we breathe",
+      "body": "inhalation expands ribs and lowers diaphragm; exhalation recoils the ribs and diaphragm",
+      "conceptIds": [
+        "spine_core",
+        "breathing"
+      ],
+      "imageIds": [
+        "img_077"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 33,
+        "bookPage": 31
+      },
+      "tags": [
+        "breath-control-supports-bracing-and-relaxation",
+        "breathing",
+        "core",
+        "exhalation-recoils-the-ribs-and-diaphragm",
+        "inhalation-expands-ribs-and-lowers-diaphragm"
+      ]
+    },
+    {
+      "id": "fact_078",
+      "title": "How we breathe",
+      "body": "inhalation expands ribs and lowers diaphragm; exhalation recoils the ribs and diaphragm",
+      "conceptIds": [
+        "breathing"
+      ],
+      "imageIds": [
+        "img_078"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 33,
+        "bookPage": 31
+      },
+      "tags": [
+        "breath-control-supports-bracing-and-relaxation",
+        "breathing",
+        "exhalation-recoils-the-ribs-and-diaphragm",
+        "inhalation-expands-ribs-and-lowers-diaphragm",
+        "ribs"
+      ]
+    },
+    {
+      "id": "fact_079",
+      "title": "Pranayama and breathwork practices",
+      "body": "slow breathing can calm the system; forced breathing changes abdominal pressure",
+      "conceptIds": [
+        "breathing"
+      ],
+      "imageIds": [
+        "img_079"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 34,
+        "bookPage": 32
+      },
+      "tags": [
+        "breath-practices-can-fit-rest-timers",
+        "breathing",
+        "breathwork",
+        "forced-breathing-changes-abdominal-pressure",
+        "slow-breathing-can-calm-the-system"
+      ]
+    },
+    {
+      "id": "fact_080",
+      "title": "Pranayama and breathwork practices",
+      "body": "slow breathing can calm the system; forced breathing changes abdominal pressure",
+      "conceptIds": [
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_080"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 34,
+        "bookPage": 32
+      },
+      "tags": [
+        "breath-practices-can-fit-rest-timers",
+        "breathwork",
+        "forced-breathing-changes-abdominal-pressure",
+        "recovery",
+        "slow-breathing-can-calm-the-system"
+      ]
+    },
+    {
+      "id": "fact_081",
+      "title": "Pranayama and breathwork practices",
+      "body": "slow breathing can calm the system; forced breathing changes abdominal pressure",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_081"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 34,
+        "bookPage": 32
+      },
+      "tags": [
+        "breath-practices-can-fit-rest-timers",
+        "breathwork",
+        "forced-breathing-changes-abdominal-pressure",
+        "heart-rate",
+        "slow-breathing-can-calm-the-system"
+      ]
+    },
+    {
+      "id": "fact_082",
+      "title": "Pranayama and breathwork practices",
+      "body": "slow breathing can calm the system; forced breathing changes abdominal pressure",
+      "conceptIds": [
+        "nervous_motor",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_082"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 34,
+        "bookPage": 32
+      },
+      "tags": [
+        "breath-practices-can-fit-rest-timers",
+        "breathwork",
+        "forced-breathing-changes-abdominal-pressure",
+        "nervous-system",
+        "slow-breathing-can-calm-the-system"
+      ]
+    },
+    {
+      "id": "fact_083",
+      "title": "Nasal cycle and breathing practices",
+      "body": "nasal breathing changes airflow resistance; breath rhythm can regulate attention",
+      "conceptIds": [
+        "breathing"
+      ],
+      "imageIds": [
+        "img_083"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 35,
+        "bookPage": 33
+      },
+      "tags": [
+        "breath-rhythm-can-regulate-attention",
+        "breathing",
+        "breathwork",
+        "nasal-breathing-changes-airflow-resistance",
+        "rest-windows-can-cue-calmer-breathing"
+      ]
+    },
+    {
+      "id": "fact_084",
+      "title": "Nasal cycle and breathing practices",
+      "body": "nasal breathing changes airflow resistance; breath rhythm can regulate attention",
+      "conceptIds": [
+        "nervous_motor"
+      ],
+      "imageIds": [
+        "img_084"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 35,
+        "bookPage": 33
+      },
+      "tags": [
+        "breath-rhythm-can-regulate-attention",
+        "breathwork",
+        "focus",
+        "nasal-breathing-changes-airflow-resistance",
+        "rest-windows-can-cue-calmer-breathing"
+      ]
+    },
+    {
+      "id": "fact_085",
+      "title": "Nasal cycle and breathing practices",
+      "body": "nasal breathing changes airflow resistance; breath rhythm can regulate attention",
+      "conceptIds": [
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_085"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 35,
+        "bookPage": 33
+      },
+      "tags": [
+        "breath-rhythm-can-regulate-attention",
+        "breathwork",
+        "nasal-breathing-changes-airflow-resistance",
+        "recovery",
+        "rest-windows-can-cue-calmer-breathing"
+      ]
+    },
+    {
+      "id": "fact_086",
+      "title": "Cardiovascular system overview",
+      "body": "circulation delivers oxygen and nutrients; heart rate rises with training demand",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_086"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 36,
+        "bookPage": 34
+      },
+      "tags": [
+        "cardiovascular-system",
+        "circulation-delivers-oxygen-and-nutrients",
+        "heart",
+        "heart-rate-rises-with-training-demand",
+        "rest-allows-cardiovascular-recovery"
+      ]
+    },
+    {
+      "id": "fact_087",
+      "title": "Cardiovascular system overview",
+      "body": "circulation delivers oxygen and nutrients; heart rate rises with training demand",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_087"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 36,
+        "bookPage": 34
+      },
+      "tags": [
+        "cardio",
+        "cardiovascular-system",
+        "circulation-delivers-oxygen-and-nutrients",
+        "heart-rate-rises-with-training-demand",
+        "rest-allows-cardiovascular-recovery"
+      ]
+    },
+    {
+      "id": "fact_088",
+      "title": "Cardiovascular system overview",
+      "body": "circulation delivers oxygen and nutrients; heart rate rises with training demand",
+      "conceptIds": [
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_088"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 36,
+        "bookPage": 34
+      },
+      "tags": [
+        "cardiovascular-system",
+        "circulation-delivers-oxygen-and-nutrients",
+        "heart-rate-rises-with-training-demand",
+        "recovery",
+        "rest-allows-cardiovascular-recovery"
+      ]
+    },
+    {
+      "id": "fact_089",
+      "title": "Cardiovascular system overview",
+      "body": "circulation delivers oxygen and nutrients; heart rate rises with training demand",
+      "conceptIds": [
+        "full-body"
+      ],
+      "imageIds": [
+        "img_089"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 36,
+        "bookPage": 34
+      },
+      "tags": [
+        "cardiovascular-system",
+        "circulation-delivers-oxygen-and-nutrients",
+        "full-body",
+        "heart-rate-rises-with-training-demand",
+        "rest-allows-cardiovascular-recovery"
+      ]
+    },
+    {
+      "id": "fact_090",
+      "title": "Heart and circulation",
+      "body": "arteries carry blood away from the heart; veins return blood to the heart",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_090"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 37,
+        "bookPage": 35
+      },
+      "tags": [
+        "arteries-carry-blood-away-from-the-heart",
+        "cardiovascular-system",
+        "heart",
+        "heart-rate-variability-relates-to-recovery-state",
+        "veins-return-blood-to-the-heart"
+      ]
+    },
+    {
+      "id": "fact_091",
+      "title": "Heart and circulation",
+      "body": "arteries carry blood away from the heart; veins return blood to the heart",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_091"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 37,
+        "bookPage": 35
+      },
+      "tags": [
+        "arteries-carry-blood-away-from-the-heart",
+        "cardio",
+        "cardiovascular-system",
+        "heart-rate-variability-relates-to-recovery-state",
+        "veins-return-blood-to-the-heart"
+      ]
+    },
+    {
+      "id": "fact_092",
+      "title": "Heart and circulation",
+      "body": "arteries carry blood away from the heart; veins return blood to the heart",
+      "conceptIds": [
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_092"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 37,
+        "bookPage": 35
+      },
+      "tags": [
+        "arteries-carry-blood-away-from-the-heart",
+        "cardiovascular-system",
+        "heart-rate-variability-relates-to-recovery-state",
+        "recovery",
+        "veins-return-blood-to-the-heart"
+      ]
+    },
+    {
+      "id": "fact_093",
+      "title": "Heart and circulation",
+      "body": "arteries carry blood away from the heart; veins return blood to the heart",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_093"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 37,
+        "bookPage": 35
+      },
+      "tags": [
+        "arteries-carry-blood-away-from-the-heart",
+        "blood-flow",
+        "cardiovascular-system",
+        "heart-rate-variability-relates-to-recovery-state",
+        "veins-return-blood-to-the-heart"
+      ]
+    },
+    {
+      "id": "fact_094",
+      "title": "Lymphatic system overview",
+      "body": "lymphatic flow helps clear fluid; movement can support lymph movement",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_094"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 38,
+        "bookPage": 36
+      },
+      "tags": [
+        "immune-system",
+        "lymphatic-flow-helps-clear-fluid",
+        "lymphatic-system",
+        "movement-can-support-lymph-movement",
+        "recovery-includes-immune-system-activity"
+      ]
+    },
+    {
+      "id": "fact_095",
+      "title": "Lymphatic system overview",
+      "body": "lymphatic flow helps clear fluid; movement can support lymph movement",
+      "conceptIds": [
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_095"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 38,
+        "bookPage": 36
+      },
+      "tags": [
+        "lymphatic-flow-helps-clear-fluid",
+        "lymphatic-system",
+        "movement-can-support-lymph-movement",
+        "recovery",
+        "recovery-includes-immune-system-activity"
+      ]
+    },
+    {
+      "id": "fact_096",
+      "title": "Lymphatic system overview",
+      "body": "lymphatic flow helps clear fluid; movement can support lymph movement",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_096"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 38,
+        "bookPage": 36
+      },
+      "tags": [
+        "inflammation",
+        "lymphatic-flow-helps-clear-fluid",
+        "lymphatic-system",
+        "movement-can-support-lymph-movement",
+        "recovery-includes-immune-system-activity"
+      ]
+    },
+    {
+      "id": "fact_097",
+      "title": "Lymphatic system overview",
+      "body": "lymphatic flow helps clear fluid; movement can support lymph movement",
+      "conceptIds": [
+        "full-body"
+      ],
+      "imageIds": [
+        "img_097"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 38,
+        "bookPage": 36
+      },
+      "tags": [
+        "full-body",
+        "lymphatic-flow-helps-clear-fluid",
+        "lymphatic-system",
+        "movement-can-support-lymph-movement",
+        "recovery-includes-immune-system-activity"
+      ]
+    },
+    {
+      "id": "fact_098",
+      "title": "Inflammatory response",
+      "body": "inflammation is part of tissue response; too much inflammation can limit recovery",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_098"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 39,
+        "bookPage": 37
+      },
+      "tags": [
+        "immune-system",
+        "inflammation",
+        "inflammation-is-part-of-tissue-response",
+        "joint-irritation-should-change-training-decisions",
+        "too-much-inflammation-can-limit-recovery"
+      ]
+    },
+    {
+      "id": "fact_099",
+      "title": "Inflammatory response",
+      "body": "inflammation is part of tissue response; too much inflammation can limit recovery",
+      "conceptIds": [
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_099"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 39,
+        "bookPage": 37
+      },
+      "tags": [
+        "inflammation",
+        "inflammation-is-part-of-tissue-response",
+        "joint-irritation-should-change-training-decisions",
+        "too-much-inflammation-can-limit-recovery"
+      ]
+    },
+    {
+      "id": "fact_100",
+      "title": "Inflammatory response",
+      "body": "inflammation is part of tissue response; too much inflammation can limit recovery",
+      "conceptIds": [
+        "shoulders",
+        "skeletal_joints",
+        "cardio_recovery"
+      ],
+      "imageIds": [
+        "img_100"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 39,
+        "bookPage": 37
+      },
+      "tags": [
+        "inflammation",
+        "inflammation-is-part-of-tissue-response",
+        "joint-irritation-should-change-training-decisions",
+        "joints",
+        "too-much-inflammation-can-limit-recovery"
+      ]
+    },
+    {
+      "id": "fact_101",
+      "title": "Inflammatory response",
+      "body": "inflammation is part of tissue response; too much inflammation can limit recovery",
+      "conceptIds": [
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "imageIds": [
+        "img_101"
+      ],
+      "readingTimeSeconds": 25,
+      "difficulty": "beginner",
+      "source": {
+        "book": "Science of Yoga / Swanson PDF extraction",
+        "filePage": 39,
+        "bookPage": 37
+      },
+      "tags": [
+        "inflammation",
+        "inflammation-is-part-of-tissue-response",
+        "joint-irritation-should-change-training-decisions",
+        "recovery",
+        "too-much-inflammation-can-limit-recovery"
+      ]
+    }
+  ]
+}

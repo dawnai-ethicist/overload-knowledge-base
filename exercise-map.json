@@ -1,0 +1,383 @@
+{
+  "version": "2.0",
+  "exerciseMap": {
+    "leg-extension": {
+      "primary": [
+        "quadriceps"
+      ],
+      "secondary": [
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "knee extension"
+      ],
+      "searchTerms": [
+        "leg extension",
+        "quad extension",
+        "knee extension"
+      ]
+    },
+    "squat": {
+      "primary": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary": [
+        "adductors",
+        "spine_core",
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "squat",
+        "knee extension",
+        "hip extension"
+      ],
+      "searchTerms": [
+        "squat",
+        "goblet squat",
+        "hack squat",
+        "leg press"
+      ]
+    },
+    "leg-press": {
+      "primary": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary": [
+        "adductors",
+        "calves",
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "squat pattern"
+      ],
+      "searchTerms": [
+        "leg press",
+        "seated leg press"
+      ]
+    },
+    "lunge": {
+      "primary": [
+        "quadriceps",
+        "glutes"
+      ],
+      "secondary": [
+        "adductors",
+        "calves",
+        "spine_core"
+      ],
+      "movementPatterns": [
+        "single-leg squat"
+      ],
+      "searchTerms": [
+        "lunge",
+        "split squat",
+        "step up"
+      ]
+    },
+    "hamstring-curl": {
+      "primary": [
+        "hamstrings"
+      ],
+      "secondary": [
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "knee flexion"
+      ],
+      "searchTerms": [
+        "hamstring curl",
+        "leg curl",
+        "seated hamstring curl"
+      ]
+    },
+    "rdl": {
+      "primary": [
+        "hamstrings",
+        "glutes"
+      ],
+      "secondary": [
+        "spine_core",
+        "adductors"
+      ],
+      "movementPatterns": [
+        "hip hinge"
+      ],
+      "searchTerms": [
+        "rdl",
+        "romanian deadlift",
+        "deadlift",
+        "hinge"
+      ]
+    },
+    "hip-thrust": {
+      "primary": [
+        "glutes"
+      ],
+      "secondary": [
+        "hamstrings",
+        "spine_core"
+      ],
+      "movementPatterns": [
+        "hip extension"
+      ],
+      "searchTerms": [
+        "hip thrust",
+        "glute bridge"
+      ]
+    },
+    "calf-raise": {
+      "primary": [
+        "calves"
+      ],
+      "secondary": [
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "plantarflexion"
+      ],
+      "searchTerms": [
+        "calf raise",
+        "standing calf",
+        "seated calf"
+      ]
+    },
+    "adduction": {
+      "primary": [
+        "adductors"
+      ],
+      "secondary": [
+        "glutes",
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "hip adduction"
+      ],
+      "searchTerms": [
+        "adduction",
+        "hip adduction",
+        "inner thigh"
+      ]
+    },
+    "abduction": {
+      "primary": [
+        "glutes"
+      ],
+      "secondary": [
+        "adductors",
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "hip abduction"
+      ],
+      "searchTerms": [
+        "abduction",
+        "hip abduction",
+        "outer hip"
+      ]
+    },
+    "row": {
+      "primary": [
+        "back_lats"
+      ],
+      "secondary": [
+        "biceps",
+        "shoulders",
+        "spine_core"
+      ],
+      "movementPatterns": [
+        "horizontal pull",
+        "scapular retraction"
+      ],
+      "searchTerms": [
+        "row",
+        "seated row",
+        "cable row",
+        "machine row"
+      ]
+    },
+    "lat-pulldown": {
+      "primary": [
+        "back_lats"
+      ],
+      "secondary": [
+        "biceps",
+        "shoulders"
+      ],
+      "movementPatterns": [
+        "vertical pull"
+      ],
+      "searchTerms": [
+        "lat pulldown",
+        "pull-up",
+        "chin-up"
+      ]
+    },
+    "chest-press": {
+      "primary": [
+        "chest"
+      ],
+      "secondary": [
+        "triceps",
+        "shoulders"
+      ],
+      "movementPatterns": [
+        "horizontal press"
+      ],
+      "searchTerms": [
+        "chest press",
+        "bench press",
+        "push-up"
+      ]
+    },
+    "shoulder-press": {
+      "primary": [
+        "shoulders"
+      ],
+      "secondary": [
+        "triceps",
+        "spine_core"
+      ],
+      "movementPatterns": [
+        "vertical press"
+      ],
+      "searchTerms": [
+        "shoulder press",
+        "overhead press"
+      ]
+    },
+    "lateral-raise": {
+      "primary": [
+        "shoulders"
+      ],
+      "secondary": [
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "shoulder abduction"
+      ],
+      "searchTerms": [
+        "lateral raise",
+        "side raise"
+      ]
+    },
+    "bicep-curl": {
+      "primary": [
+        "biceps"
+      ],
+      "secondary": [
+        "forearms_wrists"
+      ],
+      "movementPatterns": [
+        "elbow flexion"
+      ],
+      "searchTerms": [
+        "bicep curl",
+        "curl"
+      ]
+    },
+    "tricep-extension": {
+      "primary": [
+        "triceps"
+      ],
+      "secondary": [
+        "shoulders"
+      ],
+      "movementPatterns": [
+        "elbow extension"
+      ],
+      "searchTerms": [
+        "tricep extension",
+        "pressdown",
+        "skullcrusher"
+      ]
+    },
+    "wrist-forearm": {
+      "primary": [
+        "forearms_wrists"
+      ],
+      "secondary": [
+        "biceps"
+      ],
+      "movementPatterns": [
+        "wrist flexion extension grip"
+      ],
+      "searchTerms": [
+        "wrist curl",
+        "forearm",
+        "grip"
+      ]
+    },
+    "ab-machine": {
+      "primary": [
+        "spine_core"
+      ],
+      "secondary": [
+        "breathing"
+      ],
+      "movementPatterns": [
+        "trunk flexion",
+        "bracing"
+      ],
+      "searchTerms": [
+        "ab machine",
+        "crunch",
+        "abs"
+      ]
+    },
+    "back-extension": {
+      "primary": [
+        "spine_core",
+        "glutes",
+        "hamstrings"
+      ],
+      "secondary": [
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "hip extension",
+        "spinal extension"
+      ],
+      "searchTerms": [
+        "back extension",
+        "45 degree back extension",
+        "hyperextension"
+      ]
+    },
+    "rotary-torso": {
+      "primary": [
+        "spine_core"
+      ],
+      "secondary": [
+        "skeletal_joints"
+      ],
+      "movementPatterns": [
+        "trunk rotation"
+      ],
+      "searchTerms": [
+        "rotary torso",
+        "rotation",
+        "oblique"
+      ]
+    },
+    "breathing-rest": {
+      "primary": [
+        "breathing",
+        "cardio_recovery",
+        "stress_recovery"
+      ],
+      "secondary": [
+        "nervous_motor"
+      ],
+      "movementPatterns": [
+        "recovery"
+      ],
+      "searchTerms": [
+        "rest timer",
+        "breathing",
+        "recovery"
+      ]
+    }
+  }
+}
