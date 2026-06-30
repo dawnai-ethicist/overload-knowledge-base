@@ -1,354 +1,332 @@
 {
-  "version": "2.0",
+  "version": "3.0-exact-repo",
   "baseUrl": "https://dawnai-ethicist.github.io/overload-knowledge-base/",
   "concepts": {
     "quadriceps": {
+      "id": "quadriceps",
       "label": "Quadriceps",
       "folders": [
         "group-quads",
         "group-knees",
         "muscles-anterior"
       ],
-      "tags": [
-        "quads",
-        "knee-extension",
-        "patella",
-        "anterior-thigh"
-      ],
-      "imageIds": [
-        "img_010",
-        "img_022",
-        "img_027",
-        "img_033"
-      ],
       "folderUrls": [
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-quads/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-knees/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/muscles-anterior/"
+      ],
+      "imageIds": [
+        "img_038",
+        "img_039",
+        "img_040",
+        "img_057",
+        "img_088"
+      ],
+      "tags": [
+        "anterior-muscles",
+        "anterior-thigh",
+        "arthritis",
+        "cartilage",
+        "chest",
+        "knee-extension",
+        "knees",
+        "patella",
+        "quadriceps",
+        "shoulders"
       ]
     },
     "hamstrings": {
+      "id": "hamstrings",
       "label": "Hamstrings",
       "folders": [
-        "group-hamstrings",
         "group-posterior-chain",
         "muscles-posterior"
       ],
-      "tags": [
-        "hamstrings",
-        "knee-flexion",
-        "hip-extension",
-        "posterior-chain"
-      ],
-      "imageIds": [
-        "img_041",
-        "img_043"
-      ],
       "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-hamstrings/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-posterior-chain/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/muscles-posterior/"
+      ],
+      "imageIds": [
+        "img_054",
+        "img_089"
+      ],
+      "tags": [
+        "back",
+        "glutes",
+        "hamstrings",
+        "posterior-chain",
+        "posterior-muscles",
+        "spine"
       ]
     },
     "glutes": {
-      "label": "Glutes and Hips",
+      "id": "glutes",
+      "label": "Glutes",
       "folders": [
-        "group-glutes",
-        "group-hips",
         "hips-pelvis",
-        "group-pelvis"
+        "group-pelvis",
+        "group-posterior-chain"
+      ],
+      "folderUrls": [
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/hips-pelvis/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-pelvis/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-posterior-chain/"
+      ],
+      "imageIds": [
+        "img_053",
+        "img_054",
+        "img_082"
       ],
       "tags": [
         "glutes",
-        "hip-extension",
+        "hamstrings",
+        "hips",
+        "neutral-pelvis",
         "pelvis",
-        "hips"
-      ],
-      "imageIds": [
-        "img_009",
-        "img_015",
-        "img_018",
-        "img_021",
-        "img_028",
-        "img_040"
-      ],
-      "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-glutes/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-hips/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/hips-pelvis/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-pelvis/"
+        "posterior-chain",
+        "spine"
       ]
     },
     "calves": {
+      "id": "calves",
       "label": "Calves",
       "folders": [
-        "group-calves",
         "muscles-posterior"
       ],
-      "tags": [
-        "calves",
-        "ankle",
-        "plantarflexion"
+      "folderUrls": [
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/muscles-posterior/"
       ],
       "imageIds": [
-        "img_036",
-        "img_042",
-        "img_047"
+        "img_089"
       ],
-      "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-calves/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/muscles-posterior/"
+      "tags": [
+        "back",
+        "glutes",
+        "hamstrings",
+        "posterior-muscles"
       ]
     },
     "adductors": {
+      "id": "adductors",
       "label": "Adductors",
       "folders": [
         "group-adductors",
-        "group-hips",
         "hips-pelvis"
-      ],
-      "tags": [
-        "adductors",
-        "inner-thigh",
-        "hip-adduction"
-      ],
-      "imageIds": [
-        "img_009",
-        "img_017",
-        "img_021",
-        "img_028",
-        "img_034"
       ],
       "folderUrls": [
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-adductors/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-hips/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/hips-pelvis/"
+      ],
+      "imageIds": [
+        "img_028",
+        "img_029",
+        "img_082"
+      ],
+      "tags": [
+        "adductors",
+        "glutes",
+        "hips",
+        "inner-thigh",
+        "pelvis"
       ]
     },
     "spine_core": {
+      "id": "spine_core",
       "label": "Spine and Core",
       "folders": [
         "group-spine",
         "spine-core",
-        "group-core",
-        "group-back",
-        "group-posture"
-      ],
-      "tags": [
-        "spine",
-        "core",
-        "trunk",
-        "bracing",
-        "posture"
-      ],
-      "imageIds": [
-        "img_004",
-        "img_011",
-        "img_012",
-        "img_013",
-        "img_014",
-        "img_019",
-        "img_029",
-        "img_037",
-        "img_038",
-        "img_072",
-        "img_077"
+        "group-posture",
+        "skeletal-system"
       ],
       "folderUrls": [
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-spine/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/spine-core/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-core/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-back/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-posture/"
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-posture/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/skeletal-system/"
+      ],
+      "imageIds": [
+        "img_055",
+        "img_056",
+        "img_076",
+        "img_077",
+        "img_093",
+        "img_094",
+        "img_095"
+      ],
+      "tags": [
+        "back",
+        "bones",
+        "core",
+        "pelvis",
+        "posture",
+        "skeletal-system",
+        "spine",
+        "vertebrae"
       ]
     },
     "back_lats": {
+      "id": "back_lats",
       "label": "Back and Lats",
       "folders": [
-        "group-back",
         "group-shoulders",
         "muscles-posterior"
       ],
-      "tags": [
-        "lats",
-        "back",
-        "scapula",
-        "pulling"
-      ],
-      "imageIds": [
-        "img_008",
-        "img_012",
-        "img_020",
-        "img_030",
-        "img_038",
-        "img_039"
-      ],
       "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-back/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/muscles-posterior/"
+      ],
+      "imageIds": [
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_089"
+      ],
+      "tags": [
+        "arms",
+        "back",
+        "glutes",
+        "hamstrings",
+        "posterior-muscles",
+        "scapula",
+        "shoulders"
       ]
     },
     "chest": {
+      "id": "chest",
       "label": "Chest",
       "folders": [
-        "group-chest",
         "group-shoulders",
         "muscles-anterior"
       ],
-      "tags": [
-        "pectorals",
-        "chest",
-        "pressing",
-        "shoulder"
-      ],
-      "imageIds": [
-        "img_008",
-        "img_020",
-        "img_030",
-        "img_031",
-        "img_039"
-      ],
       "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-chest/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/muscles-anterior/"
+      ],
+      "imageIds": [
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_088"
+      ],
+      "tags": [
+        "anterior-muscles",
+        "arms",
+        "chest",
+        "quadriceps",
+        "scapula",
+        "shoulders"
       ]
     },
     "shoulders": {
-      "label": "Shoulders and Scapula",
+      "id": "shoulders",
+      "label": "Shoulders",
       "folders": [
         "group-shoulders",
         "group-joints",
         "group-ligaments"
       ],
-      "tags": [
-        "shoulder",
-        "scapula",
-        "rotator-cuff",
-        "joint"
-      ],
-      "imageIds": [
-        "img_007",
-        "img_008",
-        "img_020",
-        "img_025",
-        "img_026",
-        "img_030",
-        "img_039",
-        "img_100"
-      ],
       "folderUrls": [
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-joints/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-ligaments/"
+      ],
+      "imageIds": [
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041",
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073"
+      ],
+      "tags": [
+        "arms",
+        "connective-tissue",
+        "joint-actions",
+        "joints",
+        "ligaments",
+        "scapula",
+        "shoulders",
+        "synovial-joints"
       ]
     },
     "biceps": {
-      "label": "Biceps and Elbow Flexion",
+      "id": "biceps",
+      "label": "Biceps",
       "folders": [
         "arms-biceps",
-        "group-biceps",
-        "group-arms",
-        "group-elbows"
-      ],
-      "tags": [
-        "biceps",
-        "elbow-flexion",
-        "arm"
-      ],
-      "imageIds": [
-        "img_023",
-        "img_032",
-        "img_046",
-        "img_048",
-        "img_049",
-        "img_050"
+        "muscle-contraction"
       ],
       "folderUrls": [
         "https://dawnai-ethicist.github.io/overload-knowledge-base/arms-biceps/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-biceps/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-arms/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-elbows/"
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/muscle-contraction/"
+      ],
+      "imageIds": [
+        "img_025",
+        "img_087"
+      ],
+      "tags": [
+        "arms",
+        "biceps",
+        "concentric",
+        "elbow-flexion",
+        "muscle-contraction"
       ]
     },
     "triceps": {
-      "label": "Triceps and Elbow Extension",
+      "id": "triceps",
+      "label": "Triceps",
       "folders": [
-        "group-arms",
-        "group-elbows",
         "group-shoulders"
       ],
-      "tags": [
-        "triceps",
-        "elbow-extension",
-        "arm"
+      "folderUrls": [
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/"
       ],
       "imageIds": [
-        "img_008",
-        "img_020",
-        "img_023",
-        "img_030",
-        "img_032",
-        "img_039",
-        "img_048",
-        "img_050"
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073"
       ],
-      "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-arms/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-elbows/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/"
+      "tags": [
+        "arms",
+        "scapula",
+        "shoulders"
       ]
     },
     "forearms_wrists": {
+      "id": "forearms_wrists",
       "label": "Forearms and Wrists",
       "folders": [
-        "group-wrists",
-        "group-elbows",
-        "group-arms"
-      ],
-      "tags": [
-        "forearm",
-        "wrist",
-        "grip"
-      ],
-      "imageIds": [
-        "img_023",
-        "img_024",
-        "img_032",
-        "img_048",
-        "img_050"
+        "group-wrists"
       ],
       "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-wrists/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-elbows/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-arms/"
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-wrists/"
+      ],
+      "imageIds": [
+        "img_081"
+      ],
+      "tags": [
+        "forearms",
+        "hands",
+        "wrists"
       ]
     },
     "skeletal_joints": {
-      "label": "Skeleton, Joints, Ligaments",
+      "id": "skeletal_joints",
+      "label": "Skeletal System and Joints",
       "folders": [
         "skeletal-system",
         "group-skeletal-system",
         "group-bones",
         "joints",
         "group-joints",
-        "group-ligaments"
-      ],
-      "tags": [
-        "bone",
-        "joint",
-        "ligament",
-        "cartilage"
-      ],
-      "imageIds": [
-        "img_002",
-        "img_003",
-        "img_006",
-        "img_007",
-        "img_025",
-        "img_026",
-        "img_100"
+        "group-ligaments",
+        "group-knees"
       ],
       "folderUrls": [
         "https://dawnai-ethicist.github.io/overload-knowledge-base/skeletal-system/",
@@ -356,34 +334,96 @@
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-bones/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/joints/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-joints/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-ligaments/"
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-ligaments/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-knees/"
+      ],
+      "imageIds": [
+        "img_030",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_038",
+        "img_039",
+        "img_040",
+        "img_041",
+        "img_074",
+        "img_075",
+        "img_084",
+        "img_085",
+        "img_093",
+        "img_094"
+      ],
+      "tags": [
+        "arthritis",
+        "bones",
+        "cartilage",
+        "connective-tissue",
+        "joint-actions",
+        "joints",
+        "knees",
+        "ligaments",
+        "patella",
+        "range-of-motion",
+        "skeletal-system",
+        "skeleton",
+        "spine",
+        "synovial-joints"
       ]
     },
     "nervous_motor": {
-      "label": "Nervous System and Motor Learning",
+      "id": "nervous_motor",
+      "label": "Nervous System and Motor Control",
       "folders": [
         "nervous-system",
         "group-nervous-system",
-        "brain",
-        "group-brain",
         "group-motor-control",
-        "group-motor-learning",
-        "group-focus",
-        "group-habit"
+        "group-motor-learning"
       ],
-      "tags": [
-        "nervous-system",
-        "motor-control",
-        "practice",
-        "brain"
+      "folderUrls": [
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/nervous-system/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-motor-control/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-motor-learning/"
       ],
       "imageIds": [
+        "img_042",
+        "img_043",
+        "img_046",
+        "img_047",
+        "img_048",
+        "img_049",
+        "img_050",
+        "img_051",
         "img_052",
-        "img_053",
-        "img_054",
-        "img_055",
-        "img_056",
-        "img_057",
+        "img_090",
+        "img_091"
+      ],
+      "tags": [
+        "autonomic",
+        "brain",
+        "habits",
+        "motor-control",
+        "motor-learning",
+        "movement",
+        "nervous-system",
+        "neuroplasticity",
+        "stress"
+      ]
+    },
+    "breathing": {
+      "id": "breathing",
+      "label": "Breathing",
+      "folders": [
+        "respiratory-system",
+        "group-ribs",
+        "group-recovery"
+      ],
+      "folderUrls": [
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/respiratory-system/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-ribs/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/"
+      ],
+      "imageIds": [
         "img_058",
         "img_059",
         "img_060",
@@ -394,113 +434,73 @@
         "img_065",
         "img_066",
         "img_067",
-        "img_070",
-        "img_082",
-        "img_084"
-      ],
-      "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/nervous-system/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/brain/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-brain/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-motor-control/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-motor-learning/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-focus/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-habit/"
-      ]
-    },
-    "breathing": {
-      "label": "Breathing and Bracing",
-      "folders": [
-        "respiratory-system",
-        "group-breathing",
-        "group-ribs",
-        "group-diaphragm",
-        "breathing",
-        "breathwork"
+        "img_068",
+        "img_069",
+        "img_092"
       ],
       "tags": [
         "breathing",
-        "diaphragm",
+        "heart-rate",
+        "lungs",
+        "recovery",
+        "respiratory",
         "ribs",
-        "bracing"
-      ],
-      "imageIds": [
-        "img_071",
-        "img_073",
-        "img_074",
-        "img_075",
-        "img_076",
-        "img_077",
-        "img_078",
-        "img_079",
-        "img_083"
-      ],
-      "folderUrls": [
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/respiratory-system/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-breathing/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-ribs/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-diaphragm/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/breathing/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/breathwork/"
+        "stress",
+        "thorax"
       ]
     },
     "cardio_recovery": {
-      "label": "Cardio, Blood Flow, Recovery",
+      "id": "cardio_recovery",
+      "label": "Cardiovascular/Lymphatic Recovery",
       "folders": [
         "cardiovascular-system",
-        "group-cardio",
-        "group-heart",
-        "group-heart-rate",
-        "group-blood-flow",
         "lymphatic-system",
         "group-immune-system",
         "group-inflammation",
         "group-recovery"
       ],
-      "tags": [
-        "heart",
-        "blood-flow",
-        "recovery",
-        "inflammation",
-        "lymphatic"
-      ],
-      "imageIds": [
-        "img_053",
-        "img_057",
-        "img_064",
-        "img_069",
-        "img_080",
-        "img_081",
-        "img_085",
-        "img_086",
-        "img_087",
-        "img_088",
-        "img_090",
-        "img_091",
-        "img_092",
-        "img_093",
-        "img_094",
-        "img_095",
-        "img_096",
-        "img_098",
-        "img_099",
-        "img_100",
-        "img_101"
-      ],
       "folderUrls": [
         "https://dawnai-ethicist.github.io/overload-knowledge-base/cardiovascular-system/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-cardio/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-heart/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-heart-rate/",
-        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-blood-flow/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/lymphatic-system/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-immune-system/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-inflammation/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/"
+      ],
+      "imageIds": [
+        "img_026",
+        "img_027",
+        "img_031",
+        "img_032",
+        "img_033",
+        "img_034",
+        "img_058",
+        "img_059",
+        "img_060",
+        "img_061",
+        "img_062",
+        "img_063",
+        "img_064",
+        "img_065",
+        "img_066",
+        "img_067",
+        "img_086"
+      ],
+      "tags": [
+        "breathing",
+        "cardiovascular",
+        "circulation",
+        "heart",
+        "heart-rate",
+        "immune",
+        "inflammation",
+        "joints",
+        "lymphatic",
+        "recovery",
+        "stress"
       ]
     },
     "stress_recovery": {
+      "id": "stress_recovery",
       "label": "Stress and Recovery",
       "folders": [
         "group-stress",
@@ -508,39 +508,102 @@
         "group-recovery",
         "group-nervous-system"
       ],
-      "tags": [
-        "stress",
-        "cortisol",
-        "recovery",
-        "autonomic"
-      ],
-      "imageIds": [
-        "img_052",
-        "img_053",
-        "img_055",
-        "img_056",
-        "img_057",
-        "img_058",
-        "img_061",
-        "img_062",
-        "img_064",
-        "img_065",
-        "img_068",
-        "img_069",
-        "img_070",
-        "img_080",
-        "img_082",
-        "img_085",
-        "img_088",
-        "img_092",
-        "img_095",
-        "img_101"
-      ],
       "folderUrls": [
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-stress/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/stress-cortisol/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/",
         "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/"
+      ],
+      "imageIds": [
+        "img_046",
+        "img_047",
+        "img_048",
+        "img_049",
+        "img_050",
+        "img_051",
+        "img_052",
+        "img_058",
+        "img_059",
+        "img_060",
+        "img_061",
+        "img_062",
+        "img_063",
+        "img_064",
+        "img_065",
+        "img_066",
+        "img_067",
+        "img_078",
+        "img_079",
+        "img_080",
+        "img_096"
+      ],
+      "tags": [
+        "autonomic",
+        "brain",
+        "breathing",
+        "cortisol",
+        "heart-rate",
+        "memory",
+        "nervous-system",
+        "recovery",
+        "stress"
+      ]
+    },
+    "pelvis_hips": {
+      "id": "pelvis_hips",
+      "label": "Pelvis and Hips",
+      "folders": [
+        "hips-pelvis",
+        "group-pelvis",
+        "group-adductors"
+      ],
+      "folderUrls": [
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/hips-pelvis/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-pelvis/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-adductors/"
+      ],
+      "imageIds": [
+        "img_028",
+        "img_029",
+        "img_053",
+        "img_082"
+      ],
+      "tags": [
+        "adductors",
+        "glutes",
+        "hips",
+        "inner-thigh",
+        "neutral-pelvis",
+        "pelvis"
+      ]
+    },
+    "muscle_contraction": {
+      "id": "muscle_contraction",
+      "label": "Muscle Contraction",
+      "folders": [
+        "group-muscle-contraction",
+        "muscle-contraction",
+        "arms-biceps"
+      ],
+      "folderUrls": [
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/group-muscle-contraction/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/muscle-contraction/",
+        "https://dawnai-ethicist.github.io/overload-knowledge-base/arms-biceps/"
+      ],
+      "imageIds": [
+        "img_025",
+        "img_044",
+        "img_045",
+        "img_087"
+      ],
+      "tags": [
+        "arms",
+        "biceps",
+        "concentric",
+        "eccentric",
+        "elbow-flexion",
+        "fascia",
+        "muscle-contraction"
       ]
     }
   }

@@ -1,6 +1,5 @@
 {
-  "version": "2.0-root-upload",
-  "purpose": "Root-level routing files for Loveable to use the existing GitHub image folders as an anatomy/rest-timer knowledge base.",
+  "version": "3.0-exact-repo",
   "baseUrl": "https://dawnai-ethicist.github.io/overload-knowledge-base/",
   "entryPoint": "https://dawnai-ethicist.github.io/overload-knowledge-base/knowledge-index.json",
   "files": {
@@ -9,20 +8,54 @@
     "concepts": "https://dawnai-ethicist.github.io/overload-knowledge-base/concepts.json",
     "exerciseMap": "https://dawnai-ethicist.github.io/overload-knowledge-base/exercise-map.json",
     "facts": "https://dawnai-ethicist.github.io/overload-knowledge-base/rest-facts.json",
-    "loveableGuide": "https://dawnai-ethicist.github.io/overload-knowledge-base/LOVEABLE_INSTRUCTIONS.md"
+    "yogaPoseMap": "https://dawnai-ethicist.github.io/overload-knowledge-base/yoga-pose-map.json"
   },
-  "runtimeAlgorithm": [
-    "Load knowledge-index.json.",
-    "Load exercise-map.json, concepts.json, images.json, and rest-facts.json.",
-    "Normalize the current exercise name/id to lowercase and match either an exercise-map key or a searchTerms value.",
-    "Collect primary conceptIds, then secondary conceptIds.",
-    "Find facts whose conceptIds overlap those concepts. Prefer facts with imageIds.",
-    "Resolve each image URL from images.json. Use url first; if it fails, try candidateUrls.",
-    "During each rest timer show one concise card: title, body, image, and optional source page.",
-    "Avoid showing the same fact twice in the same workout if possible."
+  "integrationNotes": [
+    "Generated from the actual GitHub repo zip; do not use old group-full-body paths.",
+    "Every image.path in images.json exists in the uploaded repository.",
+    "Loveable should fetch knowledge-index.json, then exercise-map.json, concepts.json, images.json, rest-facts.json, and optionally yoga-pose-map.json.",
+    "If an exercise id is missing, match by searchTerms or fall back to recovery/breathing."
   ],
-  "notes": [
-    ".nojekyll is included so GitHub Pages will serve folders beginning with underscores if any exist.",
-    "The current repo folders should remain where they are. These JSON files are only a routing layer."
-  ]
+  "rootImageFolders": [
+    "_all_pages",
+    "arms-biceps",
+    "cardiovascular-system",
+    "group-adductors",
+    "group-bones",
+    "group-immune-system",
+    "group-inflammation",
+    "group-joints",
+    "group-knees",
+    "group-ligaments",
+    "group-motor-control",
+    "group-motor-learning",
+    "group-muscle-contraction",
+    "group-nervous-system",
+    "group-pelvis",
+    "group-posterior-chain",
+    "group-posture",
+    "group-quads",
+    "group-recovery",
+    "group-ribs",
+    "group-shoulders",
+    "group-skeletal-system",
+    "group-spine",
+    "group-stress",
+    "group-wrists",
+    "hips-pelvis",
+    "inflammation",
+    "joints",
+    "lymphatic-system",
+    "muscle-contraction",
+    "muscles-anterior",
+    "muscles-posterior",
+    "nervous-system",
+    "respiratory-system",
+    "skeletal-system",
+    "spine-core",
+    "stress-cortisol"
+  ],
+  "imageCount": 96,
+  "conceptCount": 19,
+  "factCount": 42
 }

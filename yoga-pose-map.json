@@ -1,0 +1,130 @@
+{
+  "version": "1.0",
+  "note": "Conservative rest-timer pose suggestions. Prefer gentle, short, low-risk positions. Do not require deep stretching during short strength-training rests.",
+  "exercisePoseMap": {
+    "leg-extension": [
+      {
+        "pose": "Low Lunge",
+        "reason": "Gently opens the anterior hip and thigh after quad-dominant work.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      },
+      {
+        "pose": "Supported Hero Pose",
+        "reason": "Targets the quadriceps, but use only if knees tolerate it.",
+        "durationSeconds": 20,
+        "intensity": "moderate",
+        "caution": "Avoid if knee discomfort."
+      }
+    ],
+    "rdl": [
+      {
+        "pose": "Half Forward Fold",
+        "reason": "Gently lengthens posterior chain without forcing end range.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      },
+      {
+        "pose": "Supine Hamstring Stretch",
+        "reason": "Targets hamstrings while keeping the spine supported.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "romanian-deadlift": [
+      {
+        "pose": "Half Forward Fold",
+        "reason": "Gently lengthens posterior chain without forcing end range.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "hip-thrust": [
+      {
+        "pose": "Low Lunge",
+        "reason": "Opens hip flexors after repeated hip extension.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      },
+      {
+        "pose": "Figure Four Stretch",
+        "reason": "Targets glute and external rotator tension.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "lat-pulldown": [
+      {
+        "pose": "Child\u2019s Pose with Side Reach",
+        "reason": "Opens lats and side body after vertical pulling.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "row": [
+      {
+        "pose": "Thread the Needle",
+        "reason": "Gently rotates the thoracic spine and opens posterior shoulder.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "chest-press": [
+      {
+        "pose": "Supported Chest Opener",
+        "reason": "Opens the chest and anterior shoulder after pressing.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "bench-press": [
+      {
+        "pose": "Supported Chest Opener",
+        "reason": "Opens the chest and anterior shoulder after pressing.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "shoulder-press": [
+      {
+        "pose": "Child\u2019s Pose with Arms Forward",
+        "reason": "Lets the shoulders flex overhead gently while breathing.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "bicep-curl": [
+      {
+        "pose": "Wrist and Biceps Wall Stretch",
+        "reason": "Gently opens the front of the arm and forearm.",
+        "durationSeconds": 20,
+        "intensity": "gentle"
+      }
+    ],
+    "tricep-extension": [
+      {
+        "pose": "Overhead Triceps Stretch",
+        "reason": "Matches the tissue just trained while staying simple for a rest interval.",
+        "durationSeconds": 20,
+        "intensity": "gentle"
+      }
+    ],
+    "calf-raise": [
+      {
+        "pose": "Downward Dog Calf Pedal",
+        "reason": "Alternates gentle calf lengthening without long static holds.",
+        "durationSeconds": 30,
+        "intensity": "gentle"
+      }
+    ],
+    "squat": [
+      {
+        "pose": "Deep Squat Breathing Hold",
+        "reason": "Rehearses squat mobility and breathing at low intensity.",
+        "durationSeconds": 30,
+        "intensity": "gentle",
+        "caution": "Use support if needed."
+      }
+    ]
+  }
+}
