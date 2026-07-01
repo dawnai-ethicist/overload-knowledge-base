@@ -1,0 +1,1242 @@
+{
+  "schemaVersion": "1.0.0",
+  "description": "Core anatomy and movement ontology for Overload. Exercises, yoga poses, book pages, images, and rest facts should point into these stable concept IDs.",
+  "idConventions": {
+    "format": "lowercase-kebab-case",
+    "note": "Use these IDs consistently across exercise-map.json, yoga-pose-map.json, images.json, rest-facts.json, and book-index.json."
+  },
+  "bodyRegions": {
+    "head-neck": {
+      "title": "Head & Neck",
+      "parent": "body"
+    },
+    "shoulder-girdle": {
+      "title": "Shoulder Girdle",
+      "parent": "upper-body"
+    },
+    "upper-arm": {
+      "title": "Upper Arm",
+      "parent": "upper-body"
+    },
+    "forearm-hand": {
+      "title": "Forearm & Hand",
+      "parent": "upper-body"
+    },
+    "chest": {
+      "title": "Chest",
+      "parent": "torso"
+    },
+    "back": {
+      "title": "Back",
+      "parent": "torso"
+    },
+    "core": {
+      "title": "Core",
+      "parent": "torso"
+    },
+    "pelvis-hip": {
+      "title": "Pelvis & Hip",
+      "parent": "lower-body"
+    },
+    "thigh": {
+      "title": "Thigh",
+      "parent": "lower-body"
+    },
+    "knee": {
+      "title": "Knee",
+      "parent": "lower-body"
+    },
+    "lower-leg": {
+      "title": "Lower Leg",
+      "parent": "lower-body"
+    },
+    "ankle-foot": {
+      "title": "Ankle & Foot",
+      "parent": "lower-body"
+    }
+  },
+  "systems": {
+    "muscular": {
+      "title": "Muscular System",
+      "teachingUse": "muscle actions, contractions, force production, fatigue, mobility"
+    },
+    "skeletal": {
+      "title": "Skeletal System",
+      "teachingUse": "bones, joints, alignment, leverage, posture"
+    },
+    "nervous": {
+      "title": "Nervous System",
+      "teachingUse": "coordination, motor control, proprioception, breathing down-regulation"
+    },
+    "respiratory": {
+      "title": "Respiratory System",
+      "teachingUse": "breathing mechanics, rib cage motion, recovery during rest"
+    },
+    "cardiovascular": {
+      "title": "Cardiovascular System",
+      "teachingUse": "heart rate, circulation, conditioning, recovery"
+    },
+    "connective-tissue": {
+      "title": "Connective Tissue",
+      "teachingUse": "tendons, ligaments, fascia, cartilage, joint capsules"
+    }
+  },
+  "muscles": {
+    "quadriceps": {
+      "title": "Quadriceps",
+      "aliases": [
+        "quads",
+        "front thigh"
+      ],
+      "region": "thigh",
+      "system": "muscular",
+      "members": [
+        "rectus-femoris",
+        "vastus-lateralis",
+        "vastus-medialis",
+        "vastus-intermedius"
+      ],
+      "crossesJoints": [
+        "knee",
+        "hip"
+      ],
+      "primaryActions": [
+        "knee-extension"
+      ],
+      "secondaryActions": [
+        "hip-flexion"
+      ],
+      "relatedConcepts": [
+        "patella",
+        "patellar-tendon",
+        "knee-extension"
+      ]
+    },
+    "rectus-femoris": {
+      "title": "Rectus Femoris",
+      "aliases": [],
+      "region": "thigh",
+      "system": "muscular",
+      "partOf": "quadriceps",
+      "crossesJoints": [
+        "hip",
+        "knee"
+      ],
+      "primaryActions": [
+        "knee-extension",
+        "hip-flexion"
+      ]
+    },
+    "vastus-lateralis": {
+      "title": "Vastus Lateralis",
+      "partOf": "quadriceps",
+      "region": "thigh",
+      "crossesJoints": [
+        "knee"
+      ],
+      "primaryActions": [
+        "knee-extension"
+      ]
+    },
+    "vastus-medialis": {
+      "title": "Vastus Medialis",
+      "partOf": "quadriceps",
+      "region": "thigh",
+      "crossesJoints": [
+        "knee"
+      ],
+      "primaryActions": [
+        "knee-extension"
+      ],
+      "relatedConcepts": [
+        "patellar-tracking"
+      ]
+    },
+    "vastus-intermedius": {
+      "title": "Vastus Intermedius",
+      "partOf": "quadriceps",
+      "region": "thigh",
+      "crossesJoints": [
+        "knee"
+      ],
+      "primaryActions": [
+        "knee-extension"
+      ]
+    },
+    "hamstrings": {
+      "title": "Hamstrings",
+      "aliases": [
+        "posterior thigh"
+      ],
+      "region": "thigh",
+      "system": "muscular",
+      "members": [
+        "biceps-femoris",
+        "semitendinosus",
+        "semimembranosus"
+      ],
+      "crossesJoints": [
+        "hip",
+        "knee"
+      ],
+      "primaryActions": [
+        "hip-extension",
+        "knee-flexion"
+      ],
+      "relatedConcepts": [
+        "posterior-chain",
+        "hip-hinge"
+      ]
+    },
+    "biceps-femoris": {
+      "title": "Biceps Femoris",
+      "partOf": "hamstrings",
+      "region": "thigh",
+      "crossesJoints": [
+        "hip",
+        "knee"
+      ],
+      "primaryActions": [
+        "hip-extension",
+        "knee-flexion"
+      ]
+    },
+    "semitendinosus": {
+      "title": "Semitendinosus",
+      "partOf": "hamstrings",
+      "region": "thigh",
+      "crossesJoints": [
+        "hip",
+        "knee"
+      ],
+      "primaryActions": [
+        "hip-extension",
+        "knee-flexion"
+      ]
+    },
+    "semimembranosus": {
+      "title": "Semimembranosus",
+      "partOf": "hamstrings",
+      "region": "thigh",
+      "crossesJoints": [
+        "hip",
+        "knee"
+      ],
+      "primaryActions": [
+        "hip-extension",
+        "knee-flexion"
+      ]
+    },
+    "gluteus-maximus": {
+      "title": "Gluteus Maximus",
+      "aliases": [
+        "glutes"
+      ],
+      "region": "pelvis-hip",
+      "system": "muscular",
+      "crossesJoints": [
+        "hip"
+      ],
+      "primaryActions": [
+        "hip-extension",
+        "hip-external-rotation"
+      ],
+      "relatedConcepts": [
+        "posterior-chain",
+        "hip-hinge"
+      ]
+    },
+    "gluteus-medius": {
+      "title": "Gluteus Medius",
+      "region": "pelvis-hip",
+      "system": "muscular",
+      "crossesJoints": [
+        "hip"
+      ],
+      "primaryActions": [
+        "hip-abduction",
+        "pelvic-stability"
+      ]
+    },
+    "gluteus-minimus": {
+      "title": "Gluteus Minimus",
+      "region": "pelvis-hip",
+      "system": "muscular",
+      "crossesJoints": [
+        "hip"
+      ],
+      "primaryActions": [
+        "hip-abduction",
+        "hip-internal-rotation"
+      ]
+    },
+    "hip-flexors": {
+      "title": "Hip Flexors",
+      "aliases": [
+        "iliopsoas group"
+      ],
+      "region": "pelvis-hip",
+      "members": [
+        "iliopsoas",
+        "rectus-femoris",
+        "sartorius",
+        "tensor-fasciae-latae"
+      ],
+      "crossesJoints": [
+        "hip"
+      ],
+      "primaryActions": [
+        "hip-flexion"
+      ]
+    },
+    "iliopsoas": {
+      "title": "Iliopsoas",
+      "region": "pelvis-hip",
+      "crossesJoints": [
+        "hip",
+        "lumbar-spine"
+      ],
+      "primaryActions": [
+        "hip-flexion",
+        "lumbar-stability"
+      ]
+    },
+    "adductors": {
+      "title": "Hip Adductors",
+      "aliases": [
+        "inner thigh"
+      ],
+      "region": "thigh",
+      "members": [
+        "adductor-magnus",
+        "adductor-longus",
+        "adductor-brevis",
+        "gracilis",
+        "pectineus"
+      ],
+      "crossesJoints": [
+        "hip"
+      ],
+      "primaryActions": [
+        "hip-adduction"
+      ],
+      "secondaryActions": [
+        "hip-extension",
+        "hip-flexion"
+      ]
+    },
+    "adductor-magnus": {
+      "title": "Adductor Magnus",
+      "partOf": "adductors",
+      "region": "thigh",
+      "crossesJoints": [
+        "hip"
+      ],
+      "primaryActions": [
+        "hip-adduction"
+      ],
+      "secondaryActions": [
+        "hip-extension"
+      ]
+    },
+    "calves": {
+      "title": "Calves",
+      "aliases": [
+        "triceps surae"
+      ],
+      "region": "lower-leg",
+      "members": [
+        "gastrocnemius",
+        "soleus"
+      ],
+      "crossesJoints": [
+        "ankle",
+        "knee"
+      ],
+      "primaryActions": [
+        "ankle-plantarflexion"
+      ]
+    },
+    "gastrocnemius": {
+      "title": "Gastrocnemius",
+      "partOf": "calves",
+      "region": "lower-leg",
+      "crossesJoints": [
+        "knee",
+        "ankle"
+      ],
+      "primaryActions": [
+        "ankle-plantarflexion"
+      ],
+      "secondaryActions": [
+        "knee-flexion"
+      ]
+    },
+    "soleus": {
+      "title": "Soleus",
+      "partOf": "calves",
+      "region": "lower-leg",
+      "crossesJoints": [
+        "ankle"
+      ],
+      "primaryActions": [
+        "ankle-plantarflexion"
+      ]
+    },
+    "tibialis-anterior": {
+      "title": "Tibialis Anterior",
+      "region": "lower-leg",
+      "crossesJoints": [
+        "ankle"
+      ],
+      "primaryActions": [
+        "ankle-dorsiflexion"
+      ]
+    },
+    "pectoralis-major": {
+      "title": "Pectoralis Major",
+      "aliases": [
+        "pecs",
+        "chest"
+      ],
+      "region": "chest",
+      "crossesJoints": [
+        "shoulder"
+      ],
+      "primaryActions": [
+        "shoulder-horizontal-adduction",
+        "shoulder-flexion",
+        "shoulder-internal-rotation"
+      ]
+    },
+    "latissimus-dorsi": {
+      "title": "Latissimus Dorsi",
+      "aliases": [
+        "lats"
+      ],
+      "region": "back",
+      "crossesJoints": [
+        "shoulder"
+      ],
+      "primaryActions": [
+        "shoulder-extension",
+        "shoulder-adduction",
+        "shoulder-internal-rotation"
+      ]
+    },
+    "trapezius": {
+      "title": "Trapezius",
+      "aliases": [
+        "traps"
+      ],
+      "region": "back",
+      "members": [
+        "upper-trapezius",
+        "middle-trapezius",
+        "lower-trapezius"
+      ],
+      "crossesJoints": [
+        "scapulothoracic-joint",
+        "cervical-spine"
+      ],
+      "primaryActions": [
+        "scapular-elevation",
+        "scapular-retraction",
+        "scapular-upward-rotation"
+      ]
+    },
+    "rhomboids": {
+      "title": "Rhomboids",
+      "region": "back",
+      "crossesJoints": [
+        "scapulothoracic-joint"
+      ],
+      "primaryActions": [
+        "scapular-retraction",
+        "scapular-downward-rotation"
+      ]
+    },
+    "deltoids": {
+      "title": "Deltoids",
+      "aliases": [
+        "shoulders"
+      ],
+      "region": "shoulder-girdle",
+      "members": [
+        "anterior-deltoid",
+        "lateral-deltoid",
+        "posterior-deltoid"
+      ],
+      "crossesJoints": [
+        "shoulder"
+      ],
+      "primaryActions": [
+        "shoulder-abduction",
+        "shoulder-flexion",
+        "shoulder-extension"
+      ]
+    },
+    "rotator-cuff": {
+      "title": "Rotator Cuff",
+      "region": "shoulder-girdle",
+      "members": [
+        "supraspinatus",
+        "infraspinatus",
+        "teres-minor",
+        "subscapularis"
+      ],
+      "crossesJoints": [
+        "shoulder"
+      ],
+      "primaryActions": [
+        "glenohumeral-stability",
+        "shoulder-external-rotation",
+        "shoulder-internal-rotation"
+      ]
+    },
+    "biceps-brachii": {
+      "title": "Biceps Brachii",
+      "aliases": [
+        "biceps"
+      ],
+      "region": "upper-arm",
+      "crossesJoints": [
+        "elbow",
+        "shoulder"
+      ],
+      "primaryActions": [
+        "elbow-flexion",
+        "forearm-supination"
+      ],
+      "secondaryActions": [
+        "shoulder-flexion"
+      ]
+    },
+    "brachialis": {
+      "title": "Brachialis",
+      "region": "upper-arm",
+      "crossesJoints": [
+        "elbow"
+      ],
+      "primaryActions": [
+        "elbow-flexion"
+      ]
+    },
+    "triceps-brachii": {
+      "title": "Triceps Brachii",
+      "aliases": [
+        "triceps"
+      ],
+      "region": "upper-arm",
+      "crossesJoints": [
+        "elbow",
+        "shoulder"
+      ],
+      "primaryActions": [
+        "elbow-extension"
+      ],
+      "secondaryActions": [
+        "shoulder-extension"
+      ]
+    },
+    "forearm-flexors": {
+      "title": "Forearm Flexors",
+      "region": "forearm-hand",
+      "crossesJoints": [
+        "wrist",
+        "finger-joints",
+        "elbow"
+      ],
+      "primaryActions": [
+        "wrist-flexion",
+        "finger-flexion",
+        "grip"
+      ]
+    },
+    "forearm-extensors": {
+      "title": "Forearm Extensors",
+      "region": "forearm-hand",
+      "crossesJoints": [
+        "wrist",
+        "finger-joints",
+        "elbow"
+      ],
+      "primaryActions": [
+        "wrist-extension",
+        "finger-extension"
+      ]
+    },
+    "rectus-abdominis": {
+      "title": "Rectus Abdominis",
+      "aliases": [
+        "abs"
+      ],
+      "region": "core",
+      "crossesJoints": [
+        "lumbar-spine"
+      ],
+      "primaryActions": [
+        "spinal-flexion",
+        "anti-extension"
+      ]
+    },
+    "obliques": {
+      "title": "Obliques",
+      "region": "core",
+      "members": [
+        "external-oblique",
+        "internal-oblique"
+      ],
+      "crossesJoints": [
+        "lumbar-spine"
+      ],
+      "primaryActions": [
+        "trunk-rotation",
+        "lateral-flexion",
+        "anti-rotation"
+      ]
+    },
+    "transversus-abdominis": {
+      "title": "Transversus Abdominis",
+      "region": "core",
+      "primaryActions": [
+        "abdominal-bracing",
+        "spinal-stability"
+      ]
+    },
+    "erector-spinae": {
+      "title": "Erector Spinae",
+      "region": "back",
+      "crossesJoints": [
+        "spine"
+      ],
+      "primaryActions": [
+        "spinal-extension",
+        "isometric-spinal-stability"
+      ]
+    },
+    "multifidus": {
+      "title": "Multifidus",
+      "region": "back",
+      "crossesJoints": [
+        "spine"
+      ],
+      "primaryActions": [
+        "segmental-spinal-stability"
+      ]
+    }
+  },
+  "joints": {
+    "shoulder": {
+      "title": "Glenohumeral Joint",
+      "aliases": [
+        "shoulder joint"
+      ],
+      "region": "shoulder-girdle",
+      "bones": [
+        "humerus",
+        "scapula"
+      ],
+      "movements": [
+        "shoulder-flexion",
+        "shoulder-extension",
+        "shoulder-abduction",
+        "shoulder-adduction",
+        "shoulder-internal-rotation",
+        "shoulder-external-rotation",
+        "shoulder-horizontal-adduction"
+      ]
+    },
+    "scapulothoracic-joint": {
+      "title": "Scapulothoracic Articulation",
+      "region": "shoulder-girdle",
+      "bones": [
+        "scapula",
+        "rib-cage"
+      ],
+      "movements": [
+        "scapular-retraction",
+        "scapular-protraction",
+        "scapular-elevation",
+        "scapular-depression",
+        "scapular-upward-rotation"
+      ]
+    },
+    "elbow": {
+      "title": "Elbow",
+      "region": "upper-arm",
+      "bones": [
+        "humerus",
+        "radius",
+        "ulna"
+      ],
+      "movements": [
+        "elbow-flexion",
+        "elbow-extension"
+      ]
+    },
+    "wrist": {
+      "title": "Wrist",
+      "region": "forearm-hand",
+      "bones": [
+        "radius",
+        "ulna",
+        "carpals"
+      ],
+      "movements": [
+        "wrist-flexion",
+        "wrist-extension"
+      ]
+    },
+    "spine": {
+      "title": "Spine",
+      "region": "back",
+      "segments": [
+        "cervical-spine",
+        "thoracic-spine",
+        "lumbar-spine",
+        "sacrum"
+      ],
+      "movements": [
+        "spinal-flexion",
+        "spinal-extension",
+        "lateral-flexion",
+        "trunk-rotation",
+        "anti-extension",
+        "anti-rotation"
+      ]
+    },
+    "lumbar-spine": {
+      "title": "Lumbar Spine",
+      "region": "back",
+      "partOf": "spine",
+      "movements": [
+        "spinal-flexion",
+        "spinal-extension",
+        "anti-extension",
+        "isometric-spinal-stability"
+      ]
+    },
+    "hip": {
+      "title": "Hip",
+      "region": "pelvis-hip",
+      "bones": [
+        "pelvis",
+        "femur"
+      ],
+      "movements": [
+        "hip-flexion",
+        "hip-extension",
+        "hip-abduction",
+        "hip-adduction",
+        "hip-internal-rotation",
+        "hip-external-rotation"
+      ]
+    },
+    "knee": {
+      "title": "Knee",
+      "region": "knee",
+      "bones": [
+        "femur",
+        "tibia",
+        "patella"
+      ],
+      "movements": [
+        "knee-flexion",
+        "knee-extension"
+      ],
+      "relatedConcepts": [
+        "patella",
+        "meniscus",
+        "acl",
+        "pcl",
+        "mcl",
+        "lcl",
+        "patellar-tendon"
+      ]
+    },
+    "ankle": {
+      "title": "Ankle",
+      "region": "ankle-foot",
+      "bones": [
+        "tibia",
+        "fibula",
+        "talus"
+      ],
+      "movements": [
+        "ankle-dorsiflexion",
+        "ankle-plantarflexion"
+      ]
+    }
+  },
+  "movements": {
+    "hip-hinge": {
+      "title": "Hip Hinge",
+      "type": "movement-pattern",
+      "primaryJoints": [
+        "hip"
+      ],
+      "primaryMuscles": [
+        "hamstrings",
+        "gluteus-maximus",
+        "erector-spinae"
+      ],
+      "examples": [
+        "romanian-deadlift",
+        "deadlift",
+        "good-morning"
+      ]
+    },
+    "squat-pattern": {
+      "title": "Squat Pattern",
+      "type": "movement-pattern",
+      "primaryJoints": [
+        "hip",
+        "knee",
+        "ankle"
+      ],
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteus-maximus",
+        "adductors"
+      ],
+      "examples": [
+        "squat",
+        "leg-press",
+        "split-squat"
+      ]
+    },
+    "lunge-pattern": {
+      "title": "Lunge Pattern",
+      "type": "movement-pattern",
+      "primaryJoints": [
+        "hip",
+        "knee",
+        "ankle"
+      ],
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteus-maximus",
+        "adductors"
+      ],
+      "examples": [
+        "lunge",
+        "split-squat"
+      ]
+    },
+    "horizontal-push": {
+      "title": "Horizontal Push",
+      "type": "movement-pattern",
+      "primaryJoints": [
+        "shoulder",
+        "elbow"
+      ],
+      "primaryMuscles": [
+        "pectoralis-major",
+        "triceps-brachii",
+        "deltoids"
+      ],
+      "examples": [
+        "bench-press",
+        "chest-press",
+        "push-up"
+      ]
+    },
+    "vertical-push": {
+      "title": "Vertical Push",
+      "type": "movement-pattern",
+      "primaryJoints": [
+        "shoulder",
+        "elbow",
+        "scapulothoracic-joint"
+      ],
+      "primaryMuscles": [
+        "deltoids",
+        "triceps-brachii",
+        "trapezius"
+      ],
+      "examples": [
+        "overhead-press",
+        "shoulder-press"
+      ]
+    },
+    "horizontal-pull": {
+      "title": "Horizontal Pull",
+      "type": "movement-pattern",
+      "primaryJoints": [
+        "shoulder",
+        "elbow",
+        "scapulothoracic-joint"
+      ],
+      "primaryMuscles": [
+        "latissimus-dorsi",
+        "rhomboids",
+        "trapezius",
+        "biceps-brachii"
+      ],
+      "examples": [
+        "row",
+        "seated-row"
+      ]
+    },
+    "vertical-pull": {
+      "title": "Vertical Pull",
+      "type": "movement-pattern",
+      "primaryJoints": [
+        "shoulder",
+        "elbow",
+        "scapulothoracic-joint"
+      ],
+      "primaryMuscles": [
+        "latissimus-dorsi",
+        "biceps-brachii",
+        "trapezius"
+      ],
+      "examples": [
+        "pull-up",
+        "lat-pulldown"
+      ]
+    },
+    "knee-extension": {
+      "title": "Knee Extension",
+      "type": "joint-action",
+      "joint": "knee",
+      "agonists": [
+        "quadriceps"
+      ]
+    },
+    "knee-flexion": {
+      "title": "Knee Flexion",
+      "type": "joint-action",
+      "joint": "knee",
+      "agonists": [
+        "hamstrings",
+        "gastrocnemius"
+      ]
+    },
+    "hip-extension": {
+      "title": "Hip Extension",
+      "type": "joint-action",
+      "joint": "hip",
+      "agonists": [
+        "gluteus-maximus",
+        "hamstrings",
+        "adductor-magnus"
+      ]
+    },
+    "hip-flexion": {
+      "title": "Hip Flexion",
+      "type": "joint-action",
+      "joint": "hip",
+      "agonists": [
+        "hip-flexors",
+        "rectus-femoris",
+        "iliopsoas"
+      ]
+    },
+    "elbow-flexion": {
+      "title": "Elbow Flexion",
+      "type": "joint-action",
+      "joint": "elbow",
+      "agonists": [
+        "biceps-brachii",
+        "brachialis"
+      ]
+    },
+    "elbow-extension": {
+      "title": "Elbow Extension",
+      "type": "joint-action",
+      "joint": "elbow",
+      "agonists": [
+        "triceps-brachii"
+      ]
+    },
+    "ankle-plantarflexion": {
+      "title": "Ankle Plantarflexion",
+      "type": "joint-action",
+      "joint": "ankle",
+      "agonists": [
+        "calves"
+      ]
+    },
+    "ankle-dorsiflexion": {
+      "title": "Ankle Dorsiflexion",
+      "type": "joint-action",
+      "joint": "ankle",
+      "agonists": [
+        "tibialis-anterior"
+      ]
+    },
+    "shoulder-horizontal-adduction": {
+      "title": "Shoulder Horizontal Adduction",
+      "type": "joint-action",
+      "joint": "shoulder",
+      "agonists": [
+        "pectoralis-major",
+        "anterior-deltoid"
+      ]
+    },
+    "shoulder-extension": {
+      "title": "Shoulder Extension",
+      "type": "joint-action",
+      "joint": "shoulder",
+      "agonists": [
+        "latissimus-dorsi",
+        "posterior-deltoid",
+        "triceps-brachii"
+      ]
+    },
+    "scapular-retraction": {
+      "title": "Scapular Retraction",
+      "type": "joint-action",
+      "joint": "scapulothoracic-joint",
+      "agonists": [
+        "rhomboids",
+        "trapezius"
+      ]
+    }
+  },
+  "concepts": {
+    "posterior-chain": {
+      "title": "Posterior Chain",
+      "type": "region-concept",
+      "relatedMuscles": [
+        "hamstrings",
+        "gluteus-maximus",
+        "erector-spinae",
+        "calves"
+      ],
+      "relatedMovements": [
+        "hip-hinge",
+        "hip-extension"
+      ]
+    },
+    "anterior-chain": {
+      "title": "Anterior Chain",
+      "type": "region-concept",
+      "relatedMuscles": [
+        "quadriceps",
+        "hip-flexors",
+        "rectus-abdominis",
+        "pectoralis-major"
+      ]
+    },
+    "patella": {
+      "title": "Patella",
+      "type": "bone",
+      "region": "knee",
+      "relatedMuscles": [
+        "quadriceps"
+      ],
+      "relatedJoints": [
+        "knee"
+      ],
+      "relatedMovements": [
+        "knee-extension"
+      ],
+      "teachingUse": "Explain the kneecap as a lever for the quadriceps and a landmark in knee-focused exercises."
+    },
+    "patellar-tendon": {
+      "title": "Patellar Tendon",
+      "type": "connective-tissue",
+      "region": "knee",
+      "relatedMuscles": [
+        "quadriceps"
+      ],
+      "relatedJoints": [
+        "knee"
+      ],
+      "relatedMovements": [
+        "knee-extension"
+      ]
+    },
+    "meniscus": {
+      "title": "Meniscus",
+      "type": "cartilage",
+      "region": "knee",
+      "relatedJoints": [
+        "knee"
+      ],
+      "teachingUse": "Explain load distribution and knee comfort during squats, lunges, and leg press."
+    },
+    "acl": {
+      "title": "Anterior Cruciate Ligament",
+      "type": "ligament",
+      "region": "knee",
+      "relatedJoints": [
+        "knee"
+      ]
+    },
+    "pelvis": {
+      "title": "Pelvis",
+      "type": "bone-region",
+      "region": "pelvis-hip",
+      "relatedJoints": [
+        "hip",
+        "lumbar-spine"
+      ],
+      "relatedMuscles": [
+        "gluteus-maximus",
+        "gluteus-medius",
+        "hip-flexors",
+        "adductors"
+      ]
+    },
+    "scapula": {
+      "title": "Scapula",
+      "type": "bone",
+      "region": "shoulder-girdle",
+      "relatedJoints": [
+        "shoulder",
+        "scapulothoracic-joint"
+      ],
+      "relatedMuscles": [
+        "trapezius",
+        "rhomboids",
+        "rotator-cuff",
+        "latissimus-dorsi"
+      ]
+    },
+    "rib-cage": {
+      "title": "Rib Cage",
+      "type": "bone-region",
+      "region": "chest",
+      "relatedSystems": [
+        "skeletal",
+        "respiratory"
+      ],
+      "relatedConcepts": [
+        "breathing-mechanics"
+      ]
+    },
+    "breathing-mechanics": {
+      "title": "Breathing Mechanics",
+      "type": "system-concept",
+      "relatedSystems": [
+        "respiratory",
+        "nervous"
+      ],
+      "relatedMuscles": [
+        "diaphragm",
+        "intercostals"
+      ],
+      "teachingUse": "Use during rest to explain nasal breathing, rib expansion, and down-regulation."
+    },
+    "bracing": {
+      "title": "Bracing",
+      "type": "training-concept",
+      "relatedMuscles": [
+        "transversus-abdominis",
+        "obliques",
+        "rectus-abdominis",
+        "erector-spinae"
+      ],
+      "relatedMovements": [
+        "anti-extension",
+        "anti-rotation",
+        "isometric-spinal-stability"
+      ]
+    },
+    "eccentric-contraction": {
+      "title": "Eccentric Contraction",
+      "type": "muscle-action-concept",
+      "teachingUse": "Explain controlled lowering, stretch under load, and delayed soreness."
+    },
+    "concentric-contraction": {
+      "title": "Concentric Contraction",
+      "type": "muscle-action-concept",
+      "teachingUse": "Explain the lifting/shortening phase of a rep."
+    },
+    "isometric-contraction": {
+      "title": "Isometric Contraction",
+      "type": "muscle-action-concept",
+      "teachingUse": "Explain bracing, holds, and stability work."
+    },
+    "active-recovery": {
+      "title": "Active Recovery",
+      "type": "rest-concept",
+      "relatedSystems": [
+        "cardiovascular",
+        "nervous"
+      ],
+      "teachingUse": "Use to suggest gentle breathing or easy mobility during rest without interfering with the next set."
+    }
+  },
+  "yogaGoals": {
+    "posterior-chain-mobility": {
+      "title": "Posterior Chain Mobility",
+      "targets": [
+        "hamstrings",
+        "calves",
+        "erector-spinae"
+      ],
+      "restTimerGuidance": "Use gentle intensity. Avoid aggressive stretching immediately before maximal hinge sets."
+    },
+    "hip-flexor-mobility": {
+      "title": "Hip Flexor Mobility",
+      "targets": [
+        "hip-flexors",
+        "rectus-femoris"
+      ],
+      "restTimerGuidance": "Useful after squats, lunges, hip thrusts, and prolonged sitting."
+    },
+    "quadriceps-length": {
+      "title": "Quadriceps Length",
+      "targets": [
+        "quadriceps",
+        "rectus-femoris"
+      ],
+      "restTimerGuidance": "Use low intensity if knees are sensitive."
+    },
+    "chest-opening": {
+      "title": "Chest Opening",
+      "targets": [
+        "pectoralis-major",
+        "anterior-deltoid"
+      ],
+      "restTimerGuidance": "Useful after pressing. Avoid forcing shoulder extension."
+    },
+    "lat-side-body-length": {
+      "title": "Lat & Side Body Length",
+      "targets": [
+        "latissimus-dorsi",
+        "rib-cage"
+      ],
+      "restTimerGuidance": "Good after vertical pulling and rows."
+    },
+    "scapular-reset": {
+      "title": "Scapular Reset",
+      "targets": [
+        "scapula",
+        "trapezius",
+        "rhomboids"
+      ],
+      "restTimerGuidance": "Use gentle reach-and-breathe positions between upper-body sets."
+    },
+    "lumbar-decompression": {
+      "title": "Lumbar Decompression",
+      "targets": [
+        "lumbar-spine",
+        "erector-spinae"
+      ],
+      "restTimerGuidance": "Prefer relaxed breathing positions over intense loaded flexion."
+    },
+    "ankle-calf-mobility": {
+      "title": "Ankle & Calf Mobility",
+      "targets": [
+        "calves",
+        "ankle",
+        "tibialis-anterior"
+      ],
+      "restTimerGuidance": "Useful after calf raises, squats, and lunges."
+    },
+    "breathing-downregulation": {
+      "title": "Breathing Down-Regulation",
+      "targets": [
+        "respiratory",
+        "nervous"
+      ],
+      "restTimerGuidance": "Use any time the user needs recovery before the next set."
+    }
+  }
+}
