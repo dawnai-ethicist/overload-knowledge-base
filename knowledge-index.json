@@ -1,5 +1,5 @@
 {
-  "version": "3.0-exact-repo",
+  "version": "4.0-with-ontology-book-index",
   "baseUrl": "https://dawnai-ethicist.github.io/overload-knowledge-base/",
   "entryPoint": "https://dawnai-ethicist.github.io/overload-knowledge-base/knowledge-index.json",
   "files": {
@@ -8,7 +8,9 @@
     "concepts": "https://dawnai-ethicist.github.io/overload-knowledge-base/concepts.json",
     "exerciseMap": "https://dawnai-ethicist.github.io/overload-knowledge-base/exercise-map.json",
     "facts": "https://dawnai-ethicist.github.io/overload-knowledge-base/rest-facts.json",
-    "yogaPoseMap": "https://dawnai-ethicist.github.io/overload-knowledge-base/yoga-pose-map.json"
+    "yogaPoseMap": "https://dawnai-ethicist.github.io/overload-knowledge-base/yoga-pose-map.json",
+    "ontology": "https://dawnai-ethicist.github.io/overload-knowledge-base/ontology.json",
+    "bookIndex": "https://dawnai-ethicist.github.io/overload-knowledge-base/book-index.json"
   },
   "integrationNotes": [
     "Generated from the actual GitHub repo zip; do not use old group-full-body paths.",
@@ -57,5 +59,14 @@
   ],
   "imageCount": 96,
   "conceptCount": 19,
-  "factCount": 42
+  "factCount": 42,
+  "recommendedRetrievalFlow": [
+    "exercise-map.json",
+    "ontology.json",
+    "book-index.json",
+    "images.json",
+    "rest-facts.json",
+    "yoga-pose-map.json"
+  ],
+  "notes": "v4 adds ontology.json and book-index.json as the routing bridge between exercises, body concepts, Swanson book topics, images, rest facts, and yoga pose suggestions."
 }

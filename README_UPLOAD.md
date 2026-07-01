@@ -1,9 +1,14 @@
-# Upload instructions
+# Upload these files to the repo root
 
-Upload `ontology.json` to the root of `dawnai-ethicist/overload-knowledge-base`.
+Upload these files to `dawnai-ethicist/overload-knowledge-base` root:
 
-After GitHub Pages updates, test:
+- `book-index.json`
+- `knowledge-index.json`
 
-https://dawnai-ethicist.github.io/overload-knowledge-base/ontology.json
+Overwrite `knowledge-index.json` if GitHub asks. Do not delete image folders.
 
-This file is the core body/movement ontology. Other files should point into these IDs.
+Test after GitHub Pages updates:
+
+https://dawnai-ethicist.github.io/overload-knowledge-base/book-index.json
+
+https://dawnai-ethicist.github.io/overload-knowledge-base/knowledge-index.json

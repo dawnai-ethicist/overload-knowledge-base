@@ -1,0 +1,690 @@
+{
+  "schemaVersion": "1.0.0",
+  "source": "Science of Yoga / Swanson PDF extraction uploaded to overload-knowledge-base",
+  "purpose": "Map human-body topics to actual GitHub image folders/pages so Overload can retrieve relevant book-derived visuals and concepts without reading the whole PDF.",
+  "baseUrl": "https://dawnai-ethicist.github.io/overload-knowledge-base/",
+  "idConventions": {
+    "topicIds": "lowercase-kebab-case",
+    "folderPaths": "relative to GitHub Pages root"
+  },
+  "topics": {
+    "skeletal-system": {
+      "title": "Skeletal System",
+      "aliases": [
+        "bones",
+        "skeleton",
+        "bone structure"
+      ],
+      "bodyRegion": "whole-body",
+      "system": "skeletal",
+      "sourcePageRange": [
+        12,
+        13
+      ],
+      "relatedFolders": [
+        "skeletal-system",
+        "group-skeletal-system",
+        "group-bones",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "bone",
+        "skeleton",
+        "cartilage",
+        "ligament"
+      ],
+      "relatedExercises": [
+        "squat",
+        "deadlift",
+        "overhead-press",
+        "row"
+      ],
+      "relatedYogaGoals": [
+        "joint-awareness",
+        "postural-alignment"
+      ],
+      "retrievalNotes": "Use for general body structure, bony landmarks, cartilage, and ligament context."
+    },
+    "spine": {
+      "title": "Spine",
+      "aliases": [
+        "vertebrae",
+        "spinal curves",
+        "lumbar spine",
+        "thoracic spine",
+        "cervical spine"
+      ],
+      "bodyRegion": "spine-core",
+      "system": "skeletal",
+      "sourcePageRange": [
+        14,
+        17
+      ],
+      "relatedFolders": [
+        "group-spine",
+        "spine-core",
+        "group-posture",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "spine",
+        "vertebrae",
+        "lumbar-spine",
+        "thoracic-spine",
+        "posture"
+      ],
+      "relatedExercises": [
+        "romanian-deadlift",
+        "deadlift",
+        "row",
+        "overhead-press",
+        "back-extension"
+      ],
+      "relatedYogaGoals": [
+        "lumbar-decompression",
+        "spinal-length",
+        "neutral-spine-awareness"
+      ],
+      "retrievalNotes": "Use during hip hinges, rows, overhead work, posture cues, and neutral spine teaching."
+    },
+    "pelvis-hips": {
+      "title": "Pelvis & Hips",
+      "aliases": [
+        "pelvis",
+        "hip joint",
+        "neutral pelvis",
+        "sacrum"
+      ],
+      "bodyRegion": "pelvis-hip",
+      "system": "skeletal",
+      "sourcePageRange": [
+        15,
+        17
+      ],
+      "relatedFolders": [
+        "hips-pelvis",
+        "group-pelvis",
+        "group-joints",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "pelvis",
+        "hip",
+        "sacrum",
+        "neutral-pelvis"
+      ],
+      "relatedExercises": [
+        "squat",
+        "romanian-deadlift",
+        "hip-thrust",
+        "lunge",
+        "leg-press"
+      ],
+      "relatedYogaGoals": [
+        "hip-flexor-mobility",
+        "pelvic-position-awareness",
+        "glute-relaxation"
+      ],
+      "retrievalNotes": "Use when exercise involves hip extension, hip flexion, pelvic position, or hinge mechanics."
+    },
+    "joints": {
+      "title": "Joints & Joint Actions",
+      "aliases": [
+        "joint actions",
+        "synovial joints",
+        "arthritis",
+        "flexion",
+        "extension"
+      ],
+      "bodyRegion": "whole-body",
+      "system": "skeletal",
+      "sourcePageRange": [
+        16,
+        17
+      ],
+      "relatedFolders": [
+        "joints",
+        "group-joints",
+        "group-ligaments",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "synovial-joint",
+        "joint-action",
+        "flexion",
+        "extension",
+        "rotation"
+      ],
+      "relatedExercises": [
+        "squat",
+        "leg-extension",
+        "leg-curl",
+        "press",
+        "row",
+        "curl"
+      ],
+      "relatedYogaGoals": [
+        "gentle-range-of-motion",
+        "joint-awareness"
+      ],
+      "retrievalNotes": "Use when explaining movement terms or why a pose/exercise moves a joint a certain way."
+    },
+    "quadriceps": {
+      "title": "Quadriceps",
+      "aliases": [
+        "quads",
+        "anterior thigh",
+        "rectus femoris",
+        "vastus lateralis",
+        "vastus medialis",
+        "vastus intermedius"
+      ],
+      "bodyRegion": "anterior-thigh",
+      "system": "muscular",
+      "sourcePageRange": [
+        18,
+        18
+      ],
+      "relatedFolders": [
+        "group-quads",
+        "muscles-anterior",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "quadriceps",
+        "rectus-femoris",
+        "knee-extension",
+        "patella"
+      ],
+      "relatedExercises": [
+        "leg-extension",
+        "squat",
+        "leg-press",
+        "lunge",
+        "step-up"
+      ],
+      "relatedYogaGoals": [
+        "quadriceps-length",
+        "hip-flexor-mobility",
+        "knee-comfort"
+      ],
+      "retrievalNotes": "Use for knee extension and front-of-thigh work; pair with gentle anterior thigh/hip-flexor poses."
+    },
+    "posterior-chain": {
+      "title": "Posterior Chain",
+      "aliases": [
+        "hamstrings",
+        "glutes",
+        "erector spinae",
+        "posterior thigh",
+        "back body"
+      ],
+      "bodyRegion": "posterior-chain",
+      "system": "muscular",
+      "sourcePageRange": [
+        19,
+        19
+      ],
+      "relatedFolders": [
+        "group-posterior-chain",
+        "muscles-posterior",
+        "hip-glute",
+        "group-spine",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "hamstrings",
+        "gluteus-maximus",
+        "erector-spinae",
+        "hip-extension"
+      ],
+      "relatedExercises": [
+        "romanian-deadlift",
+        "deadlift",
+        "leg-curl",
+        "hip-thrust",
+        "back-extension"
+      ],
+      "relatedYogaGoals": [
+        "posterior-chain-mobility",
+        "lumbar-decompression",
+        "hamstring-length"
+      ],
+      "retrievalNotes": "Use for hinges, hip extension, hamstring-focused lifts, and posterior chain teaching."
+    },
+    "shoulder-girdle": {
+      "title": "Shoulder Girdle",
+      "aliases": [
+        "shoulders",
+        "scapula",
+        "shoulder blades",
+        "rotator cuff",
+        "glenohumeral joint"
+      ],
+      "bodyRegion": "shoulder-girdle",
+      "system": "musculoskeletal",
+      "sourcePageRange": [
+        13,
+        19
+      ],
+      "relatedFolders": [
+        "group-shoulders",
+        "group-joints",
+        "muscles-posterior",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "scapula",
+        "shoulder",
+        "rotator-cuff",
+        "glenohumeral-joint"
+      ],
+      "relatedExercises": [
+        "lat-pulldown",
+        "row",
+        "bench-press",
+        "chest-press",
+        "overhead-press",
+        "lateral-raise"
+      ],
+      "relatedYogaGoals": [
+        "shoulder-openers",
+        "scapular-awareness",
+        "thoracic-extension"
+      ],
+      "retrievalNotes": "Use for pressing, pulling, scapular control, and shoulder mobility recommendations."
+    },
+    "biceps-elbow-flexion": {
+      "title": "Biceps & Elbow Flexion",
+      "aliases": [
+        "biceps",
+        "biceps brachii",
+        "elbow flexors",
+        "upper arm"
+      ],
+      "bodyRegion": "upper-arm",
+      "system": "muscular",
+      "sourcePageRange": [
+        21,
+        21
+      ],
+      "relatedFolders": [
+        "arms-biceps",
+        "group-muscle-contraction",
+        "muscle-contraction",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "biceps-brachii",
+        "elbow-flexion",
+        "muscle-contraction"
+      ],
+      "relatedExercises": [
+        "bicep-curl",
+        "chin-up",
+        "row",
+        "lat-pulldown"
+      ],
+      "relatedYogaGoals": [
+        "elbow-comfort",
+        "forearm-release",
+        "upper-arm-relaxation"
+      ],
+      "retrievalNotes": "Use for curls, pulling motions, and simple muscle contraction examples."
+    },
+    "muscle-contraction": {
+      "title": "Muscle Contraction",
+      "aliases": [
+        "contraction",
+        "sarcomere",
+        "muscle fiber",
+        "motor unit"
+      ],
+      "bodyRegion": "whole-body",
+      "system": "muscular",
+      "sourcePageRange": [
+        20,
+        21
+      ],
+      "relatedFolders": [
+        "muscle-contraction",
+        "group-muscle-contraction",
+        "arms-biceps",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "muscle-fiber",
+        "contraction",
+        "motor-unit",
+        "tendon"
+      ],
+      "relatedExercises": [
+        "all-strength-exercises"
+      ],
+      "relatedYogaGoals": [
+        "gentle-breathing",
+        "recovery-between-sets"
+      ],
+      "retrievalNotes": "Use when explaining how muscle force is produced and why rest between sets matters."
+    },
+    "nervous-system": {
+      "title": "Nervous System",
+      "aliases": [
+        "brain",
+        "spinal cord",
+        "nerves",
+        "autonomic nervous system",
+        "motor control"
+      ],
+      "bodyRegion": "whole-body",
+      "system": "nervous",
+      "sourcePageRange": [
+        22,
+        23
+      ],
+      "relatedFolders": [
+        "nervous-system",
+        "group-nervous-system",
+        "group-motor-control",
+        "group-motor-learning",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "nervous-system",
+        "motor-control",
+        "autonomic-nervous-system",
+        "proprioception"
+      ],
+      "relatedExercises": [
+        "all-strength-exercises",
+        "balance-work",
+        "skill-practice"
+      ],
+      "relatedYogaGoals": [
+        "parasympathetic-downshift",
+        "breath-awareness",
+        "proprioception"
+      ],
+      "retrievalNotes": "Use for skill learning, coordination, fatigue, rest, breathing, and recovery content."
+    },
+    "respiratory-system": {
+      "title": "Respiratory System",
+      "aliases": [
+        "breathing",
+        "lungs",
+        "diaphragm",
+        "rib cage",
+        "breath"
+      ],
+      "bodyRegion": "torso",
+      "system": "respiratory",
+      "sourcePageRange": [
+        30,
+        30
+      ],
+      "relatedFolders": [
+        "respiratory-system",
+        "group-ribs",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "diaphragm",
+        "ribs",
+        "breathing",
+        "lungs"
+      ],
+      "relatedExercises": [
+        "all-strength-exercises",
+        "bracing",
+        "conditioning"
+      ],
+      "relatedYogaGoals": [
+        "diaphragmatic-breathing",
+        "rib-expansion",
+        "downregulation"
+      ],
+      "retrievalNotes": "Use for rest timer breath cues, rib cage movement, and recovery between sets."
+    },
+    "cardiovascular-system": {
+      "title": "Cardiovascular System",
+      "aliases": [
+        "heart",
+        "blood vessels",
+        "circulation",
+        "blood flow"
+      ],
+      "bodyRegion": "whole-body",
+      "system": "cardiovascular",
+      "sourcePageRange": [
+        28,
+        29
+      ],
+      "relatedFolders": [
+        "cardiovascular-system",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "heart",
+        "circulation",
+        "blood-flow"
+      ],
+      "relatedExercises": [
+        "conditioning",
+        "circuit-training",
+        "high-rep-sets"
+      ],
+      "relatedYogaGoals": [
+        "slow-breathing",
+        "recovery-between-sets"
+      ],
+      "retrievalNotes": "Use for heart rate, circulation, and why rest periods feel different after hard sets."
+    },
+    "lymphatic-immune": {
+      "title": "Lymphatic & Immune System",
+      "aliases": [
+        "lymph",
+        "immune system",
+        "inflammation",
+        "recovery"
+      ],
+      "bodyRegion": "whole-body",
+      "system": "lymphatic-immune",
+      "sourcePageRange": [
+        26,
+        27
+      ],
+      "relatedFolders": [
+        "lymphatic-system",
+        "group-immune-system",
+        "group-inflammation",
+        "inflammation",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "lymph",
+        "immune-system",
+        "inflammation",
+        "recovery"
+      ],
+      "relatedExercises": [
+        "all-strength-exercises"
+      ],
+      "relatedYogaGoals": [
+        "gentle-movement",
+        "recovery",
+        "restorative-poses"
+      ],
+      "retrievalNotes": "Use for recovery, soreness, tissue stress, and gentle movement/rest rationale."
+    },
+    "stress-recovery": {
+      "title": "Stress & Recovery",
+      "aliases": [
+        "stress",
+        "cortisol",
+        "recovery",
+        "rest",
+        "fatigue"
+      ],
+      "bodyRegion": "whole-body",
+      "system": "nervous-endocrine",
+      "sourcePageRange": [
+        24,
+        25
+      ],
+      "relatedFolders": [
+        "stress-cortisol",
+        "group-stress",
+        "group-recovery",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "stress",
+        "cortisol",
+        "recovery",
+        "autonomic-nervous-system"
+      ],
+      "relatedExercises": [
+        "all-strength-exercises"
+      ],
+      "relatedYogaGoals": [
+        "downregulation",
+        "parasympathetic-breathing",
+        "restorative-rest"
+      ],
+      "retrievalNotes": "Use for rest-timer content that teaches why recovery is part of training."
+    },
+    "wrists-forearms": {
+      "title": "Wrists & Forearms",
+      "aliases": [
+        "wrist",
+        "forearm",
+        "grip",
+        "hands"
+      ],
+      "bodyRegion": "forearm-hand",
+      "system": "musculoskeletal",
+      "sourcePageRange": [
+        16,
+        19
+      ],
+      "relatedFolders": [
+        "group-wrists",
+        "group-joints",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "wrist",
+        "forearm",
+        "grip",
+        "flexion",
+        "extension"
+      ],
+      "relatedExercises": [
+        "curl",
+        "row",
+        "deadlift",
+        "farmer-carry",
+        "push-up"
+      ],
+      "relatedYogaGoals": [
+        "wrist-mobility",
+        "forearm-release"
+      ],
+      "retrievalNotes": "Use for grip-heavy pulling, curls, carries, and wrist comfort."
+    },
+    "knees": {
+      "title": "Knees",
+      "aliases": [
+        "knee joint",
+        "patella",
+        "ligaments",
+        "meniscus"
+      ],
+      "bodyRegion": "knee",
+      "system": "musculoskeletal",
+      "sourcePageRange": [
+        16,
+        18
+      ],
+      "relatedFolders": [
+        "group-knees",
+        "group-joints",
+        "group-ligaments",
+        "group-quads",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "knee",
+        "patella",
+        "ligament",
+        "knee-extension"
+      ],
+      "relatedExercises": [
+        "leg-extension",
+        "squat",
+        "leg-press",
+        "lunge"
+      ],
+      "relatedYogaGoals": [
+        "knee-comfort",
+        "quad-length",
+        "gentle-range-of-motion"
+      ],
+      "retrievalNotes": "Use for squat/leg-extension knee teaching and cautious yoga pose selection."
+    },
+    "adductors": {
+      "title": "Adductors",
+      "aliases": [
+        "inner thigh",
+        "adductor magnus",
+        "groin"
+      ],
+      "bodyRegion": "medial-thigh",
+      "system": "muscular",
+      "sourcePageRange": [
+        18,
+        19
+      ],
+      "relatedFolders": [
+        "group-adductors",
+        "muscles-anterior",
+        "muscles-posterior",
+        "_all_pages"
+      ],
+      "ontologyConcepts": [
+        "adductors",
+        "hip-adduction",
+        "adductor-magnus"
+      ],
+      "relatedExercises": [
+        "squat",
+        "sumo-deadlift",
+        "lunge",
+        "hip-adduction"
+      ],
+      "relatedYogaGoals": [
+        "inner-thigh-mobility",
+        "hip-opening"
+      ],
+      "retrievalNotes": "Use for inner-thigh work, wide-stance lifts, and gentle hip-opening poses."
+    }
+  },
+  "retrievalPolicy": {
+    "preferredFlow": [
+      "exercise-map.json",
+      "ontology.json",
+      "book-index.json",
+      "images.json",
+      "rest-facts.json",
+      "yoga-pose-map.json"
+    ],
+    "rules": [
+      "Use exercise-map.json to identify relevant concept IDs for the current exercise.",
+      "Use ontology.json to expand those IDs into related muscles, joints, systems, and movements.",
+      "Use book-index.json to choose the most relevant book-derived topic and folder set.",
+      "Use images.json to select an image whose path exists in the repository.",
+      "Use yoga-pose-map.json only for explicit pose recommendations; do not invent poses from image folders alone.",
+      "If no exact match exists, prefer a body-region match over a random fact."
+    ]
+  }
+}
