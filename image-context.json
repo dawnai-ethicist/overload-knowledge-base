@@ -1,0 +1,2284 @@
+{
+  "schemaVersion": "1.0.0",
+  "purpose": "LLM-readable context layer for repository images. Each entry explains what an image likely shows and when to use it.",
+  "baseUrl": "https://dawnai-ethicist.github.io/overload-knowledge-base/",
+  "images": [
+    {
+      "imageId": "img_001",
+      "imagePath": "_all_pages/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "title": "Skeletal system overview bones bone structure skeleton map",
+      "visibleStructures": [
+        "skeletal"
+      ],
+      "bestForExplaining": [
+        "skeletal",
+        "all-pages",
+        "bone",
+        "bones",
+        "map",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Skeletal system overview bones bone structure skeleton map. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: skeletal, all-pages, bone, bones, map, overview, skeletal. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_002",
+      "imagePath": "_all_pages/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "title": "Posterior skeleton cartilage ligaments",
+      "visibleStructures": [
+        "all-pages",
+        "cartilage",
+        "ligaments",
+        "posterior"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "cartilage",
+        "ligaments",
+        "posterior",
+        "skeleton"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Posterior skeleton cartilage ligaments. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, cartilage, ligaments, posterior, all-pages, cartilage, ligaments, posterior, skeleton, source-pages. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_003",
+      "imagePath": "_all_pages/swanson-file-p016-book-p014-spine-curves-and-vertebrae.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p016-book-p014-spine-curves-and-vertebrae.jpg",
+      "title": "Spine curves and vertebrae",
+      "visibleStructures": [
+        "spine"
+      ],
+      "bestForExplaining": [
+        "spine",
+        "all-pages",
+        "and",
+        "curves",
+        "source-pages"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Spine curves and vertebrae. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: spine, all-pages, and, curves, source-pages, spine, vertebrae. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_004",
+      "imagePath": "_all_pages/swanson-file-p017-book-p015-pelvis-structure-and-neutral-pelvis.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p017-book-p015-pelvis-structure-and-neutral-pelvis.jpg",
+      "title": "Pelvis structure and neutral pelvis",
+      "visibleStructures": [
+        "pelvis"
+      ],
+      "bestForExplaining": [
+        "pelvis",
+        "all-pages",
+        "and",
+        "neutral",
+        "source-pages"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Pelvis structure and neutral pelvis. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: pelvis, all-pages, and, neutral, pelvis, source-pages, structure. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_005",
+      "imagePath": "_all_pages/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "title": "Joint actions and synovial joints",
+      "visibleStructures": [
+        "joint"
+      ],
+      "bestForExplaining": [
+        "joint",
+        "actions",
+        "all-pages",
+        "and",
+        "joints"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions and synovial joints. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: joint, actions, all-pages, and, joint, joints, source-pages. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_006",
+      "imagePath": "_all_pages/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "title": "Joint actions in poses and arthritis progression",
+      "visibleStructures": [
+        "joint"
+      ],
+      "bestForExplaining": [
+        "joint",
+        "actions",
+        "all-pages",
+        "and",
+        "arthritis",
+        "in"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions in poses and arthritis progression. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: joint, actions, all-pages, and, arthritis, in, joint. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_007",
+      "imagePath": "_all_pages/swanson-file-p020-book-p018-muscular-system-anterior-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p020-book-p018-muscular-system-anterior-overview.jpg",
+      "title": "Muscular system anterior overview",
+      "visibleStructures": [
+        "all-pages",
+        "anterior",
+        "muscular",
+        "overview"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "anterior",
+        "muscular",
+        "overview",
+        "source-pages"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscular system anterior overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, anterior, muscular, overview, all-pages, anterior, muscular, overview, source-pages, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_008",
+      "imagePath": "_all_pages/swanson-file-p021-book-p019-muscular-system-posterior-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p021-book-p019-muscular-system-posterior-overview.jpg",
+      "title": "Muscular system posterior overview",
+      "visibleStructures": [
+        "all-pages",
+        "muscular",
+        "overview",
+        "posterior"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "muscular",
+        "overview",
+        "posterior",
+        "source-pages"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscular system posterior overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, muscular, overview, posterior, all-pages, muscular, overview, posterior, source-pages, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_009",
+      "imagePath": "_all_pages/swanson-file-p022-book-p020-muscle-structure-and-how-muscles-work.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p022-book-p020-muscle-structure-and-how-muscles-work.jpg",
+      "title": "Muscle structure and how muscles work",
+      "visibleStructures": [
+        "muscle"
+      ],
+      "bestForExplaining": [
+        "muscle",
+        "all-pages",
+        "and",
+        "how",
+        "muscles"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscle structure and how muscles work. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: muscle, all-pages, and, how, muscle, muscles, source-pages. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_010",
+      "imagePath": "_all_pages/swanson-file-p023-book-p021-biceps-contraction-and-muscle-contraction-detail.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p023-book-p021-biceps-contraction-and-muscle-contraction-detail.jpg",
+      "title": "Biceps contraction and muscle contraction detail",
+      "visibleStructures": [
+        "biceps",
+        "muscle"
+      ],
+      "bestForExplaining": [
+        "biceps",
+        "muscle",
+        "all-pages",
+        "and",
+        "contraction",
+        "detail"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Biceps contraction and muscle contraction detail. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: biceps, muscle, all-pages, and, biceps, contraction, detail, muscle. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_011",
+      "imagePath": "_all_pages/swanson-file-p024-book-p022-nervous-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p024-book-p022-nervous-system-overview.jpg",
+      "title": "Nervous system overview",
+      "visibleStructures": [
+        "nervous"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "all-pages",
+        "overview",
+        "source-pages",
+        "system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nervous system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, all-pages, nervous, overview, source-pages, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_012",
+      "imagePath": "_all_pages/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "title": "Nerve structure and autonomic nervous system",
+      "visibleStructures": [
+        "nervous"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "all-pages",
+        "and",
+        "autonomic",
+        "nerve"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nerve structure and autonomic nervous system. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, all-pages, and, autonomic, nerve, nervous, source-pages. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_013",
+      "imagePath": "_all_pages/swanson-file-p026-book-p024-cerebral-cortex-and-inside-the-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p026-book-p024-cerebral-cortex-and-inside-the-brain.jpg",
+      "title": "Cerebral cortex and inside the brain",
+      "visibleStructures": [
+        "all-pages",
+        "and",
+        "brain",
+        "cerebral"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "and",
+        "brain",
+        "cerebral",
+        "cortex"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Cerebral cortex and inside the brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, and, brain, cerebral, all-pages, and, brain, cerebral, cortex, inside. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_014",
+      "imagePath": "_all_pages/swanson-file-p027-book-p025-limbic-system-and-effects-on-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p027-book-p025-limbic-system-and-effects-on-brain.jpg",
+      "title": "Limbic system and effects on brain",
+      "visibleStructures": [
+        "all-pages",
+        "and",
+        "brain",
+        "effects"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "and",
+        "brain",
+        "effects",
+        "limbic"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Limbic system and effects on brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, and, brain, effects, all-pages, and, brain, effects, limbic, on. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_015",
+      "imagePath": "_all_pages/swanson-file-p028-book-p026-neural-pathways-and-changing-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p028-book-p026-neural-pathways-and-changing-brain.jpg",
+      "title": "Neural pathways and changing brain",
+      "visibleStructures": [
+        "all-pages",
+        "and",
+        "brain",
+        "changing"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "and",
+        "brain",
+        "changing",
+        "neural"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Neural pathways and changing brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, and, brain, changing, all-pages, and, brain, changing, neural, pathways. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_016",
+      "imagePath": "_all_pages/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "title": "Neurogenesis and cortisol levels",
+      "visibleStructures": [
+        "all-pages",
+        "and",
+        "cortisol",
+        "levels"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "and",
+        "cortisol",
+        "levels",
+        "neurogenesis"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Neurogenesis and cortisol levels. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, and, cortisol, levels, all-pages, and, cortisol, levels, neurogenesis, source-pages. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_017",
+      "imagePath": "_all_pages/swanson-file-p032-book-p030-respiratory-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p032-book-p030-respiratory-system-overview.jpg",
+      "title": "Respiratory system overview",
+      "visibleStructures": [
+        "respiratory"
+      ],
+      "bestForExplaining": [
+        "respiratory",
+        "all-pages",
+        "overview",
+        "source-pages",
+        "system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Respiratory system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: respiratory, all-pages, overview, respiratory, source-pages, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_018",
+      "imagePath": "_all_pages/swanson-file-p033-book-p031-how-we-breathe.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p033-book-p031-how-we-breathe.jpg",
+      "title": "How we breathe",
+      "visibleStructures": [
+        "all-pages",
+        "breathe",
+        "how",
+        "source-pages"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "breathe",
+        "how",
+        "source-pages",
+        "we"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: How we breathe. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, breathe, how, source-pages, all-pages, breathe, how, source-pages, we. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_019",
+      "imagePath": "_all_pages/swanson-file-p034-book-p032-pranayama-and-breathwork-practices.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p034-book-p032-pranayama-and-breathwork-practices.jpg",
+      "title": "Pranayama and breathwork practices",
+      "visibleStructures": [
+        "all-pages",
+        "and",
+        "breathwork",
+        "practices"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "and",
+        "breathwork",
+        "practices",
+        "pranayama"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Pranayama and breathwork practices. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, and, breathwork, practices, all-pages, and, breathwork, practices, pranayama, source-pages. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_020",
+      "imagePath": "_all_pages/swanson-file-p035-book-p033-nasal-cycle-and-breathing-practices.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p035-book-p033-nasal-cycle-and-breathing-practices.jpg",
+      "title": "Nasal cycle and breathing practices",
+      "visibleStructures": [
+        "all-pages",
+        "and",
+        "breathing",
+        "cycle"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "and",
+        "breathing",
+        "cycle",
+        "nasal"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nasal cycle and breathing practices. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, and, breathing, cycle, all-pages, and, breathing, cycle, nasal, practices. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_021",
+      "imagePath": "_all_pages/swanson-file-p036-book-p034-cardiovascular-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p036-book-p034-cardiovascular-system-overview.jpg",
+      "title": "Cardiovascular system overview",
+      "visibleStructures": [
+        "cardiovascular"
+      ],
+      "bestForExplaining": [
+        "cardiovascular",
+        "all-pages",
+        "overview",
+        "source-pages",
+        "system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Cardiovascular system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: cardiovascular, all-pages, cardiovascular, overview, source-pages, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_022",
+      "imagePath": "_all_pages/swanson-file-p037-book-p035-heart-and-circulation.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p037-book-p035-heart-and-circulation.jpg",
+      "title": "Heart and circulation",
+      "visibleStructures": [
+        "all-pages",
+        "and",
+        "circulation",
+        "heart"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "and",
+        "circulation",
+        "heart",
+        "source-pages"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Heart and circulation. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, and, circulation, heart, all-pages, and, circulation, heart, source-pages. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_023",
+      "imagePath": "_all_pages/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "title": "Lymphatic system overview",
+      "visibleStructures": [
+        "lymphatic"
+      ],
+      "bestForExplaining": [
+        "lymphatic",
+        "all-pages",
+        "overview",
+        "source-pages",
+        "system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Lymphatic system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: lymphatic, all-pages, lymphatic, overview, source-pages, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_024",
+      "imagePath": "_all_pages/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/_all_pages/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "title": "Inflammatory response",
+      "visibleStructures": [
+        "all-pages",
+        "inflammatory",
+        "response",
+        "source-pages"
+      ],
+      "bestForExplaining": [
+        "all-pages",
+        "inflammatory",
+        "response",
+        "source-pages"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Inflammatory response. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: all-pages, inflammatory, response, source-pages, all-pages, inflammatory, response, source-pages. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_025",
+      "imagePath": "arms-biceps/swanson-file-p023-book-p021-biceps-contraction-and-muscle-contraction-detail.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/arms-biceps/swanson-file-p023-book-p021-biceps-contraction-and-muscle-contraction-detail.jpg",
+      "title": "Biceps contraction and muscle contraction detail",
+      "visibleStructures": [
+        "biceps",
+        "muscle"
+      ],
+      "bestForExplaining": [
+        "biceps",
+        "muscle",
+        "and",
+        "arms",
+        "contraction",
+        "detail"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Biceps contraction and muscle contraction detail. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: biceps, muscle, and, arms, biceps, contraction, detail, elbow-flexion. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_026",
+      "imagePath": "cardiovascular-system/swanson-file-p036-book-p034-cardiovascular-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/cardiovascular-system/swanson-file-p036-book-p034-cardiovascular-system-overview.jpg",
+      "title": "Cardiovascular system overview",
+      "visibleStructures": [
+        "cardiovascular"
+      ],
+      "bestForExplaining": [
+        "cardiovascular",
+        "circulation",
+        "heart",
+        "overview",
+        "recovery"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Cardiovascular system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: cardiovascular, cardiovascular, circulation, heart, overview, recovery, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_027",
+      "imagePath": "cardiovascular-system/swanson-file-p037-book-p035-heart-and-circulation.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/cardiovascular-system/swanson-file-p037-book-p035-heart-and-circulation.jpg",
+      "title": "Heart and circulation",
+      "visibleStructures": [
+        "cardiovascular"
+      ],
+      "bestForExplaining": [
+        "cardiovascular",
+        "and",
+        "circulation",
+        "heart",
+        "recovery"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Heart and circulation. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: cardiovascular, and, cardiovascular, circulation, heart, recovery. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_028",
+      "imagePath": "group-adductors/swanson-file-p017-book-p015-pelvis-structure-and-neutral-pelvis.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-adductors/swanson-file-p017-book-p015-pelvis-structure-and-neutral-pelvis.jpg",
+      "title": "Pelvis structure and neutral pelvis",
+      "visibleStructures": [
+        "pelvis"
+      ],
+      "bestForExplaining": [
+        "pelvis",
+        "adductors",
+        "and",
+        "hips",
+        "inner-thigh",
+        "neutral"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Pelvis structure and neutral pelvis. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: pelvis, adductors, and, hips, inner-thigh, neutral, pelvis. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_029",
+      "imagePath": "group-adductors/swanson-file-p020-book-p018-muscular-system-anterior-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-adductors/swanson-file-p020-book-p018-muscular-system-anterior-overview.jpg",
+      "title": "Muscular system anterior overview",
+      "visibleStructures": [
+        "adductors",
+        "anterior",
+        "hips",
+        "inner-thigh"
+      ],
+      "bestForExplaining": [
+        "adductors",
+        "anterior",
+        "hips",
+        "inner-thigh",
+        "muscular"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscular system anterior overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: adductors, anterior, hips, inner-thigh, adductors, anterior, hips, inner-thigh, muscular, overview. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_030",
+      "imagePath": "group-bones/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-bones/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "title": "Skeletal system overview bones bone structure skeleton map",
+      "visibleStructures": [
+        "skeletal"
+      ],
+      "bestForExplaining": [
+        "skeletal",
+        "bone",
+        "bones",
+        "map",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Skeletal system overview bones bone structure skeleton map. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: skeletal, bone, bones, map, overview, skeletal, skeletal-system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_031",
+      "imagePath": "group-immune-system/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-immune-system/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "title": "Lymphatic system overview",
+      "visibleStructures": [
+        "lymphatic",
+        "inflammation"
+      ],
+      "bestForExplaining": [
+        "lymphatic",
+        "inflammation",
+        "immune",
+        "overview",
+        "recovery"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Lymphatic system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: lymphatic, inflammation, immune, inflammation, lymphatic, overview, recovery, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_032",
+      "imagePath": "group-immune-system/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-immune-system/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "title": "Inflammatory response",
+      "visibleStructures": [
+        "lymphatic",
+        "inflammation"
+      ],
+      "bestForExplaining": [
+        "lymphatic",
+        "inflammation",
+        "immune",
+        "inflammatory",
+        "recovery"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Inflammatory response. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: lymphatic, inflammation, immune, inflammation, inflammatory, lymphatic, recovery, response. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_033",
+      "imagePath": "group-inflammation/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-inflammation/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "title": "Lymphatic system overview",
+      "visibleStructures": [
+        "lymphatic",
+        "joint",
+        "inflammation"
+      ],
+      "bestForExplaining": [
+        "lymphatic",
+        "joint",
+        "inflammation",
+        "joints",
+        "overview",
+        "recovery"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Lymphatic system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: lymphatic, joint, inflammation, inflammation, joints, lymphatic, overview, recovery, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_034",
+      "imagePath": "group-inflammation/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-inflammation/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "title": "Inflammatory response",
+      "visibleStructures": [
+        "joint",
+        "inflammation"
+      ],
+      "bestForExplaining": [
+        "joint",
+        "inflammation",
+        "inflammatory",
+        "joints",
+        "recovery",
+        "response"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Inflammatory response. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: joint, inflammation, inflammation, inflammatory, joints, recovery, response. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_035",
+      "imagePath": "group-joints/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-joints/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "title": "Joint actions and synovial joints",
+      "visibleStructures": [
+        "joint"
+      ],
+      "bestForExplaining": [
+        "joint",
+        "actions",
+        "and",
+        "joint-actions",
+        "joints"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions and synovial joints. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: joint, actions, and, joint, joint-actions, joints, synovial. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_036",
+      "imagePath": "group-joints/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-joints/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "title": "Joint actions in poses and arthritis progression",
+      "visibleStructures": [
+        "joint"
+      ],
+      "bestForExplaining": [
+        "joint",
+        "actions",
+        "and",
+        "arthritis",
+        "in"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions in poses and arthritis progression. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: joint, actions, and, arthritis, in, joint, joint-actions. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_037",
+      "imagePath": "group-joints/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-joints/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "title": "Inflammatory response",
+      "visibleStructures": [
+        "joint"
+      ],
+      "bestForExplaining": [
+        "joint",
+        "inflammatory",
+        "joint-actions",
+        "joints",
+        "response",
+        "synovial-joints"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Inflammatory response. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: joint, inflammatory, joint-actions, joints, response, synovial-joints. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_038",
+      "imagePath": "group-knees/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-knees/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "title": "Posterior skeleton cartilage ligaments",
+      "visibleStructures": [
+        "knee"
+      ],
+      "bestForExplaining": [
+        "knee",
+        "arthritis",
+        "cartilage",
+        "knees",
+        "ligaments",
+        "patella"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Posterior skeleton cartilage ligaments. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: knee, arthritis, cartilage, knees, ligaments, patella, posterior. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_039",
+      "imagePath": "group-knees/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-knees/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "title": "Joint actions and synovial joints",
+      "visibleStructures": [
+        "knee",
+        "joint"
+      ],
+      "bestForExplaining": [
+        "knee",
+        "joint",
+        "actions",
+        "and",
+        "arthritis",
+        "cartilage"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions and synovial joints. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: knee, joint, actions, and, arthritis, cartilage, joint, joints. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_040",
+      "imagePath": "group-knees/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-knees/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "title": "Joint actions in poses and arthritis progression",
+      "visibleStructures": [
+        "knee",
+        "joint"
+      ],
+      "bestForExplaining": [
+        "knee",
+        "joint",
+        "actions",
+        "and",
+        "arthritis",
+        "cartilage",
+        "in"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions in poses and arthritis progression. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: knee, joint, actions, and, arthritis, cartilage, in, joint. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_041",
+      "imagePath": "group-ligaments/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-ligaments/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "title": "Posterior skeleton cartilage ligaments",
+      "visibleStructures": [
+        "cartilage",
+        "connective-tissue",
+        "ligaments",
+        "posterior"
+      ],
+      "bestForExplaining": [
+        "cartilage",
+        "connective-tissue",
+        "ligaments",
+        "posterior",
+        "skeleton"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Posterior skeleton cartilage ligaments. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: cartilage, connective-tissue, ligaments, posterior, cartilage, connective-tissue, ligaments, posterior, skeleton. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_042",
+      "imagePath": "group-motor-control/swanson-file-p026-book-p024-cerebral-cortex-and-inside-the-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-motor-control/swanson-file-p026-book-p024-cerebral-cortex-and-inside-the-brain.jpg",
+      "title": "Cerebral cortex and inside the brain",
+      "visibleStructures": [
+        "and",
+        "brain",
+        "cerebral",
+        "cortex"
+      ],
+      "bestForExplaining": [
+        "and",
+        "brain",
+        "cerebral",
+        "cortex",
+        "inside"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Cerebral cortex and inside the brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: and, brain, cerebral, cortex, and, brain, cerebral, cortex, inside, motor-control. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_043",
+      "imagePath": "group-motor-learning/swanson-file-p028-book-p026-neural-pathways-and-changing-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-motor-learning/swanson-file-p028-book-p026-neural-pathways-and-changing-brain.jpg",
+      "title": "Neural pathways and changing brain",
+      "visibleStructures": [
+        "and",
+        "brain",
+        "changing",
+        "habits"
+      ],
+      "bestForExplaining": [
+        "and",
+        "brain",
+        "changing",
+        "habits",
+        "motor-learning"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Neural pathways and changing brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: and, brain, changing, habits, and, brain, changing, habits, motor-learning, neural. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_044",
+      "imagePath": "group-muscle-contraction/swanson-file-p022-book-p020-muscle-structure-and-how-muscles-work.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-muscle-contraction/swanson-file-p022-book-p020-muscle-structure-and-how-muscles-work.jpg",
+      "title": "Muscle structure and how muscles work",
+      "visibleStructures": [
+        "muscle"
+      ],
+      "bestForExplaining": [
+        "muscle",
+        "and",
+        "concentric",
+        "eccentric",
+        "fascia",
+        "how"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscle structure and how muscles work. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: muscle, and, concentric, eccentric, fascia, how, muscle. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_045",
+      "imagePath": "group-muscle-contraction/swanson-file-p023-book-p021-biceps-contraction-and-muscle-contraction-detail.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-muscle-contraction/swanson-file-p023-book-p021-biceps-contraction-and-muscle-contraction-detail.jpg",
+      "title": "Biceps contraction and muscle contraction detail",
+      "visibleStructures": [
+        "biceps",
+        "muscle"
+      ],
+      "bestForExplaining": [
+        "biceps",
+        "muscle",
+        "and",
+        "concentric",
+        "contraction",
+        "detail"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Biceps contraction and muscle contraction detail. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: biceps, muscle, and, biceps, concentric, contraction, detail, eccentric. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_046",
+      "imagePath": "group-nervous-system/swanson-file-p024-book-p022-nervous-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/swanson-file-p024-book-p022-nervous-system-overview.jpg",
+      "title": "Nervous system overview",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "autonomic",
+        "brain",
+        "nervous-system",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nervous system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, autonomic, brain, nervous, nervous-system, overview, stress. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_047",
+      "imagePath": "group-nervous-system/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "title": "Nerve structure and autonomic nervous system",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "autonomic",
+        "brain",
+        "nerve"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nerve structure and autonomic nervous system. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, autonomic, brain, nerve, nervous, nervous-system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_048",
+      "imagePath": "group-nervous-system/swanson-file-p026-book-p024-cerebral-cortex-and-inside-the-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/swanson-file-p026-book-p024-cerebral-cortex-and-inside-the-brain.jpg",
+      "title": "Cerebral cortex and inside the brain",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "autonomic",
+        "brain",
+        "cerebral",
+        "cortex"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Cerebral cortex and inside the brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, autonomic, brain, cerebral, cortex, inside. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_049",
+      "imagePath": "group-nervous-system/swanson-file-p027-book-p025-limbic-system-and-effects-on-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/swanson-file-p027-book-p025-limbic-system-and-effects-on-brain.jpg",
+      "title": "Limbic system and effects on brain",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "autonomic",
+        "brain",
+        "effects",
+        "limbic"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Limbic system and effects on brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, autonomic, brain, effects, limbic, nervous-system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_050",
+      "imagePath": "group-nervous-system/swanson-file-p028-book-p026-neural-pathways-and-changing-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/swanson-file-p028-book-p026-neural-pathways-and-changing-brain.jpg",
+      "title": "Neural pathways and changing brain",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "autonomic",
+        "brain",
+        "changing",
+        "nervous-system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Neural pathways and changing brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, autonomic, brain, changing, nervous-system, neural. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_051",
+      "imagePath": "group-nervous-system/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "title": "Neurogenesis and cortisol levels",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "autonomic",
+        "brain",
+        "cortisol",
+        "levels"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Neurogenesis and cortisol levels. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, autonomic, brain, cortisol, levels, nervous-system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_052",
+      "imagePath": "group-nervous-system/swanson-file-p034-book-p032-pranayama-and-breathwork-practices.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-nervous-system/swanson-file-p034-book-p032-pranayama-and-breathwork-practices.jpg",
+      "title": "Pranayama and breathwork practices",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "autonomic",
+        "brain",
+        "breathwork",
+        "nervous-system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Pranayama and breathwork practices. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, autonomic, brain, breathwork, nervous-system, practices. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_053",
+      "imagePath": "group-pelvis/swanson-file-p017-book-p015-pelvis-structure-and-neutral-pelvis.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-pelvis/swanson-file-p017-book-p015-pelvis-structure-and-neutral-pelvis.jpg",
+      "title": "Pelvis structure and neutral pelvis",
+      "visibleStructures": [
+        "pelvis"
+      ],
+      "bestForExplaining": [
+        "pelvis",
+        "and",
+        "hips",
+        "neutral",
+        "neutral-pelvis"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Pelvis structure and neutral pelvis. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: pelvis, and, hips, neutral, neutral-pelvis, pelvis, structure. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_054",
+      "imagePath": "group-posterior-chain/swanson-file-p021-book-p019-muscular-system-posterior-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-posterior-chain/swanson-file-p021-book-p019-muscular-system-posterior-overview.jpg",
+      "title": "Muscular system posterior overview",
+      "visibleStructures": [
+        "hamstrings",
+        "glute",
+        "spine"
+      ],
+      "bestForExplaining": [
+        "hamstrings",
+        "glute",
+        "spine",
+        "glutes",
+        "muscular",
+        "overview",
+        "posterior"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscular system posterior overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: hamstrings, glute, spine, glutes, hamstrings, muscular, overview, posterior, posterior-chain. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_055",
+      "imagePath": "group-posture/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-posture/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "title": "Skeletal system overview bones bone structure skeleton map",
+      "visibleStructures": [
+        "pelvis",
+        "spine",
+        "skeletal",
+        "posture"
+      ],
+      "bestForExplaining": [
+        "pelvis",
+        "spine",
+        "skeletal",
+        "posture",
+        "bone",
+        "bones",
+        "map",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "intermediate",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Skeletal system overview bones bone structure skeleton map. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: pelvis, spine, skeletal, posture, bone, bones, map, overview, pelvis, posture. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_056",
+      "imagePath": "group-posture/swanson-file-p016-book-p014-spine-curves-and-vertebrae.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-posture/swanson-file-p016-book-p014-spine-curves-and-vertebrae.jpg",
+      "title": "Spine curves and vertebrae",
+      "visibleStructures": [
+        "pelvis",
+        "spine",
+        "posture"
+      ],
+      "bestForExplaining": [
+        "pelvis",
+        "spine",
+        "posture",
+        "and",
+        "curves"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Spine curves and vertebrae. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: pelvis, spine, posture, and, curves, pelvis, posture, spine, vertebrae. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_057",
+      "imagePath": "group-quads/swanson-file-p020-book-p018-muscular-system-anterior-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-quads/swanson-file-p020-book-p018-muscular-system-anterior-overview.jpg",
+      "title": "Muscular system anterior overview",
+      "visibleStructures": [
+        "quadriceps",
+        "knee"
+      ],
+      "bestForExplaining": [
+        "quadriceps",
+        "knee",
+        "anterior",
+        "anterior-thigh",
+        "knee-extension",
+        "muscular",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscular system anterior overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: quadriceps, knee, anterior, anterior-thigh, knee-extension, muscular, overview, quadriceps. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_058",
+      "imagePath": "group-recovery/swanson-file-p024-book-p022-nervous-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p024-book-p022-nervous-system-overview.jpg",
+      "title": "Nervous system overview",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "breathing",
+        "heart-rate",
+        "overview",
+        "recovery"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nervous system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, breathing, heart-rate, nervous, overview, recovery, stress. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_059",
+      "imagePath": "group-recovery/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "title": "Nerve structure and autonomic nervous system",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "autonomic",
+        "breathing",
+        "heart-rate",
+        "nerve"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nerve structure and autonomic nervous system. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, autonomic, breathing, heart-rate, nerve, nervous. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_060",
+      "imagePath": "group-recovery/swanson-file-p027-book-p025-limbic-system-and-effects-on-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p027-book-p025-limbic-system-and-effects-on-brain.jpg",
+      "title": "Limbic system and effects on brain",
+      "visibleStructures": [
+        "stress"
+      ],
+      "bestForExplaining": [
+        "stress",
+        "and",
+        "brain",
+        "breathing",
+        "effects",
+        "heart-rate"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Limbic system and effects on brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: stress, and, brain, breathing, effects, heart-rate, limbic. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_061",
+      "imagePath": "group-recovery/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "title": "Neurogenesis and cortisol levels",
+      "visibleStructures": [
+        "stress"
+      ],
+      "bestForExplaining": [
+        "stress",
+        "and",
+        "breathing",
+        "cortisol",
+        "heart-rate",
+        "levels"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Neurogenesis and cortisol levels. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: stress, and, breathing, cortisol, heart-rate, levels, neurogenesis. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_062",
+      "imagePath": "group-recovery/swanson-file-p034-book-p032-pranayama-and-breathwork-practices.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p034-book-p032-pranayama-and-breathwork-practices.jpg",
+      "title": "Pranayama and breathwork practices",
+      "visibleStructures": [
+        "stress"
+      ],
+      "bestForExplaining": [
+        "stress",
+        "and",
+        "breathing",
+        "breathwork",
+        "heart-rate",
+        "practices"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Pranayama and breathwork practices. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: stress, and, breathing, breathwork, heart-rate, practices, pranayama. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_063",
+      "imagePath": "group-recovery/swanson-file-p035-book-p033-nasal-cycle-and-breathing-practices.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p035-book-p033-nasal-cycle-and-breathing-practices.jpg",
+      "title": "Nasal cycle and breathing practices",
+      "visibleStructures": [
+        "stress"
+      ],
+      "bestForExplaining": [
+        "stress",
+        "and",
+        "breathing",
+        "cycle",
+        "heart-rate",
+        "nasal"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nasal cycle and breathing practices. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: stress, and, breathing, cycle, heart-rate, nasal, practices. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_064",
+      "imagePath": "group-recovery/swanson-file-p036-book-p034-cardiovascular-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p036-book-p034-cardiovascular-system-overview.jpg",
+      "title": "Cardiovascular system overview",
+      "visibleStructures": [
+        "cardiovascular",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "cardiovascular",
+        "stress",
+        "breathing",
+        "heart-rate",
+        "overview",
+        "recovery"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Cardiovascular system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: cardiovascular, stress, breathing, cardiovascular, heart-rate, overview, recovery, stress. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_065",
+      "imagePath": "group-recovery/swanson-file-p037-book-p035-heart-and-circulation.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p037-book-p035-heart-and-circulation.jpg",
+      "title": "Heart and circulation",
+      "visibleStructures": [
+        "stress"
+      ],
+      "bestForExplaining": [
+        "stress",
+        "and",
+        "breathing",
+        "circulation",
+        "heart",
+        "heart-rate"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Heart and circulation. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: stress, and, breathing, circulation, heart, heart-rate, recovery. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_066",
+      "imagePath": "group-recovery/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "title": "Lymphatic system overview",
+      "visibleStructures": [
+        "lymphatic",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "lymphatic",
+        "stress",
+        "breathing",
+        "heart-rate",
+        "overview",
+        "recovery"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Lymphatic system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: lymphatic, stress, breathing, heart-rate, lymphatic, overview, recovery, stress. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_067",
+      "imagePath": "group-recovery/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-recovery/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "title": "Inflammatory response",
+      "visibleStructures": [
+        "stress"
+      ],
+      "bestForExplaining": [
+        "stress",
+        "breathing",
+        "heart-rate",
+        "inflammatory",
+        "recovery",
+        "response"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Inflammatory response. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: stress, breathing, heart-rate, inflammatory, recovery, response, stress. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_068",
+      "imagePath": "group-ribs/swanson-file-p032-book-p030-respiratory-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-ribs/swanson-file-p032-book-p030-respiratory-system-overview.jpg",
+      "title": "Respiratory system overview",
+      "visibleStructures": [
+        "respiratory",
+        "ribs"
+      ],
+      "bestForExplaining": [
+        "respiratory",
+        "ribs",
+        "breathing",
+        "overview",
+        "system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Respiratory system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: respiratory, ribs, breathing, overview, respiratory, ribs, system, thorax. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_069",
+      "imagePath": "group-ribs/swanson-file-p033-book-p031-how-we-breathe.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-ribs/swanson-file-p033-book-p031-how-we-breathe.jpg",
+      "title": "How we breathe",
+      "visibleStructures": [
+        "ribs"
+      ],
+      "bestForExplaining": [
+        "ribs",
+        "breathe",
+        "breathing",
+        "how",
+        "thorax"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: How we breathe. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: ribs, breathe, breathing, how, ribs, thorax, we. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_070",
+      "imagePath": "group-shoulders/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "title": "Posterior skeleton cartilage ligaments",
+      "visibleStructures": [
+        "shoulder"
+      ],
+      "bestForExplaining": [
+        "shoulder",
+        "arms",
+        "cartilage",
+        "ligaments",
+        "posterior",
+        "scapula"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Posterior skeleton cartilage ligaments. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: shoulder, arms, cartilage, ligaments, posterior, scapula, shoulders. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_071",
+      "imagePath": "group-shoulders/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "title": "Joint actions and synovial joints",
+      "visibleStructures": [
+        "shoulder",
+        "joint"
+      ],
+      "bestForExplaining": [
+        "shoulder",
+        "joint",
+        "actions",
+        "and",
+        "arms",
+        "joints"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions and synovial joints. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: shoulder, joint, actions, and, arms, joint, joints, scapula. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_072",
+      "imagePath": "group-shoulders/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "title": "Joint actions in poses and arthritis progression",
+      "visibleStructures": [
+        "shoulder",
+        "joint"
+      ],
+      "bestForExplaining": [
+        "shoulder",
+        "joint",
+        "actions",
+        "and",
+        "arms",
+        "arthritis",
+        "in"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions in poses and arthritis progression. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: shoulder, joint, actions, and, arms, arthritis, in, joint. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_073",
+      "imagePath": "group-shoulders/swanson-file-p021-book-p019-muscular-system-posterior-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-shoulders/swanson-file-p021-book-p019-muscular-system-posterior-overview.jpg",
+      "title": "Muscular system posterior overview",
+      "visibleStructures": [
+        "shoulder"
+      ],
+      "bestForExplaining": [
+        "shoulder",
+        "arms",
+        "muscular",
+        "overview",
+        "posterior",
+        "scapula"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscular system posterior overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: shoulder, arms, muscular, overview, posterior, scapula, shoulders. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_074",
+      "imagePath": "group-skeletal-system/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-skeletal-system/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "title": "Skeletal system overview bones bone structure skeleton map",
+      "visibleStructures": [
+        "skeletal",
+        "joint"
+      ],
+      "bestForExplaining": [
+        "skeletal",
+        "joint",
+        "bone",
+        "bones",
+        "joints",
+        "map",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Skeletal system overview bones bone structure skeleton map. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: skeletal, joint, bone, bones, joints, map, overview, skeletal. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_075",
+      "imagePath": "group-skeletal-system/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-skeletal-system/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "title": "Posterior skeleton cartilage ligaments",
+      "visibleStructures": [
+        "skeletal",
+        "joint"
+      ],
+      "bestForExplaining": [
+        "skeletal",
+        "joint",
+        "bones",
+        "cartilage",
+        "joints",
+        "ligaments",
+        "posterior"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Posterior skeleton cartilage ligaments. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: skeletal, joint, bones, cartilage, joints, ligaments, posterior, skeletal-system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_076",
+      "imagePath": "group-spine/swanson-file-p016-book-p014-spine-curves-and-vertebrae.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-spine/swanson-file-p016-book-p014-spine-curves-and-vertebrae.jpg",
+      "title": "Spine curves and vertebrae",
+      "visibleStructures": [
+        "spine"
+      ],
+      "bestForExplaining": [
+        "spine",
+        "and",
+        "back",
+        "curves",
+        "vertebrae"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Spine curves and vertebrae. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: spine, and, back, curves, spine, vertebrae. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_077",
+      "imagePath": "group-spine/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-spine/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "title": "Joint actions in poses and arthritis progression",
+      "visibleStructures": [
+        "spine",
+        "joint"
+      ],
+      "bestForExplaining": [
+        "spine",
+        "joint",
+        "actions",
+        "and",
+        "arthritis",
+        "back",
+        "in"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions in poses and arthritis progression. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: spine, joint, actions, and, arthritis, back, in, joint. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_078",
+      "imagePath": "group-stress/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-stress/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "title": "Nerve structure and autonomic nervous system",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "autonomic",
+        "cortisol",
+        "nerve"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nerve structure and autonomic nervous system. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, autonomic, cortisol, nerve, nervous, nervous-system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_079",
+      "imagePath": "group-stress/swanson-file-p027-book-p025-limbic-system-and-effects-on-brain.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-stress/swanson-file-p027-book-p025-limbic-system-and-effects-on-brain.jpg",
+      "title": "Limbic system and effects on brain",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "brain",
+        "cortisol",
+        "effects",
+        "limbic"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Limbic system and effects on brain. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, brain, cortisol, effects, limbic, nervous-system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_080",
+      "imagePath": "group-stress/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-stress/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "title": "Neurogenesis and cortisol levels",
+      "visibleStructures": [
+        "nervous",
+        "stress"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "stress",
+        "and",
+        "cortisol",
+        "levels",
+        "nervous-system",
+        "neurogenesis"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Neurogenesis and cortisol levels. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, stress, and, cortisol, levels, nervous-system, neurogenesis, recovery. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_081",
+      "imagePath": "group-wrists/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/group-wrists/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "title": "Joint actions and synovial joints",
+      "visibleStructures": [
+        "wrist",
+        "joint"
+      ],
+      "bestForExplaining": [
+        "wrist",
+        "joint",
+        "actions",
+        "and",
+        "forearms",
+        "hands"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions and synovial joints. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: wrist, joint, actions, and, forearms, hands, joint, joints. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_082",
+      "imagePath": "hips-pelvis/swanson-file-p017-book-p015-pelvis-structure-and-neutral-pelvis.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/hips-pelvis/swanson-file-p017-book-p015-pelvis-structure-and-neutral-pelvis.jpg",
+      "title": "Pelvis structure and neutral pelvis",
+      "visibleStructures": [
+        "glute",
+        "pelvis"
+      ],
+      "bestForExplaining": [
+        "glute",
+        "pelvis",
+        "and",
+        "glutes",
+        "hips",
+        "neutral"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Pelvis structure and neutral pelvis. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: glute, pelvis, and, glutes, hips, neutral, pelvis, structure. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_083",
+      "imagePath": "inflammation/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/inflammation/swanson-file-p039-book-p037-inflammatory-response.jpg",
+      "title": "Inflammatory response",
+      "visibleStructures": [
+        "inflammation"
+      ],
+      "bestForExplaining": [
+        "inflammation",
+        "inflammatory",
+        "recovery",
+        "response"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Inflammatory response. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: inflammation, inflammation, inflammatory, recovery, response. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_084",
+      "imagePath": "joints/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/joints/swanson-file-p018-book-p016-joint-actions-and-synovial-joints.jpg",
+      "title": "Joint actions and synovial joints",
+      "visibleStructures": [
+        "joint"
+      ],
+      "bestForExplaining": [
+        "joint",
+        "actions",
+        "and",
+        "joints",
+        "range-of-motion"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions and synovial joints. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: joint, actions, and, joint, joints, range-of-motion, synovial. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_085",
+      "imagePath": "joints/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/joints/swanson-file-p019-book-p017-joint-actions-in-poses-and-arthritis-progression.jpg",
+      "title": "Joint actions in poses and arthritis progression",
+      "visibleStructures": [
+        "joint"
+      ],
+      "bestForExplaining": [
+        "joint",
+        "actions",
+        "and",
+        "arthritis",
+        "in"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Joint actions in poses and arthritis progression. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: joint, actions, and, arthritis, in, joint, joints. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_086",
+      "imagePath": "lymphatic-system/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/lymphatic-system/swanson-file-p038-book-p036-lymphatic-system-overview.jpg",
+      "title": "Lymphatic system overview",
+      "visibleStructures": [
+        "lymphatic"
+      ],
+      "bestForExplaining": [
+        "lymphatic",
+        "immune",
+        "overview",
+        "recovery",
+        "system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Lymphatic system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: lymphatic, immune, lymphatic, overview, recovery, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_087",
+      "imagePath": "muscle-contraction/swanson-file-p022-book-p020-muscle-structure-and-how-muscles-work.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/muscle-contraction/swanson-file-p022-book-p020-muscle-structure-and-how-muscles-work.jpg",
+      "title": "Muscle structure and how muscles work",
+      "visibleStructures": [
+        "biceps",
+        "muscle"
+      ],
+      "bestForExplaining": [
+        "biceps",
+        "muscle",
+        "and",
+        "concentric",
+        "how"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscle structure and how muscles work. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: biceps, muscle, and, biceps, concentric, how, muscle, muscle-contraction. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_088",
+      "imagePath": "muscles-anterior/swanson-file-p020-book-p018-muscular-system-anterior-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/muscles-anterior/swanson-file-p020-book-p018-muscular-system-anterior-overview.jpg",
+      "title": "Muscular system anterior overview",
+      "visibleStructures": [
+        "quadriceps",
+        "shoulder",
+        "muscle"
+      ],
+      "bestForExplaining": [
+        "quadriceps",
+        "shoulder",
+        "muscle",
+        "anterior",
+        "anterior-muscles",
+        "chest",
+        "muscular",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscular system anterior overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: quadriceps, shoulder, muscle, anterior, anterior-muscles, chest, muscular, overview, quadriceps. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_089",
+      "imagePath": "muscles-posterior/swanson-file-p021-book-p019-muscular-system-posterior-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/muscles-posterior/swanson-file-p021-book-p019-muscular-system-posterior-overview.jpg",
+      "title": "Muscular system posterior overview",
+      "visibleStructures": [
+        "hamstrings",
+        "glute",
+        "muscle"
+      ],
+      "bestForExplaining": [
+        "hamstrings",
+        "glute",
+        "muscle",
+        "back",
+        "glutes",
+        "muscular",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Muscular system posterior overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: hamstrings, glute, muscle, back, glutes, hamstrings, muscular, overview, posterior. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_090",
+      "imagePath": "nervous-system/swanson-file-p024-book-p022-nervous-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/nervous-system/swanson-file-p024-book-p022-nervous-system-overview.jpg",
+      "title": "Nervous system overview",
+      "visibleStructures": [
+        "nervous"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "autonomic",
+        "nervous-system",
+        "overview",
+        "system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nervous system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, autonomic, nervous, nervous-system, overview, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_091",
+      "imagePath": "nervous-system/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/nervous-system/swanson-file-p025-book-p023-nerve-structure-and-autonomic-nervous-system.jpg",
+      "title": "Nerve structure and autonomic nervous system",
+      "visibleStructures": [
+        "nervous"
+      ],
+      "bestForExplaining": [
+        "nervous",
+        "and",
+        "autonomic",
+        "nerve",
+        "nervous-system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Nerve structure and autonomic nervous system. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: nervous, and, autonomic, nerve, nervous, nervous-system, structure. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_092",
+      "imagePath": "respiratory-system/swanson-file-p032-book-p030-respiratory-system-overview.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/respiratory-system/swanson-file-p032-book-p030-respiratory-system-overview.jpg",
+      "title": "Respiratory system overview",
+      "visibleStructures": [
+        "respiratory"
+      ],
+      "bestForExplaining": [
+        "respiratory",
+        "breathing",
+        "lungs",
+        "overview",
+        "system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Respiratory system overview. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: respiratory, breathing, lungs, overview, respiratory, system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_093",
+      "imagePath": "skeletal-system/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/skeletal-system/swanson-file-p014-book-p012-skeletal-system-overview-bones-bone-structure-skeleton-map.jpg",
+      "title": "Skeletal system overview bones bone structure skeleton map",
+      "visibleStructures": [
+        "spine",
+        "skeletal"
+      ],
+      "bestForExplaining": [
+        "spine",
+        "skeletal",
+        "bone",
+        "bones",
+        "map",
+        "overview"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Skeletal system overview bones bone structure skeleton map. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: spine, skeletal, bone, bones, map, overview, skeletal, skeletal-system. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_094",
+      "imagePath": "skeletal-system/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/skeletal-system/swanson-file-p015-book-p013-posterior-skeleton-cartilage-ligaments.jpg",
+      "title": "Posterior skeleton cartilage ligaments",
+      "visibleStructures": [
+        "spine",
+        "skeletal"
+      ],
+      "bestForExplaining": [
+        "spine",
+        "skeletal",
+        "bones",
+        "cartilage",
+        "ligaments",
+        "posterior",
+        "skeletal-system"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Posterior skeleton cartilage ligaments. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: spine, skeletal, bones, cartilage, ligaments, posterior, skeletal-system, skeleton. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_095",
+      "imagePath": "spine-core/swanson-file-p016-book-p014-spine-curves-and-vertebrae.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/spine-core/swanson-file-p016-book-p014-spine-curves-and-vertebrae.jpg",
+      "title": "Spine curves and vertebrae",
+      "visibleStructures": [
+        "spine",
+        "posture"
+      ],
+      "bestForExplaining": [
+        "spine",
+        "posture",
+        "and",
+        "core",
+        "curves"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Spine curves and vertebrae. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: spine, posture, and, core, curves, posture, spine, vertebrae. Keep the rest-timer explanation under 45 seconds."
+    },
+    {
+      "imageId": "img_096",
+      "imagePath": "stress-cortisol/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "url": "https://dawnai-ethicist.github.io/overload-knowledge-base/stress-cortisol/swanson-file-p029-book-p027-neurogenesis-and-cortisol-levels.jpg",
+      "title": "Neurogenesis and cortisol levels",
+      "visibleStructures": [
+        "stress"
+      ],
+      "bestForExplaining": [
+        "stress",
+        "and",
+        "cortisol",
+        "levels",
+        "memory",
+        "neurogenesis"
+      ],
+      "source": "Swanson Science of Yoga extraction",
+      "filePage": null,
+      "bookPage": null,
+      "difficulty": "beginner",
+      "readingTimeSeconds": 30,
+      "llmPrompt": "Use this image to teach: Neurogenesis and cortisol levels. Connect it to the current exercise only if the exercise-map shares one of these structures or tags: stress, and, cortisol, levels, memory, neurogenesis, stress. Keep the rest-timer explanation under 45 seconds."
+    }
+  ]
+}

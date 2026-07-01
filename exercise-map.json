@@ -1,329 +1,1051 @@
 {
-  "version": "3.0-exact-repo",
+  "schemaVersion": "2.0.0",
+  "purpose": "Map Overload exercises to stable ontology topics, book topics, image IDs, and complementary yoga goals.",
   "exerciseMap": {
     "leg-extension": {
-      "primary": [
+      "displayName": "Leg Extension",
+      "movementPattern": "knee-extension",
+      "primaryMuscles": [
         "quadriceps"
       ],
-      "secondary": [
-        "skeletal_joints"
+      "secondaryMuscles": [
+        "hip-flexors"
       ],
-      "movementPatterns": [
-        "knee extension"
+      "joints": [
+        "knee",
+        "patellofemoral-joint"
       ],
-      "searchTerms": [
-        "leg extension",
-        "quad extension",
-        "knee extension"
-      ]
+      "jointActions": [
+        "knee-extension"
+      ],
+      "ontologyTopics": [
+        "quadriceps",
+        "knee",
+        "patella",
+        "muscle-contraction"
+      ],
+      "bookTopics": [
+        "quadriceps",
+        "knee",
+        "muscular-system",
+        "joint-actions"
+      ],
+      "preferredImageFolders": [
+        "group-quads",
+        "group-knees",
+        "muscles-anterior"
+      ],
+      "recommendedYogaGoals": [
+        "quadriceps-length",
+        "hip-flexor-mobility"
+      ],
+      "restTimerTeachingFocus": [
+        "knee extension",
+        "patellar tracking",
+        "rectus femoris crosses hip and knee"
+      ],
+      "contraindications": [
+        "avoid deep kneeling if knees are irritated"
+      ],
+      "imageIds": [
+        "img_057",
+        "img_038",
+        "img_039",
+        "img_040",
+        "img_088"
+      ],
+      "llmRetrievalHint": "For Leg Extension, retrieve ontology topics quadriceps, knee, patella, muscle-contraction; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: quadriceps-length, hip-flexor-mobility."
     },
     "squat": {
-      "primary": [
+      "displayName": "Squat",
+      "movementPattern": "squat",
+      "primaryMuscles": [
         "quadriceps",
-        "glutes"
+        "gluteus-maximus"
       ],
-      "secondary": [
+      "secondaryMuscles": [
         "adductors",
-        "spine_core",
-        "skeletal_joints"
-      ],
-      "movementPatterns": [
-        "squat",
-        "hip and knee extension"
-      ]
-    },
-    "leg-press": {
-      "primary": [
-        "quadriceps",
-        "glutes"
-      ],
-      "secondary": [
-        "adductors",
-        "skeletal_joints"
-      ],
-      "movementPatterns": [
-        "compound lower body press"
-      ]
-    },
-    "lunge": {
-      "primary": [
-        "quadriceps",
-        "glutes",
-        "adductors"
-      ],
-      "secondary": [
-        "pelvis_hips",
-        "skeletal_joints"
-      ],
-      "movementPatterns": [
-        "single leg squat",
-        "hip stability"
-      ]
-    },
-    "rdl": {
-      "primary": [
         "hamstrings",
-        "glutes"
-      ],
-      "secondary": [
-        "spine_core",
-        "pelvis_hips"
-      ],
-      "movementPatterns": [
-        "hip hinge",
-        "eccentric hamstring loading"
-      ]
-    },
-    "romanian-deadlift": {
-      "primary": [
-        "hamstrings",
-        "glutes"
-      ],
-      "secondary": [
-        "spine_core",
-        "pelvis_hips"
-      ],
-      "movementPatterns": [
-        "hip hinge",
-        "eccentric hamstring loading"
-      ]
-    },
-    "deadlift": {
-      "primary": [
-        "hamstrings",
-        "glutes",
-        "spine_core"
-      ],
-      "secondary": [
-        "quadriceps",
-        "skeletal_joints"
-      ],
-      "movementPatterns": [
-        "hip hinge",
-        "whole body tension"
-      ]
-    },
-    "hip-thrust": {
-      "primary": [
-        "glutes"
-      ],
-      "secondary": [
-        "hamstrings",
-        "pelvis_hips",
-        "spine_core"
-      ],
-      "movementPatterns": [
-        "hip extension"
-      ]
-    },
-    "glute-bridge": {
-      "primary": [
-        "glutes"
-      ],
-      "secondary": [
-        "hamstrings",
-        "pelvis_hips"
-      ],
-      "movementPatterns": [
-        "hip extension"
-      ]
-    },
-    "hamstring-curl": {
-      "primary": [
-        "hamstrings"
-      ],
-      "secondary": [
-        "skeletal_joints"
-      ],
-      "movementPatterns": [
-        "knee flexion"
-      ]
-    },
-    "calf-raise": {
-      "primary": [
+        "erector-spinae",
         "calves"
       ],
-      "secondary": [
-        "skeletal_joints"
+      "joints": [
+        "hip",
+        "knee",
+        "ankle",
+        "spine"
       ],
-      "movementPatterns": [
-        "plantar flexion"
-      ]
+      "jointActions": [
+        "hip-extension",
+        "knee-extension",
+        "ankle-dorsiflexion",
+        "spinal-stability"
+      ],
+      "ontologyTopics": [
+        "quadriceps",
+        "gluteals",
+        "adductors",
+        "knee",
+        "hip",
+        "ankle",
+        "spine"
+      ],
+      "bookTopics": [
+        "quadriceps",
+        "gluteals",
+        "pelvis",
+        "knee",
+        "ankle",
+        "spine"
+      ],
+      "preferredImageFolders": [
+        "group-quads",
+        "hip-glute",
+        "group-adductors",
+        "group-knees",
+        "group-spine"
+      ],
+      "recommendedYogaGoals": [
+        "hip-mobility",
+        "ankle-mobility",
+        "lumbar-decompression"
+      ],
+      "restTimerTeachingFocus": [
+        "hips and knees extend together",
+        "spinal bracing",
+        "ankle mobility"
+      ],
+      "contraindications": [
+        "avoid aggressive deep squat holds between heavy sets"
+      ],
+      "imageIds": [
+        "img_057",
+        "img_028",
+        "img_029",
+        "img_038",
+        "img_039",
+        "img_040",
+        "img_076",
+        "img_077",
+        "img_088",
+        "img_082"
+      ],
+      "llmRetrievalHint": "For Squat, retrieve ontology topics quadriceps, gluteals, adductors, knee, hip; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: hip-mobility, ankle-mobility, lumbar-decompression."
+    },
+    "leg-press": {
+      "displayName": "Leg Press",
+      "movementPattern": "squat-pattern",
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteus-maximus"
+      ],
+      "secondaryMuscles": [
+        "adductors",
+        "hamstrings",
+        "calves"
+      ],
+      "joints": [
+        "hip",
+        "knee",
+        "ankle"
+      ],
+      "jointActions": [
+        "hip-extension",
+        "knee-extension"
+      ],
+      "ontologyTopics": [
+        "quadriceps",
+        "gluteals",
+        "knee",
+        "hip"
+      ],
+      "bookTopics": [
+        "quadriceps",
+        "gluteals",
+        "knee",
+        "pelvis"
+      ],
+      "preferredImageFolders": [
+        "group-quads",
+        "hip-glute",
+        "group-knees"
+      ],
+      "recommendedYogaGoals": [
+        "quadriceps-length",
+        "hip-flexor-mobility"
+      ],
+      "restTimerTeachingFocus": [
+        "quad/glute contribution changes with foot position",
+        "knees track over toes"
+      ],
+      "imageIds": [
+        "img_057",
+        "img_038",
+        "img_039",
+        "img_040",
+        "img_088"
+      ],
+      "llmRetrievalHint": "For Leg Press, retrieve ontology topics quadriceps, gluteals, knee, hip; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: quadriceps-length, hip-flexor-mobility."
+    },
+    "romanian-deadlift": {
+      "displayName": "Romanian Deadlift",
+      "aliases": [
+        "rdl",
+        "barbell-rdl",
+        "dumbbell-rdl"
+      ],
+      "movementPattern": "hip-hinge",
+      "primaryMuscles": [
+        "hamstrings",
+        "gluteus-maximus"
+      ],
+      "secondaryMuscles": [
+        "erector-spinae",
+        "adductor-magnus",
+        "forearms"
+      ],
+      "joints": [
+        "hip",
+        "spine",
+        "knee"
+      ],
+      "jointActions": [
+        "hip-extension",
+        "hip-hinge",
+        "isometric-spinal-stability"
+      ],
+      "ontologyTopics": [
+        "hamstrings",
+        "gluteals",
+        "posterior-chain",
+        "pelvis",
+        "lumbar-spine",
+        "muscle-contraction"
+      ],
+      "bookTopics": [
+        "posterior-chain",
+        "gluteals",
+        "pelvis",
+        "spine",
+        "muscular-system"
+      ],
+      "preferredImageFolders": [
+        "group-posterior-chain",
+        "hip-glute",
+        "group-spine",
+        "muscles-posterior"
+      ],
+      "recommendedYogaGoals": [
+        "posterior-chain-lengthening",
+        "lumbar-decompression",
+        "hip-flexor-balance"
+      ],
+      "restTimerTeachingFocus": [
+        "hamstrings cross hip and knee",
+        "hinge vs squat",
+        "neutral spine under load"
+      ],
+      "contraindications": [
+        "avoid long deep forward folds immediately after heavy hinge sets"
+      ],
+      "imageIds": [
+        "img_054",
+        "img_076",
+        "img_077",
+        "img_089"
+      ],
+      "llmRetrievalHint": "For Romanian Deadlift, retrieve ontology topics hamstrings, gluteals, posterior-chain, pelvis, lumbar-spine; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: posterior-chain-lengthening, lumbar-decompression, hip-flexor-balance."
+    },
+    "deadlift": {
+      "displayName": "Deadlift",
+      "movementPattern": "hip-hinge",
+      "primaryMuscles": [
+        "gluteus-maximus",
+        "hamstrings",
+        "erector-spinae"
+      ],
+      "secondaryMuscles": [
+        "quadriceps",
+        "lats",
+        "traps",
+        "forearms"
+      ],
+      "joints": [
+        "hip",
+        "knee",
+        "spine",
+        "shoulder"
+      ],
+      "jointActions": [
+        "hip-extension",
+        "knee-extension",
+        "spinal-stability",
+        "scapular-depression"
+      ],
+      "ontologyTopics": [
+        "posterior-chain",
+        "gluteals",
+        "hamstrings",
+        "spine",
+        "lats"
+      ],
+      "bookTopics": [
+        "posterior-chain",
+        "spine",
+        "muscular-system",
+        "pelvis"
+      ],
+      "preferredImageFolders": [
+        "group-posterior-chain",
+        "group-spine",
+        "hip-glute",
+        "muscles-posterior"
+      ],
+      "recommendedYogaGoals": [
+        "lumbar-decompression",
+        "hip-flexor-balance"
+      ],
+      "restTimerTeachingFocus": [
+        "posterior chain tension",
+        "lats as stabilizers",
+        "brace and breathe"
+      ],
+      "imageIds": [
+        "img_054",
+        "img_076",
+        "img_077",
+        "img_089"
+      ],
+      "llmRetrievalHint": "For Deadlift, retrieve ontology topics posterior-chain, gluteals, hamstrings, spine, lats; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: lumbar-decompression, hip-flexor-balance."
+    },
+    "hip-thrust": {
+      "displayName": "Hip Thrust",
+      "movementPattern": "hip-extension",
+      "primaryMuscles": [
+        "gluteus-maximus"
+      ],
+      "secondaryMuscles": [
+        "hamstrings",
+        "adductors",
+        "spine-core"
+      ],
+      "joints": [
+        "hip",
+        "pelvis",
+        "spine"
+      ],
+      "jointActions": [
+        "hip-extension",
+        "posterior-pelvic-control"
+      ],
+      "ontologyTopics": [
+        "gluteals",
+        "pelvis",
+        "hip",
+        "posterior-chain"
+      ],
+      "bookTopics": [
+        "gluteals",
+        "pelvis",
+        "hip"
+      ],
+      "preferredImageFolders": [
+        "hip-glute",
+        "group-pelvis",
+        "group-posterior-chain"
+      ],
+      "recommendedYogaGoals": [
+        "hip-flexor-mobility",
+        "glute-recovery"
+      ],
+      "restTimerTeachingFocus": [
+        "glute max extends the hip",
+        "pelvic position changes glute sensation"
+      ],
+      "imageIds": [
+        "img_053",
+        "img_054"
+      ],
+      "llmRetrievalHint": "For Hip Thrust, retrieve ontology topics gluteals, pelvis, hip, posterior-chain; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: hip-flexor-mobility, glute-recovery."
+    },
+    "leg-curl": {
+      "displayName": "Leg Curl",
+      "movementPattern": "knee-flexion",
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves"
+      ],
+      "joints": [
+        "knee",
+        "hip"
+      ],
+      "jointActions": [
+        "knee-flexion"
+      ],
+      "ontologyTopics": [
+        "hamstrings",
+        "posterior-chain",
+        "knee"
+      ],
+      "bookTopics": [
+        "posterior-chain",
+        "muscular-system",
+        "knee"
+      ],
+      "preferredImageFolders": [
+        "group-posterior-chain",
+        "muscles-posterior",
+        "group-knees"
+      ],
+      "recommendedYogaGoals": [
+        "gentle-hamstring-lengthening"
+      ],
+      "restTimerTeachingFocus": [
+        "hamstrings flex the knee and extend the hip",
+        "seated vs lying changes hip angle"
+      ],
+      "imageIds": [
+        "img_054",
+        "img_089",
+        "img_038",
+        "img_039",
+        "img_040"
+      ],
+      "llmRetrievalHint": "For Leg Curl, retrieve ontology topics hamstrings, posterior-chain, knee; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: gentle-hamstring-lengthening."
+    },
+    "calf-raise": {
+      "displayName": "Calf Raise",
+      "movementPattern": "ankle-plantarflexion",
+      "primaryMuscles": [
+        "calves"
+      ],
+      "secondaryMuscles": [
+        "feet"
+      ],
+      "joints": [
+        "ankle"
+      ],
+      "jointActions": [
+        "ankle-plantarflexion"
+      ],
+      "ontologyTopics": [
+        "calves",
+        "ankle",
+        "foot"
+      ],
+      "bookTopics": [
+        "ankle",
+        "muscular-system"
+      ],
+      "preferredImageFolders": [
+        "group-joints",
+        "muscles-posterior"
+      ],
+      "recommendedYogaGoals": [
+        "calf-length",
+        "ankle-mobility"
+      ],
+      "restTimerTeachingFocus": [
+        "gastroc crosses knee; soleus does not",
+        "ankle stiffness affects squat depth"
+      ],
+      "imageIds": [
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_089"
+      ],
+      "llmRetrievalHint": "For Calf Raise, retrieve ontology topics calves, ankle, foot; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: calf-length, ankle-mobility."
     },
     "lat-pulldown": {
-      "primary": [
-        "back_lats"
+      "displayName": "Lat Pulldown",
+      "movementPattern": "vertical-pull",
+      "primaryMuscles": [
+        "latissimus-dorsi"
       ],
-      "secondary": [
+      "secondaryMuscles": [
         "biceps",
+        "traps",
+        "rhomboids",
+        "rear-delts"
+      ],
+      "joints": [
+        "shoulder",
+        "scapula",
+        "elbow"
+      ],
+      "jointActions": [
+        "shoulder-adduction",
+        "scapular-depression",
+        "elbow-flexion"
+      ],
+      "ontologyTopics": [
+        "lats",
         "shoulders",
-        "skeletal_joints"
-      ],
-      "movementPatterns": [
-        "shoulder adduction",
-        "elbow flexion"
-      ]
-    },
-    "pull-up": {
-      "primary": [
-        "back_lats"
-      ],
-      "secondary": [
-        "biceps",
-        "shoulders",
-        "spine_core"
-      ],
-      "movementPatterns": [
-        "vertical pull"
-      ]
-    },
-    "row": {
-      "primary": [
-        "back_lats"
-      ],
-      "secondary": [
-        "biceps",
-        "shoulders",
-        "spine_core"
-      ],
-      "movementPatterns": [
-        "horizontal pull",
-        "scapular retraction"
-      ]
-    },
-    "chest-press": {
-      "primary": [
-        "chest"
-      ],
-      "secondary": [
-        "triceps",
-        "shoulders"
-      ],
-      "movementPatterns": [
-        "horizontal press"
-      ]
-    },
-    "bench-press": {
-      "primary": [
-        "chest"
-      ],
-      "secondary": [
-        "triceps",
-        "shoulders"
-      ],
-      "movementPatterns": [
-        "horizontal press"
-      ]
-    },
-    "push-up": {
-      "primary": [
-        "chest"
-      ],
-      "secondary": [
-        "triceps",
-        "shoulders",
-        "spine_core"
-      ],
-      "movementPatterns": [
-        "horizontal press",
-        "plank tension"
-      ]
-    },
-    "shoulder-press": {
-      "primary": [
-        "shoulders"
-      ],
-      "secondary": [
-        "triceps",
-        "spine_core"
-      ],
-      "movementPatterns": [
-        "vertical press"
-      ]
-    },
-    "lateral-raise": {
-      "primary": [
-        "shoulders"
-      ],
-      "secondary": [
-        "skeletal_joints"
-      ],
-      "movementPatterns": [
-        "shoulder abduction"
-      ]
-    },
-    "bicep-curl": {
-      "primary": [
+        "scapula",
         "biceps"
       ],
-      "secondary": [
-        "forearms_wrists",
-        "muscle_contraction"
+      "bookTopics": [
+        "shoulders",
+        "muscular-system",
+        "spine"
       ],
-      "movementPatterns": [
-        "elbow flexion"
-      ]
+      "preferredImageFolders": [
+        "group-shoulders",
+        "muscles-posterior",
+        "arms-biceps",
+        "group-spine"
+      ],
+      "recommendedYogaGoals": [
+        "lat-length",
+        "thoracic-decompression"
+      ],
+      "restTimerTeachingFocus": [
+        "lats connect arm to trunk",
+        "scapular depression before elbow pulling"
+      ],
+      "imageIds": [
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_089",
+        "img_025",
+        "img_076",
+        "img_077",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041",
+        "img_087"
+      ],
+      "llmRetrievalHint": "For Lat Pulldown, retrieve ontology topics lats, shoulders, scapula, biceps; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: lat-length, thoracic-decompression."
     },
-    "tricep-extension": {
-      "primary": [
+    "pull-up": {
+      "displayName": "Pull-up",
+      "movementPattern": "vertical-pull",
+      "primaryMuscles": [
+        "latissimus-dorsi"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "forearms",
+        "traps",
+        "core"
+      ],
+      "joints": [
+        "shoulder",
+        "scapula",
+        "elbow"
+      ],
+      "jointActions": [
+        "shoulder-adduction",
+        "elbow-flexion",
+        "scapular-depression"
+      ],
+      "ontologyTopics": [
+        "lats",
+        "biceps",
+        "shoulders",
+        "scapula",
+        "forearms"
+      ],
+      "bookTopics": [
+        "shoulders",
+        "muscular-system",
+        "motor-control"
+      ],
+      "preferredImageFolders": [
+        "group-shoulders",
+        "arms-biceps",
+        "muscles-posterior",
+        "group-motor-control"
+      ],
+      "recommendedYogaGoals": [
+        "lat-length",
+        "forearm-relief"
+      ],
+      "restTimerTeachingFocus": [
+        "grip changes elbow/shoulder stress",
+        "shoulder blades initiate the pull"
+      ],
+      "imageIds": [
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_025",
+        "img_089",
+        "img_042",
+        "img_087",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041"
+      ],
+      "llmRetrievalHint": "For Pull-up, retrieve ontology topics lats, biceps, shoulders, scapula, forearms; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: lat-length, forearm-relief."
+    },
+    "row": {
+      "displayName": "Row",
+      "movementPattern": "horizontal-pull",
+      "primaryMuscles": [
+        "mid-back",
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "rear-delts",
+        "traps",
+        "rhomboids"
+      ],
+      "joints": [
+        "shoulder",
+        "scapula",
+        "elbow",
+        "spine"
+      ],
+      "jointActions": [
+        "scapular-retraction",
+        "shoulder-extension",
+        "elbow-flexion"
+      ],
+      "ontologyTopics": [
+        "scapula",
+        "lats",
+        "traps",
+        "biceps",
+        "spine"
+      ],
+      "bookTopics": [
+        "shoulders",
+        "spine",
+        "muscular-system"
+      ],
+      "preferredImageFolders": [
+        "group-shoulders",
+        "muscles-posterior",
+        "arms-biceps",
+        "group-spine"
+      ],
+      "recommendedYogaGoals": [
+        "chest-opening",
+        "thoracic-mobility"
+      ],
+      "restTimerTeachingFocus": [
+        "rows train shoulder extension and scapular retraction",
+        "ribs and spine affect shoulder mechanics"
+      ],
+      "imageIds": [
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_089",
+        "img_025",
+        "img_076",
+        "img_077",
+        "img_087"
+      ],
+      "llmRetrievalHint": "For Row, retrieve ontology topics scapula, lats, traps, biceps, spine; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: chest-opening, thoracic-mobility."
+    },
+    "chest-press": {
+      "displayName": "Chest Press",
+      "movementPattern": "horizontal-push",
+      "primaryMuscles": [
+        "pectoralis-major"
+      ],
+      "secondaryMuscles": [
+        "anterior-deltoid",
+        "triceps",
+        "serratus-anterior"
+      ],
+      "joints": [
+        "shoulder",
+        "scapula",
+        "elbow"
+      ],
+      "jointActions": [
+        "shoulder-horizontal-adduction",
+        "elbow-extension",
+        "scapular-control"
+      ],
+      "ontologyTopics": [
+        "chest",
+        "shoulders",
+        "triceps",
+        "scapula"
+      ],
+      "bookTopics": [
+        "shoulders",
+        "muscular-system",
+        "joint-actions"
+      ],
+      "preferredImageFolders": [
+        "muscles-anterior",
+        "group-shoulders",
+        "group-joints"
+      ],
+      "recommendedYogaGoals": [
+        "chest-opening",
+        "shoulder-extension"
+      ],
+      "restTimerTeachingFocus": [
+        "pecs move the humerus across the body",
+        "scapula position affects pressing comfort"
+      ],
+      "imageIds": [
+        "img_088",
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041"
+      ],
+      "llmRetrievalHint": "For Chest Press, retrieve ontology topics chest, shoulders, triceps, scapula; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: chest-opening, shoulder-extension."
+    },
+    "push-up": {
+      "displayName": "Push-up",
+      "movementPattern": "horizontal-push",
+      "primaryMuscles": [
+        "pectoralis-major",
         "triceps"
       ],
-      "secondary": [
+      "secondaryMuscles": [
+        "anterior-deltoid",
+        "serratus-anterior",
+        "core"
+      ],
+      "joints": [
+        "shoulder",
+        "scapula",
+        "elbow",
+        "spine"
+      ],
+      "jointActions": [
+        "elbow-extension",
+        "shoulder-horizontal-adduction",
+        "trunk-stability"
+      ],
+      "ontologyTopics": [
+        "chest",
+        "triceps",
         "shoulders",
-        "skeletal_joints"
+        "spine-core"
       ],
-      "movementPatterns": [
-        "elbow extension"
-      ]
+      "bookTopics": [
+        "shoulders",
+        "muscular-system",
+        "posture"
+      ],
+      "preferredImageFolders": [
+        "muscles-anterior",
+        "group-shoulders",
+        "group-posture"
+      ],
+      "recommendedYogaGoals": [
+        "wrist-relief",
+        "chest-opening"
+      ],
+      "restTimerTeachingFocus": [
+        "push-ups are moving planks",
+        "wrists and scapula share load"
+      ],
+      "imageIds": [
+        "img_088",
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_055",
+        "img_056",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041"
+      ],
+      "llmRetrievalHint": "For Push-up, retrieve ontology topics chest, triceps, shoulders, spine-core; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: wrist-relief, chest-opening."
     },
-    "wrist-curl": {
-      "primary": [
-        "forearms_wrists"
+    "shoulder-press": {
+      "displayName": "Shoulder Press",
+      "movementPattern": "vertical-push",
+      "primaryMuscles": [
+        "deltoids"
       ],
-      "secondary": [
-        "skeletal_joints"
+      "secondaryMuscles": [
+        "triceps",
+        "upper-traps",
+        "serratus-anterior",
+        "core"
       ],
-      "movementPatterns": [
-        "wrist flexion/extension"
-      ]
+      "joints": [
+        "shoulder",
+        "scapula",
+        "elbow",
+        "spine"
+      ],
+      "jointActions": [
+        "shoulder-flexion-abduction",
+        "elbow-extension",
+        "scapular-upward-rotation"
+      ],
+      "ontologyTopics": [
+        "shoulders",
+        "triceps",
+        "scapula",
+        "spine-core"
+      ],
+      "bookTopics": [
+        "shoulders",
+        "spine",
+        "joint-actions"
+      ],
+      "preferredImageFolders": [
+        "group-shoulders",
+        "muscles-anterior",
+        "group-spine"
+      ],
+      "recommendedYogaGoals": [
+        "lat-length",
+        "thoracic-extension",
+        "neck-relief"
+      ],
+      "restTimerTeachingFocus": [
+        "overhead motion requires scapular upward rotation",
+        "ribs influence shoulder range"
+      ],
+      "imageIds": [
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_088",
+        "img_076",
+        "img_077",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041"
+      ],
+      "llmRetrievalHint": "For Shoulder Press, retrieve ontology topics shoulders, triceps, scapula, spine-core; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: lat-length, thoracic-extension, neck-relief."
+    },
+    "lateral-raise": {
+      "displayName": "Lateral Raise",
+      "movementPattern": "shoulder-abduction",
+      "primaryMuscles": [
+        "middle-deltoid"
+      ],
+      "secondaryMuscles": [
+        "supraspinatus",
+        "upper-traps"
+      ],
+      "joints": [
+        "shoulder",
+        "scapula"
+      ],
+      "jointActions": [
+        "shoulder-abduction"
+      ],
+      "ontologyTopics": [
+        "shoulders",
+        "scapula"
+      ],
+      "bookTopics": [
+        "shoulders",
+        "joint-actions"
+      ],
+      "preferredImageFolders": [
+        "group-shoulders",
+        "muscles-anterior"
+      ],
+      "recommendedYogaGoals": [
+        "neck-relief",
+        "shoulder-decompression"
+      ],
+      "restTimerTeachingFocus": [
+        "deltoid abducts the arm",
+        "scapula and humerus move together"
+      ],
+      "imageIds": [
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_088",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041"
+      ],
+      "llmRetrievalHint": "For Lateral Raise, retrieve ontology topics shoulders, scapula; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: neck-relief, shoulder-decompression."
+    },
+    "bicep-curl": {
+      "displayName": "Biceps Curl",
+      "movementPattern": "elbow-flexion",
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [
+        "brachialis",
+        "forearms"
+      ],
+      "joints": [
+        "elbow",
+        "wrist",
+        "shoulder"
+      ],
+      "jointActions": [
+        "elbow-flexion",
+        "forearm-supination"
+      ],
+      "ontologyTopics": [
+        "biceps",
+        "elbow",
+        "forearms"
+      ],
+      "bookTopics": [
+        "muscle-contraction",
+        "muscular-system",
+        "joint-actions"
+      ],
+      "preferredImageFolders": [
+        "arms-biceps",
+        "group-wrists",
+        "group-joints"
+      ],
+      "recommendedYogaGoals": [
+        "forearm-relief",
+        "elbow-extension"
+      ],
+      "restTimerTeachingFocus": [
+        "biceps flex and supinate",
+        "elbow position changes tension"
+      ],
+      "imageIds": [
+        "img_025",
+        "img_081",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_087"
+      ],
+      "llmRetrievalHint": "For Biceps Curl, retrieve ontology topics biceps, elbow, forearms; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: forearm-relief, elbow-extension."
+    },
+    "tricep-extension": {
+      "displayName": "Triceps Extension",
+      "movementPattern": "elbow-extension",
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "forearms"
+      ],
+      "joints": [
+        "elbow",
+        "shoulder"
+      ],
+      "jointActions": [
+        "elbow-extension"
+      ],
+      "ontologyTopics": [
+        "triceps",
+        "elbow",
+        "shoulders"
+      ],
+      "bookTopics": [
+        "muscular-system",
+        "joint-actions"
+      ],
+      "preferredImageFolders": [
+        "group-shoulders",
+        "group-joints"
+      ],
+      "recommendedYogaGoals": [
+        "triceps-length",
+        "shoulder-flexion-comfort"
+      ],
+      "restTimerTeachingFocus": [
+        "triceps straighten the elbow",
+        "long head also crosses shoulder"
+      ],
+      "imageIds": [
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041"
+      ],
+      "llmRetrievalHint": "For Triceps Extension, retrieve ontology topics triceps, elbow, shoulders; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: triceps-length, shoulder-flexion-comfort."
     },
     "plank": {
-      "primary": [
-        "spine_core"
+      "displayName": "Plank",
+      "movementPattern": "anti-extension-core",
+      "primaryMuscles": [
+        "abdominals",
+        "spine-core"
       ],
-      "secondary": [
+      "secondaryMuscles": [
         "shoulders",
-        "breathing"
+        "glutes"
       ],
-      "movementPatterns": [
-        "anti-extension",
-        "isometric bracing"
-      ]
-    },
-    "breathing": {
-      "primary": [
-        "breathing"
+      "joints": [
+        "spine",
+        "shoulder",
+        "pelvis"
       ],
-      "secondary": [
-        "stress_recovery",
-        "cardio_recovery"
+      "jointActions": [
+        "isometric-spinal-stability"
       ],
-      "movementPatterns": [
-        "recovery breathing"
-      ]
-    },
-    "recovery": {
-      "primary": [
-        "stress_recovery",
-        "cardio_recovery"
+      "ontologyTopics": [
+        "spine-core",
+        "posture",
+        "pelvis",
+        "shoulders"
       ],
-      "secondary": [
-        "breathing",
-        "nervous_motor"
+      "bookTopics": [
+        "spine",
+        "posture",
+        "motor-control"
       ],
-      "movementPatterns": [
-        "down-regulation"
-      ]
+      "preferredImageFolders": [
+        "spine-core",
+        "group-posture",
+        "group-spine",
+        "group-motor-control"
+      ],
+      "recommendedYogaGoals": [
+        "child-pose-recovery",
+        "breathing-downshift"
+      ],
+      "restTimerTeachingFocus": [
+        "anti-extension training resists spinal sagging",
+        "breathing changes bracing"
+      ],
+      "imageIds": [
+        "img_095",
+        "img_055",
+        "img_056",
+        "img_076",
+        "img_077",
+        "img_042",
+        "img_035",
+        "img_036",
+        "img_037",
+        "img_041",
+        "img_070",
+        "img_071",
+        "img_072",
+        "img_073"
+      ],
+      "llmRetrievalHint": "For Plank, retrieve ontology topics spine-core, posture, pelvis, shoulders; then use matching book-index topics and image-context entries. Prefer low-risk rest-timer yoga goals: child-pose-recovery, breathing-downshift."
     }
   }
 }

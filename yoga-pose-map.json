@@ -1,129 +1,365 @@
 {
-  "version": "1.0",
-  "note": "Conservative rest-timer pose suggestions. Prefer gentle, short, low-risk positions. Do not require deep stretching during short strength-training rests.",
+  "version": "2.0-ontology-aware",
+  "note": "Conservative rest-timer yoga suggestions. Use gentle options during strength rests; avoid intense end-range stretches under fatigue.",
+  "poseLibrary": {
+    "low-lunge": {
+      "name": "Low Lunge",
+      "sanskrit": "Anjaneyasana variation",
+      "targets": [
+        "hip-flexors",
+        "quadriceps"
+      ],
+      "durationSeconds": [
+        20,
+        45
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Keep the stretch light; breathe into the front of the hip."
+    },
+    "half-forward-fold": {
+      "name": "Half Forward Fold",
+      "sanskrit": "Ardha Uttanasana variation",
+      "targets": [
+        "hamstrings",
+        "posterior-chain",
+        "spine"
+      ],
+      "durationSeconds": [
+        20,
+        40
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Hands on thighs or bench; keep it easy, not maximal."
+    },
+    "childs-pose-side-reach": {
+      "name": "Child’s Pose with Side Reach",
+      "targets": [
+        "lats",
+        "spine",
+        "ribs"
+      ],
+      "durationSeconds": [
+        20,
+        45
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Walk hands to one side and breathe into the side ribs."
+    },
+    "supported-chest-opener": {
+      "name": "Supported Chest Opener",
+      "targets": [
+        "chest",
+        "anterior-shoulder"
+      ],
+      "durationSeconds": [
+        20,
+        45
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Use a doorway or bench; avoid cranking the shoulder."
+    },
+    "thread-the-needle": {
+      "name": "Thread the Needle",
+      "targets": [
+        "posterior-shoulder",
+        "upper-back"
+      ],
+      "durationSeconds": [
+        20,
+        40
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Rotate gently; do not force the shoulder."
+    },
+    "figure-four": {
+      "name": "Figure Four Stretch",
+      "targets": [
+        "glutes",
+        "hips"
+      ],
+      "durationSeconds": [
+        20,
+        45
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Keep the stretch mild and breathe."
+    },
+    "downward-dog-calf-pedal": {
+      "name": "Downward Dog Calf Pedal",
+      "targets": [
+        "calves",
+        "hamstrings",
+        "shoulders"
+      ],
+      "durationSeconds": [
+        20,
+        40
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Pedal the heels one at a time rather than holding a deep stretch."
+    },
+    "wrist-forearm-stretch": {
+      "name": "Wrist and Forearm Stretch",
+      "targets": [
+        "wrists",
+        "forearms",
+        "elbows"
+      ],
+      "durationSeconds": [
+        15,
+        30
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Use light pressure only; stop if nerve symptoms appear."
+    },
+    "overhead-triceps-stretch": {
+      "name": "Overhead Triceps Stretch",
+      "targets": [
+        "triceps",
+        "lats",
+        "shoulders"
+      ],
+      "durationSeconds": [
+        15,
+        30
+      ],
+      "intensity": "gentle",
+      "restTimerSafe": true,
+      "cue": "Keep ribs down and shoulder relaxed."
+    },
+    "constructive-rest": {
+      "name": "Constructive Rest Breathing",
+      "targets": [
+        "nervous-system",
+        "spine",
+        "breathing"
+      ],
+      "durationSeconds": [
+        30,
+        90
+      ],
+      "intensity": "restorative",
+      "restTimerSafe": true,
+      "cue": "Lie or sit comfortably and breathe slowly through the nose."
+    }
+  },
   "exercisePoseMap": {
     "leg-extension": [
       {
-        "pose": "Low Lunge",
-        "reason": "Gently opens the anterior hip and thigh after quad-dominant work.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      },
-      {
-        "pose": "Supported Hero Pose",
-        "reason": "Targets the quadriceps, but use only if knees tolerate it.",
-        "durationSeconds": 20,
-        "intensity": "moderate",
-        "caution": "Avoid if knee discomfort."
-      }
-    ],
-    "rdl": [
-      {
-        "pose": "Half Forward Fold",
-        "reason": "Gently lengthens posterior chain without forcing end range.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      },
-      {
-        "pose": "Supine Hamstring Stretch",
-        "reason": "Targets hamstrings while keeping the spine supported.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      }
-    ],
-    "romanian-deadlift": [
-      {
-        "pose": "Half Forward Fold",
-        "reason": "Gently lengthens posterior chain without forcing end range.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      }
-    ],
-    "hip-thrust": [
-      {
-        "pose": "Low Lunge",
-        "reason": "Opens hip flexors after repeated hip extension.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      },
-      {
-        "pose": "Figure Four Stretch",
-        "reason": "Targets glute and external rotator tension.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      }
-    ],
-    "lat-pulldown": [
-      {
-        "pose": "Child\u2019s Pose with Side Reach",
-        "reason": "Opens lats and side body after vertical pulling.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      }
-    ],
-    "row": [
-      {
-        "pose": "Thread the Needle",
-        "reason": "Gently rotates the thoracic spine and opens posterior shoulder.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      }
-    ],
-    "chest-press": [
-      {
-        "pose": "Supported Chest Opener",
-        "reason": "Opens the chest and anterior shoulder after pressing.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      }
-    ],
-    "bench-press": [
-      {
-        "pose": "Supported Chest Opener",
-        "reason": "Opens the chest and anterior shoulder after pressing.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      }
-    ],
-    "shoulder-press": [
-      {
-        "pose": "Child\u2019s Pose with Arms Forward",
-        "reason": "Lets the shoulders flex overhead gently while breathing.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
-      }
-    ],
-    "bicep-curl": [
-      {
-        "pose": "Wrist and Biceps Wall Stretch",
-        "reason": "Gently opens the front of the arm and forearm.",
-        "durationSeconds": 20,
-        "intensity": "gentle"
-      }
-    ],
-    "tricep-extension": [
-      {
-        "pose": "Overhead Triceps Stretch",
-        "reason": "Matches the tissue just trained while staying simple for a rest interval.",
-        "durationSeconds": 20,
-        "intensity": "gentle"
-      }
-    ],
-    "calf-raise": [
-      {
-        "pose": "Downward Dog Calf Pedal",
-        "reason": "Alternates gentle calf lengthening without long static holds.",
-        "durationSeconds": 30,
-        "intensity": "gentle"
+        "poseId": "low-lunge",
+        "reason": "Matches the rest goal 'quadriceps-length' for Leg Extension.",
+        "goal": "quadriceps-length",
+        "priority": 1
       }
     ],
     "squat": [
       {
-        "pose": "Deep Squat Breathing Hold",
-        "reason": "Rehearses squat mobility and breathing at low intensity.",
-        "durationSeconds": 30,
-        "intensity": "gentle",
-        "caution": "Use support if needed."
+        "poseId": "downward-dog-calf-pedal",
+        "reason": "Matches the rest goal 'ankle-mobility' for Squat.",
+        "goal": "ankle-mobility",
+        "priority": 1
+      },
+      {
+        "poseId": "constructive-rest",
+        "reason": "Matches the rest goal 'lumbar-decompression' for Squat.",
+        "goal": "lumbar-decompression",
+        "priority": 2
+      },
+      {
+        "poseId": "childs-pose-side-reach",
+        "reason": "Matches the rest goal 'lumbar-decompression' for Squat.",
+        "goal": "lumbar-decompression",
+        "priority": 3
+      }
+    ],
+    "leg-press": [
+      {
+        "poseId": "low-lunge",
+        "reason": "Matches the rest goal 'quadriceps-length' for Leg Press.",
+        "goal": "quadriceps-length",
+        "priority": 1
+      }
+    ],
+    "romanian-deadlift": [
+      {
+        "poseId": "half-forward-fold",
+        "reason": "Matches the rest goal 'posterior-chain-lengthening' for Romanian Deadlift.",
+        "goal": "posterior-chain-lengthening",
+        "priority": 1
+      },
+      {
+        "poseId": "constructive-rest",
+        "reason": "Matches the rest goal 'lumbar-decompression' for Romanian Deadlift.",
+        "goal": "lumbar-decompression",
+        "priority": 2
+      },
+      {
+        "poseId": "childs-pose-side-reach",
+        "reason": "Matches the rest goal 'lumbar-decompression' for Romanian Deadlift.",
+        "goal": "lumbar-decompression",
+        "priority": 3
+      }
+    ],
+    "deadlift": [
+      {
+        "poseId": "constructive-rest",
+        "reason": "Matches the rest goal 'lumbar-decompression' for Deadlift.",
+        "goal": "lumbar-decompression",
+        "priority": 1
+      },
+      {
+        "poseId": "childs-pose-side-reach",
+        "reason": "Matches the rest goal 'lumbar-decompression' for Deadlift.",
+        "goal": "lumbar-decompression",
+        "priority": 2
+      }
+    ],
+    "hip-thrust": [
+      {
+        "poseId": "low-lunge",
+        "reason": "Matches the rest goal 'hip-flexor-mobility' for Hip Thrust.",
+        "goal": "hip-flexor-mobility",
+        "priority": 1
+      },
+      {
+        "poseId": "figure-four",
+        "reason": "Matches the rest goal 'glute-recovery' for Hip Thrust.",
+        "goal": "glute-recovery",
+        "priority": 2
+      }
+    ],
+    "leg-curl": [
+      {
+        "poseId": "constructive-rest",
+        "reason": "Safe general recovery option.",
+        "goal": "breathing-downshift",
+        "priority": 1
+      }
+    ],
+    "calf-raise": [
+      {
+        "poseId": "downward-dog-calf-pedal",
+        "reason": "Matches the rest goal 'calf-length' for Calf Raise.",
+        "goal": "calf-length",
+        "priority": 1
+      }
+    ],
+    "lat-pulldown": [
+      {
+        "poseId": "childs-pose-side-reach",
+        "reason": "Matches the rest goal 'lat-length' for Lat Pulldown.",
+        "goal": "lat-length",
+        "priority": 1
+      }
+    ],
+    "pull-up": [
+      {
+        "poseId": "childs-pose-side-reach",
+        "reason": "Matches the rest goal 'lat-length' for Pull-up.",
+        "goal": "lat-length",
+        "priority": 1
+      },
+      {
+        "poseId": "wrist-forearm-stretch",
+        "reason": "Matches the rest goal 'forearm-relief' for Pull-up.",
+        "goal": "forearm-relief",
+        "priority": 2
+      }
+    ],
+    "row": [
+      {
+        "poseId": "supported-chest-opener",
+        "reason": "Matches the rest goal 'chest-opening' for Row.",
+        "goal": "chest-opening",
+        "priority": 1
+      },
+      {
+        "poseId": "thread-the-needle",
+        "reason": "Matches the rest goal 'thoracic-mobility' for Row.",
+        "goal": "thoracic-mobility",
+        "priority": 2
+      }
+    ],
+    "chest-press": [
+      {
+        "poseId": "supported-chest-opener",
+        "reason": "Matches the rest goal 'chest-opening' for Chest Press.",
+        "goal": "chest-opening",
+        "priority": 1
+      }
+    ],
+    "push-up": [
+      {
+        "poseId": "wrist-forearm-stretch",
+        "reason": "Matches the rest goal 'wrist-relief' for Push-up.",
+        "goal": "wrist-relief",
+        "priority": 1
+      },
+      {
+        "poseId": "supported-chest-opener",
+        "reason": "Matches the rest goal 'chest-opening' for Push-up.",
+        "goal": "chest-opening",
+        "priority": 2
+      }
+    ],
+    "shoulder-press": [
+      {
+        "poseId": "childs-pose-side-reach",
+        "reason": "Matches the rest goal 'lat-length' for Shoulder Press.",
+        "goal": "lat-length",
+        "priority": 1
+      },
+      {
+        "poseId": "constructive-rest",
+        "reason": "Matches the rest goal 'neck-relief' for Shoulder Press.",
+        "goal": "neck-relief",
+        "priority": 2
+      }
+    ],
+    "lateral-raise": [
+      {
+        "poseId": "constructive-rest",
+        "reason": "Matches the rest goal 'neck-relief' for Lateral Raise.",
+        "goal": "neck-relief",
+        "priority": 1
+      }
+    ],
+    "bicep-curl": [
+      {
+        "poseId": "wrist-forearm-stretch",
+        "reason": "Matches the rest goal 'forearm-relief' for Biceps Curl.",
+        "goal": "forearm-relief",
+        "priority": 1
+      }
+    ],
+    "tricep-extension": [
+      {
+        "poseId": "overhead-triceps-stretch",
+        "reason": "Matches the rest goal 'triceps-length' for Triceps Extension.",
+        "goal": "triceps-length",
+        "priority": 1
+      }
+    ],
+    "plank": [
+      {
+        "poseId": "childs-pose-side-reach",
+        "reason": "Matches the rest goal 'child-pose-recovery' for Plank.",
+        "goal": "child-pose-recovery",
+        "priority": 1
+      },
+      {
+        "poseId": "constructive-rest",
+        "reason": "Matches the rest goal 'breathing-downshift' for Plank.",
+        "goal": "breathing-downshift",
+        "priority": 2
       }
     ]
   }

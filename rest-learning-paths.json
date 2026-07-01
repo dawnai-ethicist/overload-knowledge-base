@@ -1,0 +1,1033 @@
+{
+  "version": "1.0",
+  "purpose": "Tell Loveable how to choose what to show across multiple rest periods without repeating the same idea.",
+  "paths": {
+    "leg-extension": {
+      "exerciseId": "leg-extension",
+      "displayName": "Leg Extension",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "quadriceps",
+            "knee"
+          ],
+          "imageIds": [
+            "img_057",
+            "img_038",
+            "img_039"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "knee-extension"
+          ],
+          "imageIds": [
+            "img_040",
+            "img_088"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "low-lunge"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "quadriceps",
+            "knee"
+          ],
+          "imageIds": [
+            "img_057",
+            "img_038",
+            "img_039"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "squat": {
+      "exerciseId": "squat",
+      "displayName": "Squat",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "quadriceps",
+            "gluteals"
+          ],
+          "imageIds": [
+            "img_057",
+            "img_028",
+            "img_029"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "hip-extension",
+            "knee-extension",
+            "ankle-dorsiflexion"
+          ],
+          "imageIds": [
+            "img_038",
+            "img_039",
+            "img_040"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "downward-dog-calf-pedal",
+            "constructive-rest",
+            "childs-pose-side-reach"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "quadriceps",
+            "gluteals"
+          ],
+          "imageIds": [
+            "img_076",
+            "img_077",
+            "img_088"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "leg-press": {
+      "exerciseId": "leg-press",
+      "displayName": "Leg Press",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "quadriceps",
+            "gluteals"
+          ],
+          "imageIds": [
+            "img_057",
+            "img_038",
+            "img_039"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "hip-extension",
+            "knee-extension"
+          ],
+          "imageIds": [
+            "img_040",
+            "img_088"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "low-lunge"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "quadriceps",
+            "gluteals"
+          ],
+          "imageIds": [
+            "img_057",
+            "img_038",
+            "img_039"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "romanian-deadlift": {
+      "exerciseId": "romanian-deadlift",
+      "displayName": "Romanian Deadlift",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "hamstrings",
+            "gluteals"
+          ],
+          "imageIds": [
+            "img_054",
+            "img_076",
+            "img_077"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "hip-extension",
+            "hip-hinge",
+            "isometric-spinal-stability"
+          ],
+          "imageIds": [
+            "img_089"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "half-forward-fold",
+            "constructive-rest",
+            "childs-pose-side-reach"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "posterior-chain",
+            "gluteals"
+          ],
+          "imageIds": [
+            "img_054",
+            "img_076",
+            "img_077"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "deadlift": {
+      "exerciseId": "deadlift",
+      "displayName": "Deadlift",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "posterior-chain",
+            "gluteals"
+          ],
+          "imageIds": [
+            "img_054",
+            "img_076",
+            "img_077"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "hip-extension",
+            "knee-extension",
+            "spinal-stability"
+          ],
+          "imageIds": [
+            "img_089"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "constructive-rest",
+            "childs-pose-side-reach"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "posterior-chain",
+            "spine"
+          ],
+          "imageIds": [
+            "img_054",
+            "img_076",
+            "img_077"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "hip-thrust": {
+      "exerciseId": "hip-thrust",
+      "displayName": "Hip Thrust",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "gluteals",
+            "pelvis"
+          ],
+          "imageIds": [
+            "img_053",
+            "img_054"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "hip-extension",
+            "posterior-pelvic-control"
+          ],
+          "imageIds": [
+            "img_053",
+            "img_054"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "low-lunge",
+            "figure-four"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "gluteals",
+            "pelvis"
+          ],
+          "imageIds": [
+            "img_053",
+            "img_054"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "leg-curl": {
+      "exerciseId": "leg-curl",
+      "displayName": "Leg Curl",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "hamstrings",
+            "posterior-chain"
+          ],
+          "imageIds": [
+            "img_054",
+            "img_089",
+            "img_038"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "knee-flexion"
+          ],
+          "imageIds": [
+            "img_039",
+            "img_040"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "constructive-rest"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "posterior-chain",
+            "muscular-system"
+          ],
+          "imageIds": [
+            "img_054",
+            "img_089",
+            "img_038"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "calf-raise": {
+      "exerciseId": "calf-raise",
+      "displayName": "Calf Raise",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "calves",
+            "ankle"
+          ],
+          "imageIds": [
+            "img_035",
+            "img_036",
+            "img_037"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "ankle-plantarflexion"
+          ],
+          "imageIds": [
+            "img_089"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "downward-dog-calf-pedal"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "ankle",
+            "muscular-system"
+          ],
+          "imageIds": [
+            "img_035",
+            "img_036",
+            "img_037"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "lat-pulldown": {
+      "exerciseId": "lat-pulldown",
+      "displayName": "Lat Pulldown",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "lats",
+            "shoulders"
+          ],
+          "imageIds": [
+            "img_070",
+            "img_071",
+            "img_072"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "shoulder-adduction",
+            "scapular-depression",
+            "elbow-flexion"
+          ],
+          "imageIds": [
+            "img_073",
+            "img_089",
+            "img_025"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "childs-pose-side-reach"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "shoulders",
+            "muscular-system"
+          ],
+          "imageIds": [
+            "img_076",
+            "img_077",
+            "img_035"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "pull-up": {
+      "exerciseId": "pull-up",
+      "displayName": "Pull-up",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "lats",
+            "biceps"
+          ],
+          "imageIds": [
+            "img_070",
+            "img_071",
+            "img_072"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "shoulder-adduction",
+            "elbow-flexion",
+            "scapular-depression"
+          ],
+          "imageIds": [
+            "img_073",
+            "img_025",
+            "img_089"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "childs-pose-side-reach",
+            "wrist-forearm-stretch"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "shoulders",
+            "muscular-system"
+          ],
+          "imageIds": [
+            "img_042",
+            "img_087",
+            "img_035"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "row": {
+      "exerciseId": "row",
+      "displayName": "Row",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "scapula",
+            "lats"
+          ],
+          "imageIds": [
+            "img_070",
+            "img_071",
+            "img_072"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "scapular-retraction",
+            "shoulder-extension",
+            "elbow-flexion"
+          ],
+          "imageIds": [
+            "img_073",
+            "img_089",
+            "img_025"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "supported-chest-opener",
+            "thread-the-needle"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "shoulders",
+            "spine"
+          ],
+          "imageIds": [
+            "img_076",
+            "img_077",
+            "img_087"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "chest-press": {
+      "exerciseId": "chest-press",
+      "displayName": "Chest Press",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "chest",
+            "shoulders"
+          ],
+          "imageIds": [
+            "img_088",
+            "img_070",
+            "img_071"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "shoulder-horizontal-adduction",
+            "elbow-extension",
+            "scapular-control"
+          ],
+          "imageIds": [
+            "img_072",
+            "img_073",
+            "img_035"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "supported-chest-opener"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "shoulders",
+            "muscular-system"
+          ],
+          "imageIds": [
+            "img_036",
+            "img_037",
+            "img_041"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "push-up": {
+      "exerciseId": "push-up",
+      "displayName": "Push-up",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "chest",
+            "triceps"
+          ],
+          "imageIds": [
+            "img_088",
+            "img_070",
+            "img_071"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "elbow-extension",
+            "shoulder-horizontal-adduction",
+            "trunk-stability"
+          ],
+          "imageIds": [
+            "img_072",
+            "img_073",
+            "img_055"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "wrist-forearm-stretch",
+            "supported-chest-opener"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "shoulders",
+            "muscular-system"
+          ],
+          "imageIds": [
+            "img_056",
+            "img_035",
+            "img_036"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "shoulder-press": {
+      "exerciseId": "shoulder-press",
+      "displayName": "Shoulder Press",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "shoulders",
+            "triceps"
+          ],
+          "imageIds": [
+            "img_070",
+            "img_071",
+            "img_072"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "shoulder-flexion-abduction",
+            "elbow-extension",
+            "scapular-upward-rotation"
+          ],
+          "imageIds": [
+            "img_073",
+            "img_088",
+            "img_076"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "childs-pose-side-reach",
+            "constructive-rest"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "shoulders",
+            "spine"
+          ],
+          "imageIds": [
+            "img_077",
+            "img_035",
+            "img_036"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "lateral-raise": {
+      "exerciseId": "lateral-raise",
+      "displayName": "Lateral Raise",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "shoulders",
+            "scapula"
+          ],
+          "imageIds": [
+            "img_070",
+            "img_071",
+            "img_072"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "shoulder-abduction"
+          ],
+          "imageIds": [
+            "img_073",
+            "img_088",
+            "img_035"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "constructive-rest"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "shoulders",
+            "joint-actions"
+          ],
+          "imageIds": [
+            "img_036",
+            "img_037",
+            "img_041"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "bicep-curl": {
+      "exerciseId": "bicep-curl",
+      "displayName": "Biceps Curl",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "biceps",
+            "elbow"
+          ],
+          "imageIds": [
+            "img_025",
+            "img_081",
+            "img_035"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "elbow-flexion",
+            "forearm-supination"
+          ],
+          "imageIds": [
+            "img_036",
+            "img_037",
+            "img_087"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "wrist-forearm-stretch"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "muscle-contraction",
+            "muscular-system"
+          ],
+          "imageIds": [
+            "img_025",
+            "img_081",
+            "img_035"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "tricep-extension": {
+      "exerciseId": "tricep-extension",
+      "displayName": "Triceps Extension",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "triceps",
+            "elbow"
+          ],
+          "imageIds": [
+            "img_070",
+            "img_071",
+            "img_072"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "elbow-extension"
+          ],
+          "imageIds": [
+            "img_073",
+            "img_035",
+            "img_036"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "overhead-triceps-stretch"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "muscular-system",
+            "joint-actions"
+          ],
+          "imageIds": [
+            "img_037",
+            "img_041"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    },
+    "plank": {
+      "exerciseId": "plank",
+      "displayName": "Plank",
+      "sequence": [
+        {
+          "step": 1,
+          "cardType": "anatomy",
+          "topics": [
+            "spine-core",
+            "posture"
+          ],
+          "imageIds": [
+            "img_095",
+            "img_055",
+            "img_056"
+          ],
+          "instruction": "Teach the main working muscle in one simple visual point."
+        },
+        {
+          "step": 2,
+          "cardType": "biomechanics",
+          "topics": [
+            "isometric-spinal-stability"
+          ],
+          "imageIds": [
+            "img_076",
+            "img_077",
+            "img_042"
+          ],
+          "instruction": "Explain the joint action or movement pattern the lift uses."
+        },
+        {
+          "step": 3,
+          "cardType": "yoga-pose",
+          "poseSuggestions": [
+            "childs-pose-side-reach",
+            "constructive-rest"
+          ],
+          "instruction": "Suggest one gentle complementary yoga pose only if the rest timer has enough time and it will not interfere with the next set."
+        },
+        {
+          "step": 4,
+          "cardType": "body-system",
+          "topics": [
+            "spine",
+            "posture"
+          ],
+          "imageIds": [
+            "img_035",
+            "img_036",
+            "img_037"
+          ],
+          "instruction": "Connect the exercise to a broader system: nervous system, joints, breathing, or recovery."
+        }
+      ],
+      "avoidRepeating": "Store shown card ids locally and cycle to the next step or topic on the next rest period."
+    }
+  }
+}

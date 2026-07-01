@@ -1,5 +1,5 @@
 {
-  "version": "4.0-with-ontology-book-index",
+  "version": "5.0-exercise-yoga-image-context",
   "baseUrl": "https://dawnai-ethicist.github.io/overload-knowledge-base/",
   "entryPoint": "https://dawnai-ethicist.github.io/overload-knowledge-base/knowledge-index.json",
   "files": {
@@ -10,7 +10,9 @@
     "facts": "https://dawnai-ethicist.github.io/overload-knowledge-base/rest-facts.json",
     "yogaPoseMap": "https://dawnai-ethicist.github.io/overload-knowledge-base/yoga-pose-map.json",
     "ontology": "https://dawnai-ethicist.github.io/overload-knowledge-base/ontology.json",
-    "bookIndex": "https://dawnai-ethicist.github.io/overload-knowledge-base/book-index.json"
+    "bookIndex": "https://dawnai-ethicist.github.io/overload-knowledge-base/book-index.json",
+    "imageContext": "https://dawnai-ethicist.github.io/overload-knowledge-base/image-context.json",
+    "restLearningPaths": "https://dawnai-ethicist.github.io/overload-knowledge-base/rest-learning-paths.json"
   },
   "integrationNotes": [
     "Generated from the actual GitHub repo zip; do not use old group-full-body paths.",
@@ -61,12 +63,13 @@
   "conceptCount": 19,
   "factCount": 42,
   "recommendedRetrievalFlow": [
-    "exercise-map.json",
-    "ontology.json",
-    "book-index.json",
-    "images.json",
-    "rest-facts.json",
-    "yoga-pose-map.json"
+    "Load knowledge-index.json once and cache JSON for the session.",
+    "Normalize current exerciseId/exerciseName and match exercise-map.json by key or aliases.",
+    "Use exercise ontologyTopics and bookTopics to retrieve relevant ontology/book-index concepts.",
+    "Use imageIds from exercise-map first, then image-context to understand what each image shows.",
+    "Use rest-learning-paths to choose the next non-repeated anatomy/biomechanics/yoga card.",
+    "Use yoga-pose-map only for gentle complementary pose suggestions; never force deep stretching between heavy sets.",
+    "If any file fails to load, fall back to existing local RestTimer facts."
   ],
   "notes": "v4 adds ontology.json and book-index.json as the routing bridge between exercises, body concepts, Swanson book topics, images, rest facts, and yoga pose suggestions."
 }
